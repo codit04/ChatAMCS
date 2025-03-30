@@ -1,0 +1,298 @@
+{
+    "name": "Dr.Senthil Kumar M",
+    "academic_title": "Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "28/06/1999",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - Gandhigram Rural Institute (Deemed University)   - 1996M.Sc  ( Applied Mathematics )  - Thiagrarajar College of Engineering   - 1998M.Phil  ( Mathematics )  - Bharathiar University  - 09/01/2004Ph.D  ( Mathematics )  - Anna University  - 05/19/2009Supervisor: Dr.Arumuganathan.R"
+    ],
+    "email": "msk.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=sh3pjU8AAAAJ",
+    "in_brief": "Dr.M.Senthil Kumar is a Professor in the Department of Applied Mathematics and Comput. Sciences, PSG College of Technology.   He has got Post Doctoral fellowship from the Department of Nanobio Materials and Electronics, (WCU), Gwangju Institute of Science and Technology(GIST), Gwangju, S. Korea under the guidance of Prof. Khosrow Sohraby, Curators Professor, School of Electrical Engineering, University of Missouri- Kansas City during 2010-2011.  He has been visiting GIST as Visiting Professor during the vacation period. Over 20 years of teaching and research experience, his research aimed to incorporate complex traffic patterns in analytic and simulation models. Additionally, he has experience in machine learning and federated learning, which has broadened his perspective and provided new insights into the potential of artificial intelligence in data privacy and security. One of his recent research areas is the Age of Information, which is a novel metric for evaluating the freshness of information in communication systems.  He served as an Associate Editor of Computers and Electrical Engineering (Elsevier Journal) from 2017 to 2019.",
+    "research_areas": [
+        "Stochastic Models",
+        "Optimization Techniques",
+        "Federated Learning",
+        "Epidemic Models in Complex Networks"
+    ],
+    "subject_expertise": [
+        "Reliability Engineering",
+        "Differential Equations",
+        "Linear Algebra and Numerical Analysis",
+        "Federated Learning",
+        "Stochastic Models"
+    ],
+    "publications": [
+        {
+            "journal": "Ieee Communications Letters",
+            "title": "Age Analysis of Correlated Information in Multi-Source Updating Systems With MAP Arrivals",
+            "year": "2024",
+            "role": "Main Author",
+            "volume": "28"
+        },
+        {
+            "journal": "Wireless Personal Communications",
+            "title": "Optimal Control of Computer Virus Spreading Model with Partial Immunization",
+            "year": "2024",
+            "role": "Co Author",
+            "volume": "134"
+        },
+        {
+            "journal": "Results in Control and Optimization",
+            "title": "Optimal control of a rumor propagation model in online social network by considering influential nodes",
+            "year": "2024",
+            "role": "Co Author",
+            "volume": "14"
+        },
+        {
+            "journal": "Results in Control and Optimization",
+            "title": "Control of water-borne diseases via awareness and vaccination using multilayer networks",
+            "year": "2023",
+            "role": "Co Author",
+            "volume": "12"
+        },
+        {
+            "journal": "International Journal Of Modern Physics C",
+            "title": "Optimal control of a stochastic rumour propagation in online social networks",
+            "year": "2023",
+            "role": "Co Author",
+            "volume": ""
+        },
+        {
+            "journal": "IEEE Communications Letters",
+            "title": "On the Age of Status Updates in Unreliable Multi-Source M/G/1 Queueing Systems",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "27"
+        },
+        {
+            "journal": "Performance Evaluation",
+            "title": "Strategic access in a Green IoT(Internet of Things) system with an unreliable server",
+            "year": "2022",
+            "role": "Co Author",
+            "volume": ""
+        },
+        {
+            "journal": "IEEE Transactions On Knowledge And Data Engineering",
+            "title": "Co-Evolution of Viral Processes and Structural Stability in Signed Social Networks",
+            "year": "2022",
+            "role": "Co Author",
+            "volume": "0"
+        },
+        {
+            "journal": "Mathematical Biosciences and Engineering",
+            "title": "Analysis of mobility based COVID-19 epidemic model using Federated Multitask Learning",
+            "year": "2022",
+            "role": "Co Author",
+            "volume": "19"
+        },
+        {
+            "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES INDIA SECTION A-PHYSICAL SCIENCES",
+            "title": "Dynamics of Trachoma Epidemic in Human Contact Network with Seasonally Varying Infectious Medium",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "91"
+        },
+        {
+            "journal": "ENERGIES",
+            "title": "On the Retrial-Queuing Model for Strategic Access and Equilibrium-Joining Strategies of Cognitive Users in Cognitive-Radio Networks with Energy Harvesting",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "14"
+        },
+        {
+            "journal": "INTERNATIONAL JOURNAL OF BIOMATHEMATICS",
+            "title": "Optimal control of alcoholism spreading through awareness over multiplex network",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "0"
+        },
+        {
+            "journal": "INTERNATIONAL JOURNAL OF MODERN PHYSICS C",
+            "title": "Dynamics of COVID-19 spreading model with social media public health awareness diffusion over multiplex networks: Analysis and control",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "32"
+        },
+        {
+            "journal": "INTERNATIONAL JOURNAL OF MODERN PHYSICS C",
+            "title": "Optimal control of a rumor model with group propagation over complex networks",
+            "year": "2020",
+            "role": "Co Author",
+            "volume": "32"
+        },
+        {
+            "journal": "WIRELESS PERSONAL COMMUNICATIONS",
+            "title": "Optimal Control of Malware Spreading Model with Tracing and Patching in Wireless Sensor Networks",
+            "year": "2020",
+            "role": "Main Author",
+            "volume": "3"
+        },
+        {
+            "journal": "JOURNAL OF CLEANER PRODUCTION",
+            "title": "Hierarchical optimization of green routing for mobile advertisement vehicle",
+            "year": "2020",
+            "role": "Co Author",
+            "volume": "258"
+        },
+        {
+            "journal": "IEEE COMMUNICATIONS LETTERS",
+            "title": "Heterogeneous Projection of Disruptive Malware Prevalence in Mobile Social Networks",
+            "year": "2020",
+            "role": "Co Author",
+            "volume": "24"
+        },
+        {
+            "journal": "COMPUTING",
+            "title": "Dynamic behaviour of competing memes\u2019 spread with alert influence in multiplex social-networks",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "8"
+        },
+        {
+            "journal": "OPERATIONAL RESEARCH",
+            "title": "Performance analysis of an unreliable M/G/1 retrial queue with two-way communication",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": ""
+        },
+        {
+            "journal": "Computers and Electrical Engineering",
+            "title": "Introduction to the Special section on Aadvanced Computing in Networking and Intelligent Systems",
+            "year": "2017",
+            "role": "Main Author",
+            "volume": "57"
+        },
+        {
+            "journal": "IEEE Communications Letters",
+            "title": "Mean-Field Dynamics of Inter-Switching Memes Competing Over Multiplex Social Networks",
+            "year": "2017",
+            "role": "Co Author",
+            "volume": "21"
+        },
+        {
+            "journal": "Operational Research",
+            "title": "Performance analysis of an M/G/1 retrial queue with general retrial time, modified M-vacations and collision",
+            "year": "2017",
+            "role": "Co Author",
+            "volume": "17"
+        },
+        {
+            "journal": "International Journal of Operational Research",
+            "title": "Performance analysis of an M/G/1 retrial queue with general retrial time, modified M-vacations and collision",
+            "year": "2017",
+            "role": "Co Author",
+            "volume": ""
+        },
+        {
+            "journal": "RAIRO-Operations Research",
+            "title": "Analysis of Discrete-time queues with correlated arrivals, negative customers and server interruption",
+            "year": "2016",
+            "role": "Co Author",
+            "volume": "50"
+        },
+        {
+            "journal": "IEEE Systems Journal",
+            "title": "System Dynamics of a Refined Epidemic Model for Infection Propagation Over Complex Networks",
+            "year": "2016",
+            "role": "Co Author",
+            "volume": "10"
+        },
+        {
+            "journal": "RAIRO - Operations Research",
+            "title": "Analysis of Discrete-time queues with correlated arrivals, negative customers and server interruption",
+            "year": "2016",
+            "role": "Co Author",
+            "volume": ""
+        },
+        {
+            "journal": "IEEE Communications Letters",
+            "title": "Stability and Immunization Analysis of a Malware Spread Model over Scale-Free Networks",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "18"
+        },
+        {
+            "journal": "RAIRO-Operations Research",
+            "title": "Performance analysis of single server non-Markovian retrial queue with working vacation and constant retrial policy",
+            "year": "2014",
+            "role": "Co Author",
+            "volume": "48"
+        },
+        {
+            "journal": "IEEE Communications Letters",
+            "title": "Delay Analysis of Orderly Reattempts in Retrial Queueing System with Phase Type Retrial Time",
+            "year": "2013",
+            "role": "Main Author",
+            "volume": "17"
+        },
+        {
+            "journal": "Applied Mathematical Sciences",
+            "title": "Preemptive resume priority retrial queue with two classes of MAP arrivals",
+            "year": "2013",
+            "role": "Main Author",
+            "volume": "7"
+        },
+        {
+            "journal": "RAIRO-Operations Research",
+            "title": "An MX/G/1 unreliable retrial queue with two phase service and persistence behaviour of customers in service.",
+            "year": "2013",
+            "role": "Main Author",
+            "volume": "47"
+        },
+        {
+            "journal": "International Journal of Operational Research",
+            "title": "Cost analysis of a bulk service retrial queue",
+            "year": "2012",
+            "role": "Co Author",
+            "volume": "14"
+        },
+        {
+            "journal": "RAIRO-Operations Research",
+            "title": "A discrete-time Geo [X]/G/1 retrial queue with general retrial time and M-additional options for service",
+            "year": "2011",
+            "role": "Main Author",
+            "volume": "45"
+        },
+        {
+            "journal": "International Journal of Operational Research",
+            "title": "An MX/G/1 retrial queue with two-phase service subject to active server breakdowns and two types of repair",
+            "year": "2010",
+            "role": "Main Author",
+            "volume": "8"
+        },
+        {
+            "journal": "Tamkang Journal of Science and Engineering",
+            "title": "Performance Analysis of Single Server Retrial Queue with General Retrial Time, Impatient Subscribers, Two Phases of Service and Bernoulli Schedule",
+            "year": "2010",
+            "role": "Main Author",
+            "volume": "13"
+        },
+        {
+            "journal": "Int. J. Open Problems Compt. Math",
+            "title": "Performance analysis of an M/G/1 retrial queue with non-persistent calls, two phases of heterogeneous service and different vacation policies",
+            "year": "2009",
+            "role": "Main Author",
+            "volume": "2"
+        },
+        {
+            "journal": "Quality technology and Quantitative Management",
+            "title": "On the single server Batch Arrival Retrial Queue with General vacation Time under Bernoulli schedule and two phases of Heterogeneous service",
+            "year": "2008",
+            "role": "Main Author",
+            "volume": "5"
+        },
+        {
+            "journal": "International Journal of Operations Research",
+            "title": "Analysis of Single Server Retrial Queue with Batch Arrivals, Two Phases of Heterogeneous Service and Multiple Vacations with N\u2013Policy",
+            "year": "2008",
+            "role": "Main Author",
+            "volume": "5"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C5457",
+    "faculty_id": "C5457",
+    "url": "https://www.psgtech.edu/profile.php?NjM0NzAwNzE1NTQ1Nw%3D%3D",
+    "url_id": "NjM0NzAwNzE1NTQ1Nw%3D%3D",
+    "local_image_path": "faculty_images/Dr.Senthil Kumar M.jpg"
+}

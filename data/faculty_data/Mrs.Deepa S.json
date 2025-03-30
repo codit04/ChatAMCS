@@ -1,0 +1,40 @@
+{
+    "name": "Mrs.Deepa S",
+    "academic_title": "Assistant Professor (Sr. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "11/09/2006",
+    "qualifications": [
+        "B.Sc  ( Computer Science )  - BHARATHIAR UNIVERSITY   - 2000M.C.A  - BHARATHIAR UNIVERSITY   - 2003M.Phil  ( Computer Science )  - BHARATHIAR UNIVERSITY  - 05/27/2009",
+        "Certificate Course(s):-   Completed IBM mainframe course"
+    ],
+    "email": "nsd.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=Gj6_OtgAAAAJ&hl=en",
+    "in_brief": "S.Deepa has over 15 years of academic experience and currently holds the position of Assistant Professor (Senior Grade) in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology, India. She received her M.Phil (Computer Science) and M.C.A degrees from Bharathiar University.She has guided more than 50 B.Sc (CT ,IT & CSD) and M.Sc (CT) Projects.  Her research interests include Network analysis and web mining.",
+    "research_areas": [
+        "Wireless Networks",
+        "Machine learning"
+    ],
+    "subject_expertise": [
+        "Computer Networks",
+        "Operating Systems",
+        "Microprocessor and Interfacing",
+        "Web Programming",
+        "Microprocessor and Microcontrollers",
+        "Open Source Systems",
+        "PYTHON"
+    ],
+    "publications": [
+        {
+            "journal": "",
+            "title": "Wireless Access in Vehicular Environment (WAVE)",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": "14"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3253",
+    "faculty_id": "C3253",
+    "url": "https://psgtech.edu/profile.php?MTY1MzI2NDkyMzMyNTM%3D",
+    "url_id": "MTY1MzI2NDkyMzMyNTM%3D",
+    "local_image_path": "faculty_images/Mrs.Deepa S.jpg"
+}

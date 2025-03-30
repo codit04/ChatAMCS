@@ -1,0 +1,57 @@
+{
+    "name": "Dr.Periakaruppan R M",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "05/07/1999",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - Bharathiar University   - 1986Main  ( Maths )  - Bharathiar University   - 1988M.C.A  ( Computer Applications )  - Bharathidasam University   - 1997  ( Computer Application )  - Bharathiar University   - 1990Ph.D  ( Computer Science )  - Anna University  - 04/17/2014Supervisor: R.Nadarajan"
+    ],
+    "email": "rmp.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=tI7IrhYAAAAJ",
+    "in_brief": "Dr. RM. Periakaruppan has more than 21 years of teaching experience. He has guided more than 150 MCA and M.Sc (SE) and M.Sc(TCS) Projects. \nHe got a sponsored project Web Engineering Lab under the MODROBS of AICTE for 12 Lakhs during the year 2002. He visited Graz University, Austria during september 2013 and Tajen University, Taiwan during October 2013 topresent papers in international conferences. Currently, he is the department website in-charge.",
+    "research_areas": [
+        "Data Mining",
+        "Optimization Techniques"
+    ],
+    "subject_expertise": [
+        "Optimization Techniques",
+        "Data Mining",
+        "Advanced Data Structures",
+        "Data Structures and Algorithms",
+        "Mobile Computing",
+        "Marketing Analytics",
+        "Semantic Web",
+        "XML and its Applications",
+        "Web Services",
+        "C Programming",
+        "Object Oriented Programming"
+    ],
+    "publications": [
+        {
+            "journal": "International Journal of Educational Reform",
+            "title": "COVID-19 Pandemic is an Eye-Opener for Academicians to Use the Technology in the Teaching\u2013 Learning Process",
+            "year": "2023",
+            "role": "Co Author",
+            "volume": "32"
+        },
+        {
+            "journal": "International Journal of Nonlinear Analysis and Applications",
+            "title": "Personalized local search using ontology based user profile category model",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "12"
+        },
+        {
+            "journal": "International Journal Of Nonlinear Analysis And Applications",
+            "title": "Optimization of web search techniques using frequency analysis",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "12"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C1354",
+    "faculty_id": "C1354",
+    "url": "https://psgtech.edu/profile.php?MjAxNTMzMzc0MzEzNTQ%3D",
+    "url_id": "MjAxNTMzMzc0MzEzNTQ%3D",
+    "local_image_path": "faculty_images/Dr.Periakaruppan R M.jpg"
+}

@@ -1,0 +1,94 @@
+{
+    "name": "Dr.Poonthalir G",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "13/06/2008",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - University of Madras   - 1998M.C.A  - University of Madras   - 2001Ph.D  ( Computer Science )  - Anna University Supervisor: Dr. R.Nadarajan, Professor and Head, Dept of Am&CS"
+    ],
+    "email": "gpr.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=0_k7-McAAAAJ",
+    "in_brief": "G. Poonthalir is working in the Department since 2008. Her teaching interests include Design and  analysis of algorithms, Randomized Algorithms, Approximation algorithms, data structures and soft computing. Her research interests spans around combinatorial optimization and applying machine learning and soft computing techniques to solve these problems. Her primary research area include Vehicle routing, Swarm intelligence and Meta heuristic algorithms .  Students with a zeal to learn with passion and dedication in the areas of optimization, machine learning and soft computing can contact her for research (Anna University).  She is also an active reviewer of journals which includes IEEE transactions, Elsevier, Taylor and Francis and Wiley.",
+    "research_areas": [
+        "Machine Learning",
+        "Deep Learning",
+        "Soft Computing",
+        "Computational Intelligence",
+        "Swarm Intelligence",
+        "Optimization Techniques",
+        "vehicle Routing"
+    ],
+    "subject_expertise": [
+        "Data Structures",
+        "Advanced data structures",
+        "Applied Soft Computing",
+        "Randomized algorithms",
+        "Design and Analysis of Algorithms",
+        "Soft Computing",
+        "Computational Intelligence",
+        "Approximation Algorithms"
+    ],
+    "publications": [
+        {
+            "journal": "JOURNAL OF CLEANER PRODUCTION",
+            "title": "Hierarchical optimization of green routing for mobile advertisement vehicle",
+            "year": "2020",
+            "role": "Main Author",
+            "volume": "258"
+        },
+        {
+            "journal": "EXPERT SYSTEMS WITH APPLICATIONS",
+            "title": "Green Vehicle Routing Problem with Queues",
+            "year": "2019",
+            "role": "Main Author",
+            "volume": "138"
+        },
+        {
+            "journal": "Expert Systems with applications",
+            "title": "A Fuel Efficient Green Vehicle Routing Problem with varying speed constraint (F-GVRP)",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": "100"
+        },
+        {
+            "journal": "Rairo - Opeations Research",
+            "title": "Vehicle Routing Problem with Limited Refueling Halts with Particle Swarm Optimization using Greedy Mutation Operator",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "49"
+        },
+        {
+            "journal": "International Journal of Operational Research",
+            "title": "Nested particle swarm optimisation for multi-depot vehicle routing problem",
+            "year": "2013",
+            "role": "Co Author",
+            "volume": "16"
+        },
+        {
+            "journal": "Applied Artificial Intelligence",
+            "title": "Metaheuristic approach for the multi-depot vehicle routing problem",
+            "year": "2012",
+            "role": "Co Author",
+            "volume": "26"
+        },
+        {
+            "journal": "Journal of Advances in Information Technology",
+            "title": "A hybrid particle swarm optimization with genetic operators for vehicle routing problem",
+            "year": "2010",
+            "role": "Co Author",
+            "volume": "1"
+        },
+        {
+            "journal": "INFOCOMP",
+            "title": "Improved k-means algorithm for capacitated clustering problem",
+            "year": "2009",
+            "role": "Co Author",
+            "volume": "8"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3573",
+    "faculty_id": "C3573",
+    "url": "https://psgtech.edu/profile.php?MTUzMTAzOTkxNjM1NzM%3D",
+    "url_id": "MTUzMTAzOTkxNjM1NzM%3D",
+    "local_image_path": "faculty_images/Dr.Poonthalir G.jpg"
+}

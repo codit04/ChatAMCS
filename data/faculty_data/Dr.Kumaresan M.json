@@ -1,0 +1,46 @@
+{
+    "name": "Dr.Kumaresan M",
+    "academic_title": "Assistant Professor (Sl. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "01/06/2011",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - Thiruvalluvar Government Arts College, Rasipuram   - 2004M.Sc  ( Mathematics )  - Government Arts College (Autonomous), Coimbatore   - 2007M.Phil  ( Operator Theory )  - Government Arts College (Autonomous), Coimbatore  - 02/12/2011Ph.D  ( Computer Science )  - Anna University  - 11/07/2023Supervisor: Dr. M. Senthilkumar"
+    ],
+    "email": "mkn.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?user=Nty_VF0AAAAJ&hl=en&oi=sra",
+    "in_brief": "Dr. M. Kumaresan has more than 13 years of teaching experience. His Research  interests Federated Multi-task Learning and Machine Learning.\nHe has passed SLET (State Level Eligibility Test for Lecturers.)",
+    "research_areas": [
+        "Machine Learning",
+        "Applied Mathematics for Computer Science e"
+    ],
+    "subject_expertise": [
+        "Calculus and Its Applications",
+        "Differential Equations",
+        "Linear Algebra and Fourier Series",
+        "Linear Algebra and Numerical Analysis",
+        "Optimization Techniques",
+        "Transforms and Complex Variables",
+        "Applied Linear Algebra"
+    ],
+    "publications": [
+        {
+            "journal": "Mathematical Biosciences and Engineering",
+            "title": "Analysis of mobility based COVID-19 epidemic model using Federated Multitask Learning",
+            "year": "2022",
+            "role": "Main Author",
+            "volume": "19"
+        },
+        {
+            "journal": "International Journal of Mathmatical Archive",
+            "title": "N- Class Composition Operators",
+            "year": "2011",
+            "role": "Co Author",
+            "volume": "2(12)"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C5387",
+    "faculty_id": "C5387",
+    "url": "https://www.psgtech.edu/profile.php?MTQwMDMwODczMTUzODc%3D",
+    "url_id": "MTQwMDMwODczMTUzODc%3D",
+    "local_image_path": "faculty_images/Dr.Kumaresan M.jpg"
+}

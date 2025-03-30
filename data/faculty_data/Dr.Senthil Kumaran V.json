@@ -1,0 +1,138 @@
+{
+    "name": "Dr.Senthil Kumaran V",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "19/07/2007",
+    "qualifications": [
+        "B.Sc  - M. K. University   - 1991M.Sc  - M. K. University   - 1995M.Tech  ( Computer Science ) M.Phil  ( Object Oriented Analysis  )  - Bharathiar University Ph.D  ( Faculty of Scienece and Humanities )  - PSG College of Technology  - 08/22/2014Supervisor: Sankar A",
+        "Certificate Course(s):-   M.Tech (IT)"
+    ],
+    "email": "vsk.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=eR1PafIAAAAJ&hl=en",
+    "in_brief": "Dr.V.Senthil kumaran has more than more than 20 years of teaching experience. He guided 15 M.Phil scholars and more than 150 MCA, M.Sc (SE) and M.Sc(TCS) Projects.\nHe is the member of ISTE, Computer Society of India. He has visited Tajen university, Taiwan during October 2013 to present a paper\nin international conference.He has attended many Staff Development Programmes, Workshops, Conferences and Awareness Programmes.\nHe is the reviewer of Tata McGraw Hill publications. Currently, he is the department lab in-charge.",
+    "research_areas": [
+        "Intelligent Information Retrieval",
+        "Operating Systems",
+        "Semantic Web",
+        "Service Oriented Architecture and Web Services"
+    ],
+    "subject_expertise": [
+        "Semantic Web services",
+        "Computer Architecture",
+        "Operating Systems",
+        "C Programming",
+        "Unix System Programming"
+    ],
+    "publications": [
+        {
+            "journal": "Library Hi Tech",
+            "title": "Towards personal learning environment by enhancing adaptive access to digital library using ontology-supported collaborative filtering",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "41"
+        },
+        {
+            "journal": "Interactive Learning Environments",
+            "title": "Distributed ensemble based iterative classification for churn analysis and prediction of dropout ratio in e-learning",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "31"
+        },
+        {
+            "journal": "Jurnal Pendidikan",
+            "title": "A Review on Gamification in e-learning: Effects and Challenges",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "24"
+        },
+        {
+            "journal": "International Journal Of Learning Technology",
+            "title": "Prediction and classification of churners in online learning using ensemble of distributed iterative classifiers",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "17"
+        },
+        {
+            "journal": "International Journal of Educational Reform",
+            "title": "COVID-19 Pandemic is an Eye-Opener for Academicians to Use the Technology in the Teaching\u2013 Learning Process",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "32"
+        },
+        {
+            "journal": "NVEO \u2013 Natural Volatiles & Essential Oils",
+            "title": "Iot Based Authentication And Key Establishment Protocol For Modern Agriculture",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "8"
+        },
+        {
+            "journal": "Int.  J.  Computational  Systems  Engineering",
+            "title": "Group recommendation in online learning environment using community detection",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "2"
+        },
+        {
+            "journal": "International Arab Journal of e-Technology",
+            "title": "Towards an automated system for short-answer assessment using ontology mapping",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "4"
+        },
+        {
+            "journal": "Journal of e-Learning and Knowledge Society",
+            "title": "mTeacher: a tool for self assessment and providing personalized assistance to m- learners: a framework and evaluation",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "11"
+        },
+        {
+            "journal": "International Journal of Education, e-Business, e-Management and e-Learning",
+            "title": "Towards Formative Assessment of e-Learners Using Concept Map",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "5"
+        },
+        {
+            "journal": "Journal of e-Learning and Knowledge Society",
+            "title": "Community based recommendation in e-learning systems",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "10"
+        },
+        {
+            "journal": "International Journal of    Computer Applications",
+            "title": "Recommendation System for Adaptive E-learning using Semantic Net",
+            "year": "2013",
+            "role": "Main Author",
+            "volume": "63"
+        },
+        {
+            "journal": "Int. J. Metadata, Semantics and Ontologies",
+            "title": "Towards an automated system for intelligent screening of candidates for recruitment using ontology mapping (EXPERT)",
+            "year": "2013",
+            "role": "Main Author",
+            "volume": "8"
+        },
+        {
+            "journal": "In Advances in Web-Based Learning\u2013ICWL 2013",
+            "title": "An automated assessment of students\u2019 learning in e-learning using concept map and ontology mapping",
+            "year": "2013",
+            "role": "Main Author",
+            "volume": "4"
+        },
+        {
+            "journal": "Int.  J.  Computational  Systems  Engineering",
+            "title": "Expert  locator  using  concept  linking",
+            "year": "2012",
+            "role": "Main Author",
+            "volume": "1"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3391",
+    "faculty_id": "C3391",
+    "url": "https://psgtech.edu/profile.php?MTk4Nzc3NTM0NDMzOTE%3D",
+    "url_id": "MTk4Nzc3NTM0NDMzOTE%3D",
+    "local_image_path": "faculty_images/Dr.Senthil Kumaran V.jpg"
+}

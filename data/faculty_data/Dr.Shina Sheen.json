@@ -1,0 +1,78 @@
+{
+    "name": "Dr.Shina Sheen",
+    "academic_title": "Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "10/06/2005",
+    "qualifications": [
+        "B.Sc  ( Physics )  - Calicut University   - 1993M.C.A  - Bharathiar University   - 1996Ph.D  ( Computer Science )  - Anna University  - 02/23/2015Supervisor: Dr.R.AnithaComputer Science  ( Computer Science )  - Anna University  - 05/20/2007",
+        "Certificate Course(s):-   GIAC Certified Intrusion Analy"
+    ],
+    "email": "hod.amcs@psgtech.ac.in       ssh.amcs@psgtech.ac.i",
+    "google_scholar": "https://scholar.google.co.in/citations?user=d0ptyhgAAAAJ&hl=en",
+    "in_brief": "Shina Sheen is the Professor and Head in the Department of Applied Mathematics and Computational Sciences of PSG College of Technology, Coimbatore India. She received her PhD degree from Anna  University. She is also the programme head for the MSc Cyber Security in the department. She holds the SANS GCIA certification in Intrusion detection in depth and also attended the live training of Hacker tools and techniques GCIH certification programme of SANS. She has two funded projects sanctioned by the Department of Science and Technology, Government of India one on Proactive detection of Ransomware and the other an infrastructure development fund in setting up a Centre for Cybersecurity Research and Education. Her current professional interests are in Computer Security and Data mining and specially focusing towards proactive methods for ransomware detection.\nShe is a member of ACM, Cryptology Research Society of India and the Computer Society of India.",
+    "research_areas": [
+        "Information Security",
+        "Ransomware Attack Detection"
+    ],
+    "subject_expertise": [
+        "Data Mining",
+        "TCP/IP Networks and Applications",
+        "Intelligent Information Retrieval"
+    ],
+    "publications": [
+        {
+            "journal": "International Journal of Security and Networks",
+            "title": "Dynamic deception-based technique for crypto-ransomware detection",
+            "year": "2025",
+            "role": "Co Author",
+            "volume": "19"
+        },
+        {
+            "journal": "International Arab Journal Of Information Technology",
+            "title": "Focused Crawler Based on Reinforcement Learning and Decaying Epsilon - Greedy Exploration Policy",
+            "year": "2023",
+            "role": "Co Author",
+            "volume": "20"
+        },
+        {
+            "journal": "Computers and Electrical Engineering",
+            "title": "R-Sentry: Deception based ransomware detection using file access patterns",
+            "year": "2022",
+            "role": "Main Author",
+            "volume": "103"
+        },
+        {
+            "journal": "SN Computer Science",
+            "title": "Darknet Traffic Analysis and Classification Using Numerical AGM and Mean Shift Clustering Algorithm",
+            "year": "2019",
+            "role": "Co Author",
+            "volume": "1"
+        },
+        {
+            "journal": "Neurocomputing,",
+            "title": "Android based malware detection using a Multifeature Collaborative fusion approach",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "151"
+        },
+        {
+            "journal": "The Computer Journal",
+            "title": "Multilevel Analysis to Detect Covert Social Botnet in Multimedia Social Networks.",
+            "year": "2014",
+            "role": "Co Author",
+            "volume": "58"
+        },
+        {
+            "journal": "Pattern Recognition Letters",
+            "title": "Malware detection by pruning of parallel ensembles using harmony search",
+            "year": "2013",
+            "role": "Main Author",
+            "volume": "34"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3028",
+    "faculty_id": "C3028",
+    "url": "https://www.psgtech.edu/profile.php?MjM0Njc1MzE1MzAyOA%3D%3D",
+    "url_id": "MjM0Njc1MzE1MzAyOA%3D%3D",
+    "local_image_path": "faculty_images/Dr.Shina Sheen.jpg"
+}

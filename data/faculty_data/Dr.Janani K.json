@@ -1,0 +1,32 @@
+{
+    "name": "Dr.Janani K",
+    "academic_title": "Assistant Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "19/07/2024",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - PSG College of Arts and Science   - 2018M.Sc  ( Mathematics )  - Bharathiar University   - 2020Ph.D  ( Mathematics )  - Bharathiar University  - 04/26/2024Supervisor: Dr. R. Rakkiyappan"
+    ],
+    "email": "kja.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?user=UrgOthgAAAAJ&hl=en",
+    "in_brief": "",
+    "research_areas": [
+        "Machine Learning",
+        "Fuzzy sets and Systems",
+        "Differential Equations"
+    ],
+    "subject_expertise": [],
+    "publications": [
+        {
+            "journal": "Mathematics And Computers In Simulation",
+            "title": "Ensemble feature selection via CoCoSo method extended to interval-valued intuitionistic fuzzy environment",
+            "year": "2024",
+            "role": "Main Author",
+            "volume": "229"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6558",
+    "faculty_id": "C6558",
+    "url": "https://psgtech.edu/profile.php?MTY3OTMzNTEz",
+    "url_id": "MTY3OTMzNTEz",
+    "local_image_path": "faculty_images/Dr.Janani K.jpg"
+}

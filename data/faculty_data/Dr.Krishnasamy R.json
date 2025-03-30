@@ -1,0 +1,69 @@
+{
+    "name": "Dr.Krishnasamy R",
+    "academic_title": "Assistant Professor (Sr. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "12/06/2019",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - Sri Vasavi College   - 2006M.Sc  ( Mathematics )  - Bharathiar University   - 2008M.Phil  ( Mathematics )  - Gandhigram Rural University  - 09/24/2009Ph.D  ( Mathematics )  - The Gandhigram Rural Institute - Deemed University  - 12/11/2014Supervisor: Prof. P. Balasubramaniam"
+    ],
+    "email": "rky.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=EAc-l_sAAAAJ&hl=en",
+    "in_brief": "Dr. R. Krishnasamy presently holds the position of Assistant Professor (Senior Grade) at Department of Applied Mathematics and Computational Sciences, PSG College of Technology, Coimbatore since January 2023.  Previously he was an Assistant Professor in the same institution from 2019 to 2022. He did Post-Doctoral Research under the mentorship of Prof. Raju K George at Indian Institute of Space Science and Technology, Thiruvananthapuram sponsored by DST-SERB from June 2017 to May 2019.  He worked as an Assistant Professor in the Department of Mathematics, Knowledge Institute of Technology, Salem from June 2014 to May 2017.  He obtained his both M.Phil. and Ph.D degrees in Mathematics under the guidance of Prof. P. Balasubramaniam from The Gandhigram Rural Institute-Deemed University, Gandhigram in the year 2009 and 2014 respectively.   He post graduated in Mathematics from Bharathiar University in the year 2008 and graduated in Mathematics from Sri Vasavi College, Erode affiliated to Bharathiar University, Coimbatore in the year 2006. \n        He is a member of Indian Society for Technical Education. He has published 15 research papers in various  journals and two book chapters. His research areas include stability and stabilizability of dynamical systems especially neutral systems, singular systems and stochastic systems. He has qualified TNSET 2016 and GATE 2022 exams. He is a recognized research supervisor in Anna University to guide Ph.D candidates (Ref. No.: 2670016).",
+    "research_areas": [
+        "Differential Equations",
+        "LINEAR ALGEBRA",
+        "PROBABILITY AND RANDOM PROCESSES",
+        "Complex Networked Systems"
+    ],
+    "subject_expertise": [
+        "LINEAR ALGEBRA",
+        "Differential Equations",
+        "Abstract Algebra",
+        "Calculus and Its Applications",
+        "Optimization Techniques",
+        "Discrete Structures",
+        "Simulation and Modeling Techniques"
+    ],
+    "publications": [
+        {
+            "journal": "Mathematical Methods In The Applied Sciences",
+            "title": "Robust stability of uncertain stochastic switched inertial neural networks with time-varying delay using state-dependent switching law",
+            "year": "2023",
+            "role": "Co Author",
+            "volume": "46"
+        },
+        {
+            "journal": "Chaos Solitons & Fractals",
+            "title": "Non-fragile sampled-data control for synchronization of chaotic fractional-order delayed neural networks via LMI approach",
+            "year": "2023",
+            "role": "Co Author",
+            "volume": "169"
+        },
+        {
+            "journal": "International Journal Of Dynamical Systems And Differential Equations",
+            "title": "Mean-square asymptotic stability of stochastic inertial neural networks with time-delay and Markovian jump parameters",
+            "year": "2021",
+            "role": "Main Author",
+            "volume": "11"
+        },
+        {
+            "journal": "JOURNAL OF COMPUTATIONAL AND APPLIED MATHEMATICS",
+            "title": "Delay dependent stability analysis of neutral systems with mixed time-varying delays and nonlinear perturbations",
+            "year": "2010",
+            "role": "Co Author",
+            "volume": "235"
+        },
+        {
+            "journal": "MATHEMATICAL BIOSCIENCES",
+            "title": "Stochastic stability of Markovian jumping uncertain stochastic genetic regulatory networks with interval time-varying delays",
+            "year": "2010",
+            "role": "Co Author",
+            "volume": "226"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/c6287",
+    "faculty_id": "c6287",
+    "url": "https://www.psgtech.edu/profile.php?OTAzNTYzMDc0NjI4Nw%3D%3D",
+    "url_id": "OTAzNTYzMDc0NjI4Nw%3D%3D",
+    "local_image_path": "faculty_images/Dr.Krishnasamy R.jpg"
+}

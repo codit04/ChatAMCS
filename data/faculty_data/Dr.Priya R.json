@@ -1,0 +1,42 @@
+{
+    "name": "Dr.Priya R",
+    "academic_title": "Assistant Professor (Sr. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "18/11/2011",
+    "qualifications": [
+        "B.Sc  ( Computer Technology )  - PSG COLLEGE OF TECHNOLOGY   - 2007M.Sc  ( Computer Technology )  - PSG COLLEGE OF TECHNOLOGY   - 2009M.Phil  ( Network Security ) Ph.D  ( Computer Science )  - Anna University  - 08/14/2020Supervisor: Dr.R.Vidhyapriya"
+    ],
+    "email": "rpr.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?user=umDkYGoAAAAJ",
+    "in_brief": "R. Priya received her M.Phil. (Computer Science) from PSG College of Arts and Science in 2010. She obtained her M.Sc. (Computer Technology) and B.Sc. (Computer Technology) from PSG College of Technology in 2007 and 2009, respectively. Her research interests include data security and image processing. To her credit, she had published papers in reputed journals. currently she is working as Assistant Professor in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology.",
+    "research_areas": [
+        "Information Security",
+        "Image and Video Processing"
+    ],
+    "subject_expertise": [
+        "Operating Systems",
+        "Cryptography and Network Security",
+        "DBMS"
+    ],
+    "publications": [
+        {
+            "journal": "ENTROPY",
+            "title": "An Image Encryption Scheme Based on Block Scrambling, Modified Zigzag Transformation and Key Generation Using Enhanced Logistic\u2014Tent Map",
+            "year": "2019",
+            "role": "Main Author",
+            "volume": "7"
+        },
+        {
+            "journal": "MULTIMEDIA TOOLS AND APPLICATIONS",
+            "title": "Securing one-time password generation using elliptic-curve cryptography with self-portrait photograph for mobile commerce application",
+            "year": "2019",
+            "role": "Main Author",
+            "volume": "0"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C5465",
+    "faculty_id": "C5465",
+    "url": "https://www.psgtech.edu/profile.php?MTIwNDgxNTI5ODU0NjU%3D",
+    "url_id": "MTIwNDgxNTI5ODU0NjU%3D",
+    "local_image_path": "faculty_images/Dr.Priya R.jpg"
+}

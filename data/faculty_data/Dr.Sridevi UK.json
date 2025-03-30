@@ -1,0 +1,59 @@
+{
+    "name": "Dr.Sridevi UK",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "19/06/2019",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - Bharathiar University   - 1998M.C.A  - Bharathiar University   - 2001Ph.D  ( Computer Science )  - Anna University  - 12/10/2012Supervisor: Dr.N.Nagaveni"
+    ],
+    "email": "uks.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?hl=en&user=zCGwG04AAAAJ",
+    "in_brief": "Dr.Sridevi.U.K   is an Assistant Professor (Sl.Gr) in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology, Coimbatore. She has over 18 years of experience in teaching. Her research interest include Information Retrieval, Data Mining and Data Analytics.  She has around 15 publications in various Journals, Book Chapters and International/National Conference Proceedings. She is a recognized Research Supervisor in Anna University, Chennai",
+    "research_areas": [
+        "Data Mining",
+        "Big Data Analytics",
+        "Information Retrieval"
+    ],
+    "subject_expertise": [
+        "Big Data Analytics",
+        "Data Mining",
+        "Predictive Analytics",
+        "Machine Learning",
+        "Deep Learning"
+    ],
+    "publications": [
+        {
+            "journal": "International Journal Of System Assurance Engineering And Management",
+            "title": "A recent review of ransomware attacks on healthcare industries",
+            "year": "2024",
+            "role": "Co Author",
+            "volume": "0"
+        },
+        {
+            "journal": "Computer Systems Science & Engineering",
+            "title": "A Novel Segment White Matter Hyperintensities Approach for Detecting Alzheimer",
+            "year": "2022",
+            "role": "Co Author",
+            "volume": "44"
+        },
+        {
+            "journal": "Journal of Physics: Conference Series",
+            "title": "A study of automatic segmentation of White Matter Hyperintensity for detection of Alzheimer\u2019s disease",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "1"
+        },
+        {
+            "journal": "CEUR Workshop Proceedings",
+            "title": "An ontology-based sentiment analysis model towards classification of drug reviews",
+            "year": "2021",
+            "role": "Main Author",
+            "volume": "2786"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6292",
+    "faculty_id": "C6292",
+    "url": "https://www.psgtech.edu/profile.php?MTAzMTE2OTk3NTYyOTI%3D",
+    "url_id": "MTAzMTE2OTk3NTYyOTI%3D",
+    "local_image_path": "faculty_images/Dr.Sridevi UK.jpg"
+}

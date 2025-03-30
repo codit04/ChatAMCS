@@ -1,0 +1,68 @@
+{
+    "name": "Dr.Sasikumar M",
+    "academic_title": "Assistant Professor (Sl. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "01/06/2011",
+    "qualifications": [
+        "B.Sc  ( Home Science )  - Sengunthar Arts and Science College, Tiruchengode, Madras University   - 1993M.C.A  - Erode Arts College, Erode,Bharathiar Univesity   - 1996Ph.D  ( Computer Science )  - Anna University  - 05/22/2015Supervisor: Dr. R. AnithaM.Phil  ( Computer Science )  - Manonmaniam Sundaranar Uniersity  - 11/01/2003"
+    ],
+    "email": "msr.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?user=GQLH7JoAAAAJ&hl=en",
+    "in_brief": "I have 22 years experience in teaching. I have qualified SET examination on October 2012. Also, I have qualified NET examination on June 2020.",
+    "research_areas": [
+        "Wireless Sensor Networks"
+    ],
+    "subject_expertise": [
+        "Computer Networks",
+        "Mobile Computing",
+        "Web Programming",
+        "Data Communication Networks",
+        "TCP/IP Networks and Applications",
+        "Web Technologies",
+        "Web Services",
+        "Object Oriented Programming",
+        "XML and its Applications"
+    ],
+    "publications": [
+        {
+            "journal": "Pensee Journal",
+            "title": "Effective Load Balancing Scheme Using TLAH Protocol in Wireless Sensor Networks",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "76"
+        },
+        {
+            "journal": "Journal of Theoretical and Applied Information technology",
+            "title": "Resourceful and Secure Routing Protocol via Active Hierarchical Clustering Mechanisms for Wireless Sensor Network",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "vol. 62"
+        },
+        {
+            "journal": "International Review on Computer and Software",
+            "title": "Collaborator Homed Routing:   A Mechanism for Fault Free Routing on Wireless Sensor network",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "vol. 9"
+        },
+        {
+            "journal": "International Journal of Advance Research in Computer and Communication Engineering",
+            "title": "Performance Evaluation of Heterogeneous\u2013HEED Protocol for Wireless Sensor Networks",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "vol. 3"
+        },
+        {
+            "journal": "International Journal of Computer Application",
+            "title": "Cluster Based Routing Protocol for Wireless Sensor networks",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "vol.1"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C5380",
+    "faculty_id": "C5380",
+    "url": "https://psgtech.edu/profile.php?MjU4NDY5OTA1NTM4MA%3D%3D",
+    "url_id": "MjU4NDY5OTA1NTM4MA%3D%3D",
+    "local_image_path": "faculty_images/Dr.Sasikumar M.jpg"
+}

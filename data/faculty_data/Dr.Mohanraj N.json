@@ -1,0 +1,35 @@
+{
+    "name": "Dr.Mohanraj N",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "13/06/2022",
+    "qualifications": [
+        "B.Sc  ( Physics )  - Kongunadu Arts & Science College   - 1986M.C.A  ( Computer Applications )  - PSG COLLEGE OF TECHNOLOGY   - 1989  ( PGDBA )  - 2001Ph.D  ( Computer Science )  - Anna University  - 11/07/2016"
+    ],
+    "email": "nmr.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=Ln8nvagAAAAJ&hl=en",
+    "in_brief": "Mohanraj N has over 20 years of academic experience and 9 years of industrial experience. He currently holds the position of Associate Professor in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology, India. He received his Ph.D degree in Computer Applications in the year 2016 from Anna University. His research interests include Agile Software development and Software Engineering. Currently, he is the department alumni co-ordinator.",
+    "research_areas": [
+        "Agile Modeling"
+    ],
+    "subject_expertise": [
+        "Object Oriented Modelling and Design",
+        "Software Engineering",
+        "Software Testing and Quality Assurance",
+        "Software Project Management and Quality Assurance"
+    ],
+    "publications": [
+        {
+            "journal": "International Journal of Engineering Research & Technology",
+            "title": "Distributed Pair Programming : A Survey",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "vol No. 3"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C1355",
+    "faculty_id": "C1355",
+    "url": "https://psgtech.edu/profile.php?MTcxMjAzMTIwNDY0MTI%3D",
+    "url_id": "MTcxMjAzMTIwNDY0MTI%3D",
+    "local_image_path": "faculty_images/Dr.Mohanraj N.jpg"
+}

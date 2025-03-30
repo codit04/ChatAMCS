@@ -1,0 +1,58 @@
+{
+    "name": "Dr.Jeevadoss S",
+    "academic_title": "Assistant Professor (Sr. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "01/06/2016",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - Bishop Heber College, Tiruchirappalli   - 2006M.Sc  ( Mathematics )  - Bishop Heber College, Tiruchirappalli   - 2008M.Phil  ( Mathematics )  - Kongunadu Arts and Science College, Coimbatore  - 12/10/2010Ph.D  ( Mathematics )  - Periyar University  - 05/18/2015Supervisor: Dr. Muthusamy A",
+        "Certificate Course(s):-   Diploma in C, C++"
+    ],
+    "email": "sjd.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=9c0k4aYAAAAJ&hl=en",
+    "in_brief": "Dr. S. Jeevadoss currently holds the position of Assistant Professor, Department of Applied Mathematics and Computational Sciences at PSG College of Technology, India. He is working in this institution since June 2016. \nHe received his PhD in Mathematics. His research interest graph decomposition and design theory. His research publications include many peer reviewed International Journals and conference papers. \nHe has been a Mathematical Reviewer (American Mathematical Society) and a Zentralblatt MATH Reviewer (European Mathematical Society).\nHe is a recognized supervisor  in Anna University for Ph.D. research scholars (Ref.No. 2670069). He qualified the Tamil Nadu State Eligibility Test (SET) for Lectureship held on 21st February, 2016 in the subject Mathematical Sciences, conducted by Mother Teresa Women\u2019s University, Kodaikanal.",
+    "research_areas": [
+        "Graph theory and its applications"
+    ],
+    "subject_expertise": [
+        "Discrete Structures",
+        "Graph theory and its applications",
+        "CALCULUS AND ITS APPLICATIONS",
+        "DISCRETE MATHEMATICS",
+        "LINEAR ALGEBRA"
+    ],
+    "publications": [
+        {
+            "journal": "AKCE International Journal of Graphs and Combinatorics",
+            "title": "Decomposition of hypercube graphs into paths and cycles of length four",
+            "year": "2022",
+            "role": "Co Author",
+            "volume": "19"
+        },
+        {
+            "journal": "GRAPHS AND COMBINATORICS",
+            "title": "Decomposition of Product graphs into paths and cycles of length four",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "32"
+        },
+        {
+            "journal": "DISCUSSIONES MATHEMATICAE GRAPH THEORY",
+            "title": "Decomposition of Complete Bipartite multigraphs into Paths and Cycles with same number of edges",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "35"
+        },
+        {
+            "journal": "DISCRETE MATHEMATICS",
+            "title": "Decomposition of Complete Bipartite Graphs into Paths and Cycles",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "331"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6027",
+    "faculty_id": "C6027",
+    "url": "https://psgtech.edu/profile.php?NDU1NzQ1MDkyNjAyNw%3D%3D",
+    "url_id": "NDU1NzQ1MDkyNjAyNw%3D%3D",
+    "local_image_path": "faculty_images/Dr.Jeevadoss S.jpg"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Ms.Uma Gayathri G",
+    "academic_title": "Assistant Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "12/12/2022",
+    "qualifications": [
+        "B.Sc  ( Maths with Computer Applications )  - Madurai Kamaraj University   - 2019M.Sc  ( Applied Mathematics )  - PSG College of Technology, Coimbatore   - 2021(Ph.D)  ( Mathematics )  - PSG College of Technology"
+    ],
+    "email": "umg.amcs@psgtech.ac.in",
+    "google_scholar": "",
+    "in_brief": "",
+    "research_areas": [
+        "Machine Learning",
+        "Artificial Intelligence"
+    ],
+    "subject_expertise": [
+        "Object Oriented Programming",
+        "Computatioanal Number Theory and Cryptography"
+    ],
+    "publications": [
+        {
+            "journal": "Research Applications of Deep Learning",
+            "title": "01/07/2024",
+            "year": "05/07/2024",
+            "role": "NIT Hamirpur",
+            "volume": "-"
+        },
+        {
+            "journal": "Optimization Techniques for Engineering Applications",
+            "title": "11/03/2024",
+            "year": "22/03/2024",
+            "role": "E&ICT Academy, NIT Warangal and Department of Computer Scinece &Engineering, NIT Warangal",
+            "volume": "Ministry of Electronics and Information Technology, GoI"
+        },
+        {
+            "journal": "Foundations of Theoretical Computer Science",
+            "title": "29/02/2024",
+            "year": "02/03/2024",
+            "role": "Theoretical Computer Science Group, Department of CSE, IIT Madras",
+            "volume": "SERB"
+        },
+        {
+            "journal": "Applications of Machine Learning Techniques in Sustainable Technologies(AMLST 2024)",
+            "title": "24/01/2024",
+            "year": "28/01/2024",
+            "role": "NIT Rourkela",
+            "volume": "-"
+        },
+        {
+            "journal": "Leap into Fuzzy Logic Applications",
+            "title": "12/06/2023",
+            "year": "16/06/2023",
+            "role": "VIT Chennai",
+            "volume": "VIT Chennai"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6436",
+    "faculty_id": "C6436",
+    "url": "https://psgtech.edu/profile.php?Mjc2OTEzNzUyNjQzNg%3D%3D",
+    "url_id": "Mjc2OTEzNzUyNjQzNg%3D%3D",
+    "local_image_path": "faculty_images/Ms.Uma Gayathri G.jpg"
+}

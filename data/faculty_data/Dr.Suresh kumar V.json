@@ -1,0 +1,170 @@
+{
+    "name": "Dr.Suresh kumar V",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "01/06/2007",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - C.B.M College/ Bharathiar University   - 2002M.Sc  ( Mathematics )  - C.B.M College/ Bharathiar University   - 2004Ph.D  ( Mathematics )  - PSG College of Technology/ Anna University  - 10/06/2017Supervisor: Dr. R. AnithaM.Phil  ( Mathematics )  - Alagappa University  - 04/30/2005"
+    ],
+    "email": "sand.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=ltaMEwQAAAAJ&hl=en",
+    "in_brief": "Dr. V. Suresh kumar currently holds the position of Associate Professor, Department of Applied Mathematics and Computational Sciences at PSG College of Technology, India. He is working in this institution since 2007. He received his PhD in Mathematics, thesis title \"Design and Analysis of Security Protocols using Formal Methods\" from Anna University. His research interest includes Electronic voting protocol, Electronic payment protocol, Authentication and key establishment protocols for RFID and WSN. His research publications include many peer reviewed International Journals and conference papers. He has been a reviewer in \u201cIEEE Systems Journal\u201d, \u201cIEEE Transactions on Industrial Electronics\u201d, \u201cIEEE Transactions on  Dependable  and  Secure  Computing\u201d, \u201cIEEE Transactions on Sustainable Computing \u201c, \u201cIEEE Journal of Biomedical and Health Informatics\u201d, \u201cIEEE Sensors Journal\u201d, \u201cACM Transactions on Internet Technology\u201d,  \u201cInformation Security Journal\u201d Wiley publisher, \u201cIET Communications\u201d, \u201cInternational Journal of Communication Systems\u201d Wiley publisher, \u201cSecurity and Privacy\u201d Wiley publisher and \u201cIEEE Access\u201d, and in several Conferences for proceedings. He is a recognized supervisor (guide) in Anna University for PhD/MS research scholars ( Ref. No. 3170022).",
+    "research_areas": [
+        "Security Protocols and Formal Methods",
+        "Authentication Protocols for WSN and RFID",
+        "Analysis of Electronic Voting and Payment Protocols"
+    ],
+    "subject_expertise": [
+        "Calculus and Its Applications",
+        "Differential Equations",
+        "Numerical Analysis",
+        "Linear Algebra",
+        "Cryptography and Network Security",
+        "Discrete Structures",
+        "Complex Variables and Transforms",
+        "Probability and Statistics",
+        "Computational Number Theory",
+        "Security modelling and Analysis",
+        "Theory of Computing"
+    ],
+    "publications": [
+        {
+            "journal": "Ieee Transactions On Intelligent Transportation Systems",
+            "title": "VAuth: Robust Lightweight Mutual Authentication Protocol Preserving User\u2019s Anonymity for VANET With FPGA Implementation",
+            "year": "2024",
+            "role": "Co Author",
+            "volume": "25"
+        },
+        {
+            "journal": "Ieee Transactions On Intelligent Transportation Systems",
+            "title": "Efficient Certificateless Anonymous Mutual Authentication in WBANs for Smart Healthcare",
+            "year": "2024",
+            "role": "Co Author",
+            "volume": "25"
+        },
+        {
+            "journal": "Journal Of Ambient Intelligence And Humanized Computing",
+            "title": "IoDseC++: authenticated key exchange protocol for cloud-enable internet of drone communication",
+            "year": "2023",
+            "role": "Co Author",
+            "volume": "14"
+        },
+        {
+            "journal": "Peer-To-Peer Networking And Applications",
+            "title": "An enhanced mutually authenticated security protocol with key establishment for cloud enabled smart vehicle to grid network",
+            "year": "2022",
+            "role": "Main Author",
+            "volume": "15"
+        },
+        {
+            "journal": "Ieee Transactions On Vehicular Technology",
+            "title": "Authenticated Key Agreement Protocol for Secure Communication Establishment in Vehicle-to-Grid Environment With FPGA Implementation",
+            "year": "2022",
+            "role": "Main Author",
+            "volume": "71"
+        },
+        {
+            "journal": "NVEO \u2013 Natural Volatiles & Essential Oils",
+            "title": "Iot Based Authentication And Key Establishment Protocol For Modern Agriculture",
+            "year": "2021",
+            "role": "Main Author",
+            "volume": "8"
+        },
+        {
+            "journal": "IEEE SYSTEMS JOURNAL",
+            "title": "Design of Robust Mutual Authentication and Key Establishment Security Protocol for Cloud-Enabled Smart Grid Communication",
+            "year": "2021",
+            "role": "Main Author",
+            "volume": "15"
+        },
+        {
+            "journal": "Computers & Electrical Engineering",
+            "title": "Design of a secure file storage and access protocol for cloud-enabled Internet of Things environment",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "94"
+        },
+        {
+            "journal": "Journal of Information Security and Applications",
+            "title": "Software-Defined Network enabled Vehicle to Vehicle secured data transmission protocol in VANETs",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "58"
+        },
+        {
+            "journal": "Journal of information Security and Applications",
+            "title": "An enhanced mutual authentication and key establishment protocol for TMIS using chaotic map",
+            "year": "2020",
+            "role": "Main Author",
+            "volume": "53"
+        },
+        {
+            "journal": "WIRELESS PERSONAL COMMUNICATIONS",
+            "title": "An Authentication Protocol to Track an Object with Multiple RFID Tags Using Cloud Computing Environment",
+            "year": "2020",
+            "role": "Co Author",
+            "volume": "113"
+        },
+        {
+            "journal": "FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING AND ESCIENCE",
+            "title": "Robust secure communication protocol for smart healthcare system with FPGA implementation",
+            "year": "2019",
+            "role": "Main Author",
+            "volume": "100"
+        },
+        {
+            "journal": "Journal of Reliable Intelligent Environments",
+            "title": "End to end light weight mutual authentication scheme in IoT-based healthcare environment",
+            "year": "2019",
+            "role": "Co Author",
+            "volume": "0"
+        },
+        {
+            "journal": "WIRELESS PERSONAL COMMUNICATIONS",
+            "title": "IoT Enabled RFID Authentication and Secure Object Tracking System for Smart Logistics",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "104"
+        },
+        {
+            "journal": "MULTIMEDIA TOOLS AND APPLICATIONS",
+            "title": "Efficient authentication protocol for secure multimedia communications in IoT-enabled wireless sensor networks",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "77"
+        },
+        {
+            "journal": "PEER-TO-PEER NETWORKING AND APPLICATIONS",
+            "title": "A robust mutual authentication scheme for session initiation protocol with key establishment",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": "11"
+        },
+        {
+            "journal": "The Journal of Supercomputing",
+            "title": "An automatic RFID reader-to-reader delegation protocol for SCM in cloud computing environment",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "74"
+        },
+        {
+            "journal": "Computers and Electrical Engineering",
+            "title": "A lightweight two-gateway based payment protocol ensuring accountability and unlinkable anonymity with dynamic identity",
+            "year": "2017",
+            "role": "Main Author",
+            "volume": "57"
+        },
+        {
+            "journal": "International Journal of Communication systems",
+            "title": "An enhanced bilinear pairing based authenticated key agreement protocol for multiserver environment",
+            "year": "2017",
+            "role": "Main Author",
+            "volume": "30"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3321",
+    "faculty_id": "C3321",
+    "url": "https://psgtech.edu/profile.php?Nzc2ODQ4NDU4MzMyMQ%3D%3D",
+    "url_id": "Nzc2ODQ4NDU4MzMyMQ%3D%3D",
+    "local_image_path": "faculty_images/Dr.Suresh kumar V.jpg"
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Mrs.Kasthuri Bai M",
+    "academic_title": "Assistant Professor (Sr. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "01/06/2007",
+    "qualifications": [
+        "B.Sc  ( Computer Science )  - Government College Of Technology, Bharathiyar University, Coimbatore   - 1992M.C.A  - Seethalakshmi Ramaswamy College, Bharathidasan University, Thrichirappalli   - 1995M.Phil  ( Computer Science )  - Periyar University  - 05/31/2007"
+    ],
+    "email": "mkb.amcs@psgtech.ac.in",
+    "google_scholar": "",
+    "in_brief": "Mrs.Kasthuri Bai M   has over 15+ years of academic experience that has shown her the challenges and gratification of becoming a skilled instructor. She has mentored more than 100 under graduate and post graduate students in completing their projects. She is keen to learn new programming languages and technologies for solving problems.  She believes that the responsibility of a teacher is not only imparting knowledge ,  but ensuring  that students  develop  Honesty,  Enthusiasm for learning,  Ambition, Etiquette And Manners, Self esteem, Being kind and helpful.",
+    "research_areas": [],
+    "subject_expertise": [
+        "NOSQL Databases",
+        "Database Management System"
+    ],
+    "publications": [
+        {
+            "journal": "Explore stock prices with Spark SQL",
+            "title": "04/10/2020",
+            "year": "07/10/2020",
+            "role": "Coursera Project Network",
+            "volume": "Coursera"
+        },
+        {
+            "journal": "Visual Analytics in data science Applications",
+            "title": "24/08/2020",
+            "year": "28/08/2020",
+            "role": "Department Of Computer Applications",
+            "volume": "PSG College of Technology"
+        },
+        {
+            "journal": "Foundations of Data Science: K-Means Clustering in Python",
+            "title": "05/08/2020",
+            "year": "07/09/2020",
+            "role": "University of California San Diego",
+            "volume": "Coursera"
+        },
+        {
+            "journal": "Managing Big Data in Clusters and Cloud Storage",
+            "title": "07/07/2020",
+            "year": "18/07/2020",
+            "role": "CloudEra",
+            "volume": "Coursera"
+        },
+        {
+            "journal": "Introduction to Big Data",
+            "title": "01/07/2020",
+            "year": "30/08/2020",
+            "role": "University of California San Diego",
+            "volume": "Coursera"
+        },
+        {
+            "journal": "Big Data Modeling and Management Systems",
+            "title": "01/07/2020",
+            "year": "30/08/2020",
+            "role": "University of California San Diego",
+            "volume": "Coursera"
+        },
+        {
+            "journal": "Big Data Integration and Processing",
+            "title": "01/07/2020",
+            "year": "30/08/2020",
+            "role": "University of California San Diego",
+            "volume": "Coursera"
+        },
+        {
+            "journal": "Analyzing Big Data with SQL",
+            "title": "19/06/2020",
+            "year": "06/07/2020",
+            "role": "CloudEra",
+            "volume": "Coursera"
+        },
+        {
+            "journal": "Foundations for Big Data Analysis with SQL",
+            "title": "04/06/2020",
+            "year": "18/06/2020",
+            "role": "CloudEra",
+            "volume": "Coursera"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3328",
+    "faculty_id": "C3328",
+    "url": "https://www.psgtech.edu/profile.php?NjUzODA1NDA4MzMyOA%3D%3D",
+    "url_id": "NjUzODA1NDA4MzMyOA%3D%3D",
+    "local_image_path": "faculty_images/Mrs.Kasthuri Bai M.jpg"
+}

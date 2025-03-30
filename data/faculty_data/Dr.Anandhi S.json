@@ -1,0 +1,68 @@
+{
+    "name": "Dr.Anandhi S",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "13/12/2007",
+    "qualifications": [
+        "B.Sc  ( Physics )  - Bharathiar university   - 1999M.C.A  - Bharathiar university   - 2002M.Phil  ( Computer Science )  - Bharathidasan university  - 09/15/2005Ph.D  ( Computer Science )  - Anna University  - 11/27/2019Supervisor: Dr.R.Anitha"
+    ],
+    "email": "san.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?user=90whPXQAAAAJ",
+    "in_brief": "Dr. S. Anandhi currently holds the position of Associate Professor, Department of Applied Mathematics and Computational Sciences at PSG College of Technology, India. Her professional career has been with PSG College of Technology since 2007. Her teaching interests include Software Patterns, Semantic Web, Computer Forensics, Web Analytics, Secure Coding, Identity and Access Management, and Object Computing. She received her Ph.D. in Computer Science, with the thesis \u201cAN INVESTIGATION AND DESIGN OF CERTAIN RFID SECURITY PROTOCOLS FOR CLOUD BASED SUPPLY CHAIN MANAGEMENT APPLICATIONS\u201d from Anna University. Her research interests include Access control, Security protocols and Formal methods. She has been a reviewer in the IEEE Systems Journal, Journal of Super Computing, Wireless Personal Communications, IETE Journal of  Research, IEEE Access, IEEE Transactions on Mobile Computing and in several conferences for proceedings. She is a recognized supervisor at Anna University for Ph.D. /  MS research scholars  (Ref. No. 3970030). She has published several research papers in reputed  International journals and conferences.",
+    "research_areas": [
+        "Design and Analysis of Security Protocols"
+    ],
+    "subject_expertise": [
+        "Enterprise Computing",
+        "Information Security",
+        "Internet of Things (IoT)",
+        "Object Oriented Modelling and Design",
+        "Java Programming",
+        "RF communication",
+        "Semantic Web",
+        "Web Methodologies",
+        "Web Programming",
+        "Computer Forensics",
+        "Cryptography",
+        "Cloud Computing",
+        "Software Patterns",
+        "Identity and access Management",
+        "Threat hunting",
+        "secure coding"
+    ],
+    "publications": [
+        {
+            "journal": "IEEE SYSTEMS JOURNAL",
+            "title": "Design of Robust Mutual Authentication and Key Establishment Security Protocol for Cloud-Enabled Smart Grid Communication",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "15"
+        },
+        {
+            "journal": "WIRELESS PERSONAL COMMUNICATIONS",
+            "title": "An Authentication Protocol to Track an Object with Multiple RFID Tags Using Cloud Computing Environment",
+            "year": "2020",
+            "role": "Main Author",
+            "volume": "113"
+        },
+        {
+            "journal": "WIRELESS PERSONAL COMMUNICATIONS",
+            "title": "IoT Enabled RFID Authentication and Secure Object Tracking System for Smart Logistics",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": "104"
+        },
+        {
+            "journal": "The Journal of Supercomputing",
+            "title": "An automatic RFID reader-to-reader delegation protocol for SCM in cloud computing environment",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": "74"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3472",
+    "faculty_id": "C3472",
+    "url": "https://www.psgtech.edu/profile.php?MTM3MjM4OTEwOTM0NzI%3D",
+    "url_id": "MTM3MjM4OTEwOTM0NzI%3D",
+    "local_image_path": "faculty_images/Dr.Anandhi S.jpg"
+}

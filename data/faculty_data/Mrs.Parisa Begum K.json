@@ -1,0 +1,37 @@
+{
+    "name": "Mrs.Parisa Begum K",
+    "academic_title": "Assistant Professor (Sr. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "01/06/2009",
+    "qualifications": [
+        "B.Sc  ( Computer Science )  - Bharathiar University   - 1992M.C.A  - Anna University   - 2007(Ph.D)  ( Computer Science )  - Anna University"
+    ],
+    "email": "kpb.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?user=4IsuNXoAAAAJ&hl=en&oi=ao",
+    "in_brief": "A team-player with interest in learning new things,  and strengthening the knowledge.",
+    "research_areas": [
+        "Data Management in Pervasive Computing Environment"
+    ],
+    "subject_expertise": [
+        "Computer Graphics and Multimedia",
+        "Sentimental Analysis",
+        "Object Oriented Programming",
+        "Computer Vision",
+        "C and Java Programming",
+        "Web Programming"
+    ],
+    "publications": [
+        {
+            "journal": "International Arab Journal Of Information Technology",
+            "title": "Focused Crawler Based on Reinforcement Learning and Decaying Epsilon - Greedy Exploration Policy",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "20"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C5072",
+    "faculty_id": "C5072",
+    "url": "https://psgtech.edu/profile.php?MjA3MzEyNDY2NTUwNzI%3D",
+    "url_id": "MjA3MzEyNDY2NTUwNzI%3D",
+    "local_image_path": "faculty_images/Mrs.Parisa Begum K.jpg"
+}

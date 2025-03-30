@@ -1,0 +1,91 @@
+{
+    "name": "Dr.Sreelaja N K",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "07/06/2017",
+    "qualifications": [
+        "B.Sc  ( Physics )  - Bharathiar University   - 1996M.C.A  - Avinashilingam University   - 1999Ph.D  ( Computer Science )  - Anna University  - 03/07/2012Supervisor: Dr.G.A.Vijayalakshmi Pai"
+    ],
+    "email": "nkr.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?hl=en&user=lItJJC4AAAAJ",
+    "in_brief": "Dr.Sreelaja N.K is an Assistant Professor(Sl.Gr) in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology, Coimbatore. She has over 18 years of experience in teaching. Her Research interests span Cryptography,Security in Computing, Computational Intelligence and Social Network Analysis. She has around 15 publications in various Journals, Edited Book chapters and International/National Conference Proceedings. She is a recognized Research Supervisor in Anna University, Chennai.",
+    "research_areas": [
+        "Cryptography",
+        "Swarm Intelligence",
+        "Security in computing",
+        "Computer Forensics"
+    ],
+    "subject_expertise": [
+        "Computational Intelligence",
+        "Cryptography",
+        "Database Management System",
+        "Information Security",
+        "Unix System Programming",
+        "Computer Forensics",
+        "Security in computing",
+        "Social Network Analytics"
+    ],
+    "publications": [
+        {
+            "journal": "Applied Soft Computing",
+            "title": "Ant Colony Optimization based Light weight Binary Search for efficient signature matching to filter Ransomware",
+            "year": "2021",
+            "role": "Main Author",
+            "volume": "111"
+        },
+        {
+            "journal": "Security and Communication Networks",
+            "title": "An image edge based approach for image password encryption",
+            "year": "2016",
+            "role": "Main Author",
+            "volume": "9"
+        },
+        {
+            "journal": "Applied Soft Computing",
+            "title": "Swarm intelligence based approach for sinkhole attack detection in wireless sensor networks",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "19"
+        },
+        {
+            "journal": "Applied Soft Computing",
+            "title": "Stream cipher for binary image encryption using Ant Colony Optimization based key generation",
+            "year": "2012",
+            "role": "Main Author",
+            "volume": "12(9)"
+        },
+        {
+            "journal": "Security and Communication Networks",
+            "title": "Swarm intelligence based key generation for stream cipher",
+            "year": "2011",
+            "role": "Main Author",
+            "volume": "4(2)"
+        },
+        {
+            "journal": "Applied Soft Computing",
+            "title": "Ant colony optimization based approach for efficient packet filtering in firewall",
+            "year": "2010",
+            "role": "Main Author",
+            "volume": "10 (4)"
+        },
+        {
+            "journal": "International Journal of Computer Research",
+            "title": "Swarm Intelligence based anonymous authentication protocol for dynamic group management in EHRM system",
+            "year": "2009",
+            "role": "Main Author",
+            "volume": "17(3)"
+        },
+        {
+            "journal": "Journal of Information Assurance and Security",
+            "title": "Design of Stream Cipher for Text Encryption using Particle Swarm Optimization based Key Generation",
+            "year": "2009",
+            "role": "Main Author",
+            "volume": "4"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6161",
+    "faculty_id": "C6161",
+    "url": "https://www.psgtech.edu/profile.php?Nzk0MDYyOTg2NjE2MQ%3D%3D",
+    "url_id": "Nzk0MDYyOTg2NjE2MQ%3D%3D",
+    "local_image_path": "faculty_images/Dr.Sreelaja N K.jpg"
+}

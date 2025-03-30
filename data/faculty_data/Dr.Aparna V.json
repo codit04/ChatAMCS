@@ -1,0 +1,54 @@
+{
+    "name": "Dr.Aparna V",
+    "academic_title": "Assistant Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "14/06/2023",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - St. Teresa's College, Kochi   - 2015M.Sc  ( Mathematics )  - Sacred Heart College, Kochi   - 2017Ph.D  ( Mathematics )  - Bharathiar University  - 04/21/2023Supervisor: Dr. N. Mohanapriya"
+    ],
+    "email": "apr.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=nZeOxOcAAAAJ",
+    "in_brief": "She has completed her Ph.D from Bharathiar University and has qualified GATE in 2019. Her research area of interest is graph theory and its applications. She has published papers in International journals.",
+    "research_areas": [
+        "Graph Theory"
+    ],
+    "subject_expertise": [
+        "LINEAR ALGEBRA",
+        "Graph Theory"
+    ],
+    "publications": [
+        {
+            "journal": "MINDS'24",
+            "title": "07/08/2024",
+            "year": "28/08/2024",
+            "role": "IIIT Kottayam",
+            "volume": "IIIT Kottayam"
+        },
+        {
+            "journal": "NPTEL-AICTE Faculty Development Programme for the course Programming, Data Structures and Algorithms using Python",
+            "title": "08/01/2024",
+            "year": "30/03/2024",
+            "role": "AICTE",
+            "volume": "MoE,Govt. of India"
+        },
+        {
+            "journal": "Faculty Induction Programme 2023-24",
+            "title": "30/09/2023",
+            "year": "29/06/2023",
+            "role": "PSG College of Technology",
+            "volume": "PSG CARE"
+        },
+        {
+            "journal": "IEEE Xplore",
+            "title": "21/09/2023",
+            "year": "21/09/2023",
+            "role": "PSG College of Technology",
+            "volume": "IEEE,EBSCO"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6478",
+    "faculty_id": "C6478",
+    "url": "https://psgtech.edu/profile.php?NjY0OTc2NDU0NjQ3OA%3D%3D",
+    "url_id": "NjY0OTc2NDU0NjQ3OA%3D%3D",
+    "local_image_path": "faculty_images/Dr.Aparna V.jpg"
+}

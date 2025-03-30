@@ -1,0 +1,38 @@
+{
+    "name": "Dr.Brindha N",
+    "academic_title": "Assistant Professor (Sl. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "06/09/2004",
+    "qualifications": [
+        "B.Sc  ( Home Science )  - Bharathiar university   - 1997M.C.A  - Bharathiar University   - 2000M.E  ( Computer Science )  - 2007Ph.D  ( Computer Science )  - Anna University  - 08/26/2019Supervisor: Dr P.Visalakashi"
+    ],
+    "email": "snb.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=KFDXRZ8AAAAJ&view_op=list_works&gmla=ALUCkoXf7je-UwdGNCNu-B3rzthkbQr5krd88vPx7O5oHeQLI__akScP42KSwPhax_-cJnYa15Rxc54qfO2M7O_p",
+    "in_brief": "Ms.N.Brindha is an Assistant Professor(Sl.Gr) in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology, Coimbatore. She has over 15 years of experience in teaching. she has guided more than 50 B.Sc (CSD)and M.Sc (CT) Projects. Her Research interests are video retrieval and classification using Deep learning, software testing. She has around 5 publications in various Journals and International/National Conference Proceedings.",
+    "research_areas": [
+        "Information Retrieval"
+    ],
+    "subject_expertise": [
+        "Software Testing",
+        "Microprocessor and Interfacing",
+        "Computer Graphics and Multimedia",
+        "Computer Architecture",
+        "Database Management System",
+        "C and Java programming",
+        "Software Engineering"
+    ],
+    "publications": [
+        {
+            "journal": "SADHANA-ACADEMY PROCEEDINGS IN ENGINEERING  SCIENCES-SPRINGER",
+            "title": "Bridging semantic gap between high-level and low-level features in content-based video retrieval using multi-stage ESN\u2013SVM classifier",
+            "year": "2016",
+            "role": "Main Author",
+            "volume": "42"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C1931",
+    "faculty_id": "C1931",
+    "url": "https://psgtech.edu/profile.php?MjA2OTU0OTA5NjE5MzE%3D",
+    "url_id": "MjA2OTU0OTA5NjE5MzE%3D",
+    "local_image_path": "faculty_images/Dr.Brindha N.jpg"
+}

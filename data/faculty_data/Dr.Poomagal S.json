@@ -1,0 +1,94 @@
+{
+    "name": "Dr.Poomagal S",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "01/06/2007",
+    "qualifications": [
+        "B.Sc  ( Applied Sciences )  - Bannari Amman Institute of Technology, Sathyamangalam   - 2001M.Sc  ( Computer Technology )  - Bannari Amman Institute of Technology, Sathyamangalam   - 2003Ph.D  ( Computer Science )  - PSG College of Technology  - 04/04/2014Supervisor: Dr. P. VisalakshiComputer Science  ( Computer Science )  - PSG College of Technology  - 04/04/2014"
+    ],
+    "email": "spm.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=KbuWXlMAAAAJ&hl=en",
+    "in_brief": "S. Poomagal has 18 years of teaching experience.",
+    "research_areas": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Sentimental Analysis"
+    ],
+    "subject_expertise": [
+        "C Programming",
+        "Data Mining",
+        "Information Retrieval",
+        "Natural Language Processing",
+        "Data Structures, Design and Analysis of Algorithms"
+    ],
+    "publications": [
+        {
+            "journal": "SN Computer Science",
+            "title": "Opinion Mining Using Optimized K\u2011Means Algorithm and a Word Weighting Technique",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "4"
+        },
+        {
+            "journal": "SN Computer Science",
+            "title": "Sentiment Thesaurus, Synset and Word2Vec Based Improvement in Bigram Model for Classifying Product Reviews",
+            "year": "2022",
+            "role": "Main Author",
+            "volume": "3"
+        },
+        {
+            "journal": "EXPERT SYSTEMS WITH APPLICATIONS",
+            "title": "Conformal Isotonic Separation for Binary Classification",
+            "year": "2022",
+            "role": "Main Author",
+            "volume": "193"
+        },
+        {
+            "journal": "SADHANA-ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES",
+            "title": "A novel Tag Score(T_S) model with improved K-means for clustering tweets",
+            "year": "2020",
+            "role": "Main Author",
+            "volume": "0"
+        },
+        {
+            "journal": "International Journal of Intelligent Systems, Technologies and Applications",
+            "title": "A novel method for selecting initial centroids in K-means clustering algorithm",
+            "year": "2016",
+            "role": "Main Author",
+            "volume": "15"
+        },
+        {
+            "journal": "International Journal of Web based Communities",
+            "title": "A novel method for clustering tweets in Twitter",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "11"
+        },
+        {
+            "journal": "International Journal of Computer Applications in Technology",
+            "title": "Semantic similarity-based PageRank using wordnet",
+            "year": "2013",
+            "role": "Main Author",
+            "volume": "46"
+        },
+        {
+            "journal": "International Journal of Advanced Intelligence Paradigms",
+            "title": "Optimised K-means for web search",
+            "year": "2012",
+            "role": "Main Author",
+            "volume": "4"
+        },
+        {
+            "journal": "International Journal of Web Science",
+            "title": "Cosine similarity-based PageRank calculation",
+            "year": "2011",
+            "role": "Main Author",
+            "volume": "1"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3329",
+    "faculty_id": "C3329",
+    "url": "https://psgtech.edu/profile.php?MTQ0MTc5MzI3NDMzMjk%3D",
+    "url_id": "MTQ0MTc5MzI3NDMzMjk%3D",
+    "local_image_path": "faculty_images/Dr.Poomagal S.jpg"
+}

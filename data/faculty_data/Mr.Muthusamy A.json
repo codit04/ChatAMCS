@@ -1,0 +1,35 @@
+{
+    "name": "Mr.Muthusamy A",
+    "academic_title": "Assistant Professor (Sl. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "03/07/2000",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - SBK COLLEGE / MADURAI KAMARAJ UNIVERSITY   - 1990B.Ed  - ALAGAPPA UNIVERSITY   - 1996M.Sc  ( Mathematics )  - SBK COLLEGE / MADURAI KAMARAJ UNIVERSITY   - 1992  ( Computer Application )  - MADURAI KAMARAJ UNIVERSITY   - 1999B.Sc  ( BLIS )  - BHARATHIDASAN UNIVERSITY   - 1996M.Phil  ( Rough Sets and Data Minin )  - PSG COLLEGE OF TECHNOLOGY / BHARATHIAR UNIVERSITY  - 08/12/2005"
+    ],
+    "email": "ams.mca@gapps.psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?view_op=new_profile&hl=en",
+    "in_brief": "",
+    "research_areas": [],
+    "subject_expertise": [
+        "Applied Linear Algebra",
+        "Discrete Structures",
+        "Linear Algebra and Fourier Series",
+        "Optimization Techniques",
+        "Probability and Statistics",
+        "Stochastic Models"
+    ],
+    "publications": [
+        {
+            "journal": "6th INDIAN SCHOOL ON LOGIC AND ITS APPLICATIONS (ISLA 2016)",
+            "title": "21-03-2016",
+            "year": "26-03-2016",
+            "role": "NBHM",
+            "volume": "50"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C1692",
+    "faculty_id": "C1692",
+    "url": "https://psgtech.edu/profile.php?NjE2NzAyOTE2MTY5Mg%3D%3D",
+    "url_id": "NjE2NzAyOTE2MTY5Mg%3D%3D",
+    "local_image_path": "faculty_images/Mr.Muthusamy A.jpg"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Dr.Sreeja N K",
+    "academic_title": "Assistant Professor (Sl. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "01/07/2016",
+    "qualifications": [
+        "B.Sc  ( Physics )  - Bharathiar University   - 2000M.C.A  - Avinashilingam Deemed University   - 2003Ph.D  ( Computer Science )  - Anna University  - 05/11/2016Supervisor: Dr.A.Sankar"
+    ],
+    "email": "nks.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?hl=en&user=ZQwy4JIAAAAJ",
+    "in_brief": "Dr.Sreeja N.K is an Assistant Professor in the Department of Applied Mathematics and\nComputational Sciences at PSG College of Technology, Coimbatore. She has over 14 years of experience in teaching. Her Research interests span Machine Learning, Soft Computing and Pattern Recognition. She has around 11 publications in various Journals, Edited Book chapters and International/National\nConference Proceedings. She is a recognized Research Supervisor in Anna University, Chennai.",
+    "research_areas": [
+        "Swarm Intelligence",
+        "Evolutionary Algorithms",
+        "Pattern Recognition",
+        "Soft Computing"
+    ],
+    "subject_expertise": [
+        "Artificial Intelligence",
+        "Data Mining",
+        "Advanced Data Structures",
+        "Randomized algorithms"
+    ],
+    "publications": [
+        {
+            "journal": "Intelligent Systems with Applications",
+            "title": "A hierarchical heterogeneous ant colony optimization based fingerprint recognition system",
+            "year": "2023",
+            "role": "Main Author",
+            "volume": "17"
+        },
+        {
+            "journal": "CONNECTION SCIENCE",
+            "title": "A weighted pattern matching approach for classification of imbalanced data with a fireworks-based algorithm for feature selection",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": ""
+        },
+        {
+            "journal": "Swarm and Evolutionary Computation",
+            "title": "A hierarchical heterogeneous ant colony optimization based approach for efficient action rule mining",
+            "year": "2016",
+            "role": "Main Author",
+            "volume": "29"
+        },
+        {
+            "journal": "Security and Communication Networks",
+            "title": "An image edge based approach for image password encryption",
+            "year": "2016",
+            "role": "Co Author",
+            "volume": "9"
+        },
+        {
+            "journal": "Applied Soft Computing",
+            "title": "Pattern matching based classification using ant colony optimization based feature selection",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "31"
+        },
+        {
+            "journal": "European Journal of Operational Research",
+            "title": "Ant colony optimization based binary search for efficient point pattern matching in images",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "246 (1)"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6025",
+    "faculty_id": "C6025",
+    "url": "https://psgtech.edu/profile.php?MjEwNjgxOTE3MDYwMjU%3D",
+    "url_id": "MjEwNjgxOTE3MDYwMjU%3D",
+    "local_image_path": "faculty_images/Dr.Sreeja N K.jpg"
+}

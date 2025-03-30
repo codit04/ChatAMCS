@@ -1,0 +1,28 @@
+{
+    "name": "Dr.Dinakar V",
+    "academic_title": "Assistant Professor (Sr. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "11/07/2022",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - PSG College of Arts and Science   - 2009M.Sc  ( Mathematics )  - Bharathiar University   - 2011  ( Computer Application )  - Bharathiar University   - 2010M.Phil  ( Mathematics )  - Bharathiar University  - 10/31/2012Ph.D  ( Mathematics )  - Bharathiar University  - 06/30/2017Supervisor: Dr. K. Balachandran"
+    ],
+    "email": "vdk.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=JymP8YMAAAAJ&view_op=list_works&gmla=ALUCkoWBjc-wnH7pDAKan3oLVWL4VYu1iPGZGOJEdg2UQUu-eK8ZTiM1cVQU9RDR412_bBdLun8Re5XAwrFQ6coK",
+    "in_brief": "Dr. V. Dinakar is an Assistant Professor (Sr. Gr.) in the Department of Applied Mathematics and Computational Science, having teaching experience of more than six years, including few years in CFIs like CUTN and NITT. \nHis area of research is Differential Equations and his area of expertise is (not limited to) Calculus, Analysis, Probability, Differential Equations, Numerical methods etc.",
+    "research_areas": [],
+    "subject_expertise": [],
+    "publications": [
+        {
+            "journal": "AIMS Mathematics",
+            "title": "Identification of Source Terms in a Coupled Age-structured Population Model with Discontinuous Diffusion Coefficients",
+            "year": "2017",
+            "role": "Main Author",
+            "volume": "2"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6421",
+    "faculty_id": "C6421",
+    "url": "https://www.psgtech.edu/profile.php?MTIxNzIyMDc4MTY0MjE%3D",
+    "url_id": "MTIxNzIyMDc4MTY0MjE%3D",
+    "local_image_path": "faculty_images/Dr.Dinakar V.jpg"
+}

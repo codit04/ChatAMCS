@@ -1,0 +1,70 @@
+{
+    "name": "Dr.Latha R",
+    "academic_title": "Associate Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "16/06/2006",
+    "qualifications": [
+        "B.Sc  ( Mathematics )  - PSGR Krishnammal College for Women, Bharathiar University   - 1989M.Sc  ( Applied Mathematics )  - PSG College of Technology, Bharathiar University   - 1991M.C.A  - 2000Ph.D  ( Computer Science )  - Anna University  - 07/20/2017Supervisor: Dr. R. NadarajanM.Phil  ( Computer Science )  - Bharathiar University  - 07/20/2017"
+    ],
+    "email": "rla.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=v22FUSoAAAAJ",
+    "in_brief": "Dr. R. Latha is an Assistant Professor(SG), Department of Applied Mathematics and Computational Sciences, PSG College of Technology. She has more than 17 years of experience in teaching. Her research focuses on Recommender Systems, Information Retrieval, Machine Learning and Data privacy. The title of her doctoral thesis is \"Collaborative Recommender Systems with User Preference Mining Approaches\". She is currently doing research in the area of Manifold Learning techniques. She is a member of Computer Society of India and ACM.",
+    "research_areas": [
+        "Recommender Systems",
+        "Information Retrieval",
+        "Machine Learning",
+        "Privacy Preserving  Data Mining"
+    ],
+    "subject_expertise": [
+        "Information Retrieval",
+        "Machine Learning",
+        "Advanced Database Management Systems",
+        "Data Structures and Algorithms",
+        "Database Management Systems",
+        "Artificial Intelligence",
+        "Data Science",
+        "Reinforcement Learning"
+    ],
+    "publications": [
+        {
+            "journal": "Library Hi Tech",
+            "title": "Towards personal learning environment by enhancing adaptive access to digital library using ontology-supported collaborative filtering",
+            "year": "2023",
+            "role": "Co Author",
+            "volume": "41"
+        },
+        {
+            "journal": "Physica A-Statistical Mechanics And Its Applications",
+            "title": "Enhancing recommendation competence in nearest neighbour models",
+            "year": "2021",
+            "role": "Main Author",
+            "volume": "592"
+        },
+        {
+            "journal": "Journal Of Big Data",
+            "title": "Utility-Based Differentially Private Recommendation System",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "9"
+        },
+        {
+            "journal": "PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS",
+            "title": "Analysing exposure diversity in collaborative recommender systems\u2014Entropy fusion approach",
+            "year": "2019",
+            "role": "Main Author",
+            "volume": "533"
+        },
+        {
+            "journal": "INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING",
+            "title": "Evaluation of Software Reusability Based on Coupling and Cohesion",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "28"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3150",
+    "faculty_id": "C3150",
+    "url": "https://www.psgtech.edu/profile.php?MTM0MDI1Njg3NDMxNTA%3D",
+    "url_id": "MTM0MDI1Njg3NDMxNTA%3D",
+    "local_image_path": "faculty_images/Dr.Latha R.jpg"
+}

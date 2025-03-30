@@ -1,0 +1,267 @@
+{
+    "name": "Dr.Sai Sundara Krishnan G",
+    "academic_title": "Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "13/01/1999",
+    "qualifications": [
+        "B.Sc  ( Maths )  - American College, Madurai   - 1988M.Sc  ( Maths )  - American College, Madurai   - 1991M.Phil  ( Maths )  - Madurai KamaraJ University  - 04/30/1994Ph.D  ( Maths )  - Bharathiar University  - 05/09/2006Supervisor: K.Balachandran"
+    ],
+    "email": "ssk.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.co.in/citations?user=j5RFpaQAAAAJ&hl=en",
+    "in_brief": "Dr G. Sai Sundara Krishnan is a Professor in the Department of Applied Mathematics and Computational Sciences. He has more than 25 years of teaching experience. His research focuses on Digital Topology and Algebraic Topology. He has guided 11 PhDs and currently supervising oneresearch scholar, under Anna University :: Chennai, in the fields of Topology, Fluid Dynamics and Soft set theory. He is the Programme Coordinator of MSc Applied Mathematics Programme.",
+    "research_areas": [
+        "Algebraic Topology",
+        "DIgital Topology"
+    ],
+    "subject_expertise": [
+        "Linear Algebra and Fourier Series",
+        "Linear Algebra and Numerical Analysis",
+        "TOPOLOGY",
+        "Calculus and Its Applications"
+    ],
+    "publications": [
+        {
+            "journal": "Proceedings Of The Institution Of Mechanical Engineers Part E-Journal Of Process Mechanical Engineering",
+            "title": "Exergetic characterization of flat plate solar collector using genetic algorithm",
+            "year": "2024",
+            "role": "Co Author",
+            "volume": "0"
+        },
+        {
+            "journal": "Journal Of Thermal Analysis And Calorimetry",
+            "title": "Nonlinear analysis of irregular temperature distribution in a heat exchanger using fractional derivative",
+            "year": "2022",
+            "role": "Co Author",
+            "volume": "147"
+        },
+        {
+            "journal": "StochasticModellingandApplications",
+            "title": "IrregularBehaviourofgasflowatentranceofrectangularmicrochannelsusingFractionalDerivative",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "25"
+        },
+        {
+            "journal": "PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART E-JOURNAL OF PROCESS MECHANICAL ENGINEERING",
+            "title": "Minimizing the overall loss coefficient of flat plate solar collector using energy, entropy and exergy analysis",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "0"
+        },
+        {
+            "journal": "RESULTS IN MATHEMATICS",
+            "title": "Algebraic Invariants in Abstract Cellular Complex",
+            "year": "2021",
+            "role": "Main Author",
+            "volume": "0"
+        },
+        {
+            "journal": "APPLIED MATHEMATICAL MODELLING",
+            "title": "Analysis of a fractional epidemic model by fractional generalised homotopy analysis method using modified Riemann - Liouville derivative",
+            "year": "2021",
+            "role": "Co Author",
+            "volume": "92"
+        },
+        {
+            "journal": "THERMAL SCIENCE",
+            "title": "An Exergy Analysis for Overall Hidden Losses of Energy in Solar Water Heater",
+            "year": "2020",
+            "role": "Co Author",
+            "volume": "26"
+        },
+        {
+            "journal": "INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS",
+            "title": "Mappings on abstract cellular complex and their applications in image analysis",
+            "year": "2020",
+            "role": "Co Author",
+            "volume": "0"
+        },
+        {
+            "journal": "",
+            "title": "Solving Black\u2013Scholes equations using fractional generalized homotopy analysis method",
+            "year": "2020",
+            "role": "Co Author",
+            "volume": "39"
+        },
+        {
+            "journal": "",
+            "title": "Fractional generalised homotopy analysismethod for solving nonlinear fractional differential equations",
+            "year": "2020",
+            "role": "Co Author",
+            "volume": "39"
+        },
+        {
+            "journal": "SURFACE REVIEW AND LETTERS",
+            "title": "A novel investigation of heat transfer characteristics in hybrid micro-channel heat sink structure: Opposition Based Antlion Optimization",
+            "year": "2019",
+            "role": "Co Author",
+            "volume": "27"
+        },
+        {
+            "journal": "IETE JOURNAL OF RESEARCH",
+            "title": "Heat transfer of gas flow through microchannels using Extended Navier Stokes Equation",
+            "year": "2019",
+            "role": "Co Author",
+            "volume": "68"
+        },
+        {
+            "journal": "",
+            "title": "MAGNETO-CONVECTION OF WATER NEAR ITS MAXIMUM DENSITY IN A CAVITY WITH PARTIALLY THERMALLY ACTIVE WALLS",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "30"
+        },
+        {
+            "journal": "International Journal of Fuzzy System Applications",
+            "title": "Relations and Functions on Union-Soft Sets",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": "7"
+        },
+        {
+            "journal": "International Journal of Fuzzy System Applications",
+            "title": "Ordered Intuitionistic Fuzzy Soft Sets and Its Application in Decision Making Problem",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "7"
+        },
+        {
+            "journal": "International Journals of Fuzzy systems Applications",
+            "title": "Relations and Functions on Unin - Softsets",
+            "year": "2018",
+            "role": "Main Author",
+            "volume": "7"
+        },
+        {
+            "journal": "International Journal of Fuzzy Systems",
+            "title": "Generalized Fuzzy Soft Rough Matrices and Their Applications in Decision Making Problems",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "20, No.2"
+        },
+        {
+            "journal": "Communications in Computer and Information Science, (Computational Intelligence, Cyber Security and Computational Models. Models and Techniques for Intelligent Systems and Automation)",
+            "title": "Behavioral analysis of temperature distribution in a three fluid heat exchanger via fractional derivative",
+            "year": "2018",
+            "role": "Co Author",
+            "volume": "844"
+        },
+        {
+            "journal": "International Journal of Bifurcation and Choas",
+            "title": "On ChaoticBehavior of Tempreature Distribution in Heat Exchanger",
+            "year": "2017",
+            "role": "Main Author",
+            "volume": "27 (11)"
+        },
+        {
+            "journal": "International Journal of Bifurcation and Chaos",
+            "title": "On chaotic behavior of temperature distribution in a heat exchanger",
+            "year": "2017",
+            "role": "Co Author",
+            "volume": "27"
+        },
+        {
+            "journal": "Applied Soft Computing",
+            "title": "A similarity measure of intuitionistic fuzzy soft sets and its application in medical diagnosis",
+            "year": "2016",
+            "role": "Co Author",
+            "volume": "41"
+        },
+        {
+            "journal": "Arabian Journal for  Science and Engineering",
+            "title": "Explicit solution to predict the temperature distribution and exit temperatures in a heat exchanger using differential transform method",
+            "year": "2016",
+            "role": "Co Author",
+            "volume": "41"
+        },
+        {
+            "journal": "International Journal of Fluids and Heat Transfer",
+            "title": "Nonlinear Analysis-Semi Analytical Solution to predict the Temperature Distribution in a Shell and Tube Heat Exchanger for Temperature Dependent Specific Heat",
+            "year": "2016",
+            "role": "Co Author",
+            "volume": "1"
+        },
+        {
+            "journal": "Journal of Egyptian Mathematical Society",
+            "title": "On (\u03b3*,\u03b2*)-almost-pre-continuous mappings in topological spaces\u2019",
+            "year": "2015",
+            "role": "Co Author",
+            "volume": "23"
+        },
+        {
+            "journal": "Kyungpook Mathematical Journal",
+            "title": "\u2018On a class of \u03b3*-pre-open sets in Topological Spaces\u2019",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "54"
+        },
+        {
+            "journal": "International Journal of Advances in Soft Computing and its Application,",
+            "title": "A Mean Potentiality approach of an Intuitionistic Fuzzy Soft Set Based Decision Making Problem in Medical Science",
+            "year": "2014",
+            "role": "Co Author",
+            "volume": "6, No.3"
+        },
+        {
+            "journal": "Annals of Fuzzy Mathematics and Informatics",
+            "title": "Fuzzy Parameterized Soft Fuzzy Matrix in a Flood Warning System",
+            "year": "2014",
+            "role": "Co Author",
+            "volume": "8, No.3"
+        },
+        {
+            "journal": "International Journal of Mathematical Analysis",
+            "title": "Operations contra-pre-continuous mappings",
+            "year": "2014",
+            "role": "Co Author",
+            "volume": "8"
+        },
+        {
+            "journal": "Journal of Egyptian Mathematical Society",
+            "title": "Operation approaches on \u03b1-\u03b3-I-open sets  and on \u03b1-\u03b3-I-continuous functions in topological  spaces\u2019",
+            "year": "2014",
+            "role": "Co Author",
+            "volume": "22"
+        },
+        {
+            "journal": "Journal of Interdisciplinary Mathematics,",
+            "title": "On \u03b3*-pre-regular-T_(1/2)spaces associated with operations separation axioms\u2019",
+            "year": "2014",
+            "role": "Co Author",
+            "volume": "17"
+        },
+        {
+            "journal": "WSEAS Transactions on Information Science and Applications",
+            "title": "Isotonic separation with an instance selection algorithm using softest: theory and experiments",
+            "year": "2012",
+            "role": "Co Author",
+            "volume": "9"
+        },
+        {
+            "journal": "Scientae Mathematicae Japonica",
+            "title": "Subspaces-Operations on Topological Spaces\u2019,",
+            "year": "2012",
+            "role": "Co Author",
+            "volume": "75"
+        },
+        {
+            "journal": "Kochi Journal of Mathematics",
+            "title": "Operation Approaches on Semi-open sets and Applications",
+            "year": "2007",
+            "role": "Co Author",
+            "volume": "2"
+        },
+        {
+            "journal": "Boletim da Sociedade Paranaense de Matem\u00e1tica",
+            "title": "Tarig Projected Differential Transform Method to Solve Fractional Nonlinear Partial Differential Equations",
+            "year": "-0001",
+            "role": "Co Author",
+            "volume": "38"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C1239",
+    "faculty_id": "C1239",
+    "url": "https://www.psgtech.edu/profile.php?MTcxMDE1NjY1MTIzOQ%3D%3D",
+    "url_id": "MTcxMDE1NjY1MTIzOQ%3D%3D",
+    "local_image_path": "faculty_images/Dr.Sai Sundara Krishnan G.jpg"
+}

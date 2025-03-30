@@ -1,0 +1,70 @@
+{
+    "name": "Dr.Mohan K",
+    "academic_title": "Assistant Professor (Sl. Gr.)",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "06/12/2006",
+    "qualifications": [
+        "B.Sc  ( Physics )  - Govt. Arts College, Coimbatore   - 1998M.C.A  - Govt. Arts College, Coimbatore   - 2001Ph.D  ( Computer Science )  - Anna University  - 10/03/2016Supervisor: Dr. C. Kalaiarasan"
+    ],
+    "email": "kmn.amcs@psgtech.ac.in",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=khyhmFsAAAAJ",
+    "in_brief": "A career spanning total of 16 years experiences in the software industry and in the teaching field, Over 12+ years of experience in the field of teaching and experts in the subject taught to the students and also having 3+ years of experience in the software industry as Software Engineer and expert in the Microsoft and Java Technologies. He is a motivating and talented computer science faculty driven to inspire students to pursue academic, research and personal excellence. Consistently strive to create a challenging and engaging learning environment in which students become life-long scholars and learners.",
+    "research_areas": [
+        "Cloud Computing",
+        "Component Based Software Engineering",
+        "Service Oriented Architecture and Web Services",
+        "Artificial Intelligence",
+        "Soft Computing"
+    ],
+    "subject_expertise": [
+        "Object Oriented Modelling and Design",
+        "Enterprise Computing",
+        "Object Oriented Programming",
+        "Open Source Technologies",
+        "Software Engineering",
+        "Web Technologies",
+        "Cloud Computing"
+    ],
+    "publications": [
+        {
+            "journal": "The International Journal of Printing, Packaging, & Allied Sciences",
+            "title": "Optimized QoS aware Web Service Selection Model Using Hybrid Genetic Algorithm and Improved Particle Swarm Optimization Algorithm",
+            "year": "2016",
+            "role": "Main Author",
+            "volume": "4"
+        },
+        {
+            "journal": "National Journal of Technology",
+            "title": "Triggering Service Selection Mechanism with Genetic inspired Ant \u2013 Colony Optimization",
+            "year": "2015",
+            "role": "Main Author",
+            "volume": "11"
+        },
+        {
+            "journal": "International Journal of Engineering & Technology",
+            "title": "An Improved Fuzzy Guided Genetic Algorithm for the Selection of Web Services",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "6"
+        },
+        {
+            "journal": "Australian Journal of Basic and Applied Sciences",
+            "title": "A Hybrid Optimization Algorithm combining Genetic Algorithm with Neural Network for Web Service Selection",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "8"
+        },
+        {
+            "journal": "ARPN Journal of Engineering and Applied Sciences",
+            "title": "A Survey on Applications of Evolutionary Techniques in Web Service Selection",
+            "year": "2014",
+            "role": "Main Author",
+            "volume": "9"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C3288",
+    "faculty_id": "C3288",
+    "url": "https://psgtech.edu/profile.php?NTk5NzkzMDg1MzI4OA%3D%3D",
+    "url_id": "NTk5NzkzMDg1MzI4OA%3D%3D",
+    "local_image_path": "faculty_images/Dr.Mohan K.jpg"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Dr.Sindhuja S",
+    "academic_title": "Assistant Professor",
+    "department": "Dept. of Applied Mathematics & Computational Sciences, PSG College of Technology, Coimbatore, Tamilnadu, India.",
+    "joining_date": "06/03/2023",
+    "qualifications": [
+        "B.Sc  ( Computer Science )  - Dr. SNS Rajalakshmi College of Arts and Science   - 2009M.C.A  - PSG College of Arts and Science   - 2012Ph.D  ( Computer Science )  - Bharathiar University  - 09/28/2021Supervisor: Dr. R. Vadivel"
+    ],
+    "email": "ssd.amcs@psgtech.ac.in",
+    "google_scholar": "",
+    "in_brief": "",
+    "research_areas": [
+        "Advanced Networking",
+        "Wireless Sensor Networks",
+        "MANET"
+    ],
+    "subject_expertise": [
+        "Intrusion Detection Systems",
+        "Computer Networks",
+        "Data Structures and Algorithms"
+    ],
+    "publications": [
+        {
+            "journal": "Conference on Applied Research (CAR-24)",
+            "title": "A Review on Biosensor for Detection of Cardiovascular Biomarkers",
+            "year": "13-07-2024",
+            "role": "Main Author",
+            "volume": "-Select-"
+        }
+    ],
+    "image_url": "../educms/upload/faculty/C6454",
+    "faculty_id": "C6454",
+    "url": "https://psgtech.edu/profile.php?MTcwMTMwODA0NTY0NTQ%3D",
+    "url_id": "MTcwMTMwODA0NTY0NTQ%3D",
+    "local_image_path": "faculty_images/Dr.Sindhuja S.jpg"
+}
