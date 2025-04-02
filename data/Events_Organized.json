@@ -1,0 +1,562 @@
+{
+    "events_organized": [
+      {
+        "serial_number": "1",
+        "level": "National",
+        "nature": "Conference",
+        "title": "Regional Conference on Entrepreneurship",
+        "convener": "Dr.Jayashree L S, CSE",
+        "organizers": [
+          "Dr.Vasanthamani K, ECE",
+          "Dr.Elangovan S, PRO",
+          "Dr.Senthil Kumaran V",
+          "Dr.Mariyam Adnan, AFD"
+        ],
+        "start_date": "13-Dec-2024",
+        "end_date": "13-Dec-2024",
+        "sponsoring_agency": "Local Industries & EDII"
+      },
+      {
+        "serial_number": "2",
+        "level": "City",
+        "nature": "Workshop",
+        "title": "Workshop on MERN Stack",
+        "convener": "",
+        "organizers": [
+          "Dr.Shina Sheen",
+          "Dr.Senthil Kumaran V"
+        ],
+        "start_date": "25-Nov-2024",
+        "end_date": "30-Nov-2024",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "3",
+        "level": "State",
+        "nature": "Others",
+        "title": "LOGIN 2023, An intercollegiate two-day technical symposium",
+        "convener": "",
+        "organizers": [
+          "Dr.Periakaruppan R M",
+          "Dr.Ilayaraja N, MCA"
+        ],
+        "start_date": "23-Sep-2024",
+        "end_date": "24-Sep-2024",
+        "sponsoring_agency": "AppviewX, Arcesium, Deloitte, and KLA"
+      },
+      {
+        "serial_number": "4",
+        "level": "State",
+        "nature": "Conference",
+        "title": "test",
+        "convener": "",
+        "organizers": [
+          "Dr.Latha R"
+        ],
+        "start_date": "01-Sep-2024",
+        "end_date": "03-Sep-2024",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "5",
+        "level": "City",
+        "nature": "Workshop",
+        "title": "Solving Algorithmic Puzzles in Big Data Compression",
+        "convener": "",
+        "organizers": [
+          "Dr.Shina Sheen",
+          "Dr.Poonthalir G"
+        ],
+        "start_date": "24-Jul-2024",
+        "end_date": "24-Jul-2024",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "6",
+        "level": "National",
+        "nature": "Summer/Winter Schools",
+        "title": "ACM-India Summer School 2024 on Algorithmic Approaches to NP-completeness",
+        "convener": "Dr. Saket Saurabh, Dr.Lekshmi R S",
+        "organizers": [],
+        "start_date": "15-Jul-2024",
+        "end_date": "26-Jul-2024",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "7",
+        "level": "City",
+        "nature": "Workshop",
+        "title": "What has my compiler done for me lately?",
+        "convener": "",
+        "organizers": [
+          "Dr.Shina Sheen",
+          "Dr.Poonthalir G"
+        ],
+        "start_date": "04-Jul-2024",
+        "end_date": "04-Jul-2024",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "8",
+        "level": "City",
+        "nature": "Others",
+        "title": "Thiran 2024",
+        "convener": "",
+        "organizers": [
+          "Dr.Periakaruppan R M"
+        ],
+        "start_date": "02-Apr-2024",
+        "end_date": "02-Apr-2024",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "9",
+        "level": "City",
+        "nature": "Others",
+        "title": "INFINITY 2024",
+        "convener": "",
+        "organizers": [
+          "Dr.Periakaruppan R M",
+          "Dr.Mohan K"
+        ],
+        "start_date": "10-Feb-2024",
+        "end_date": "10-Feb-2024",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "10",
+        "level": "International",
+        "nature": "Conference",
+        "title": "Sixth International Conference on Computational Intelligence, Cyber Security and Computational Models – ICC3 – 2023",
+        "convener": "",
+        "organizers": [
+          "Dr.Shina Sheen",
+          "Dr.Latha R",
+          "Dr.Sridevi UK",
+          "Dr.Thanalakshmi P"
+        ],
+        "start_date": "14-Dec-2023",
+        "end_date": "16-Dec-2023",
+        "sponsoring_agency": "DST, Vision"
+      },
+      {
+        "serial_number": "11",
+        "level": "International",
+        "nature": "Workshop",
+        "title": "Pre-Conference Workshop on Cyber Physical Systems",
+        "convener": "",
+        "organizers": [
+          "Dr.Shina Sheen",
+          "Dr.Latha R",
+          "Dr.Sridevi UK",
+          "Dr.Thanalakshmi P"
+        ],
+        "start_date": "11-Dec-2023",
+        "end_date": "12-Dec-2023",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "12",
+        "level": "National",
+        "nature": "Workshop",
+        "title": "One day Workshop on Mastering Free CAD",
+        "convener": "Dr.Thyla P R, MEC",
+        "organizers": [
+          "Dr.Pratheesh Kumar M R, PRO",
+          "Dr.Senthil Kumaran V"
+        ],
+        "start_date": "09-Dec-2023",
+        "end_date": "09-Dec-2023",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "13",
+        "level": "State",
+        "nature": "Training Programme",
+        "title": "Cyber Forensic - Advanced Level",
+        "convener": "",
+        "organizers": [
+          "Dr.Shina Sheen",
+          "Dr.Anandhi S"
+        ],
+        "start_date": "27-Nov-2023",
+        "end_date": "09-Dec-2023",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "14",
+        "level": "National",
+        "nature": "Others",
+        "title": "AthenaHacks - Innovating with Women in Technology",
+        "convener": "Dr.Senthil Kumaran V",
+        "organizers": [],
+        "start_date": "24-Nov-2023",
+        "end_date": "25-Nov-2023",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "15",
+        "level": "City",
+        "nature": "Workshop",
+        "title": "AI WEEK",
+        "convener": "",
+        "organizers": [
+          "Dr.Shina Sheen",
+          "Dr.Sridevi UK"
+        ],
+        "start_date": "31-Jul-2023",
+        "end_date": "04-Aug-2023",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "16",
+        "level": "City",
+        "nature": "Workshop",
+        "title": "Workshop on Challenges in Adopting Machine Learning in Manufacturing",
+        "convener": "Dr.Latha R",
+        "organizers": [],
+        "start_date": "09-Jan-2023",
+        "end_date": "09-Jan-2023",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "17",
+        "level": "City",
+        "nature": "Workshop",
+        "title": "Workshop on Data Engineering and Science on Azure - Hands on",
+        "convener": "Dr.Latha R, Dr.Malar B",
+        "organizers": [],
+        "start_date": "27-Sep-2022",
+        "end_date": "27-Sep-2022",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "18",
+        "level": "City",
+        "nature": "Workshop",
+        "title": "Ethical Hacking and malware analysis",
+        "convener": "Dr.Shina Sheen, Dr.Shina Sheen, Ms.Kiruthika J, Ms.Kiruthika J",
+        "organizers": [],
+        "start_date": "04-Aug-2022",
+        "end_date": "05-Aug-2022",
+        "sponsoring_agency": "DST"
+      },
+      {
+        "serial_number": "19",
+        "level": "National",
+        "nature": "Summer/Winter School",
+        "title": "ACM INDIA - Robert Bosch Center for Data science and AI Joint Summer School on DS /AI/ML",
+        "convener": "Dr. Nirav Bhat, Dr. Nirav Bhatt, Associate Professor, IIT(M), Chennai, Dr.Malar B, Dr.Malar B",
+        "organizers": [],
+        "start_date": "11-Jul-2022",
+        "end_date": "22-Jul-2022",
+        "sponsoring_agency": "ACM India, IIT Madras, Microsoft"
+      },
+      {
+        "serial_number": "20",
+        "level": "National",
+        "nature": "FDP/SDP",
+        "title": "AICTE ATAL FDP on Foundation of Data Science and Machine learning for cross domain applications",
+        "convener": "Dr.Sudha Sadasivam G, CSE, Dr.Nadarajan R",
+        "organizers": [
+          "Dr.Santhi V, CSE",
+          "Dr.Malar B"
+        ],
+        "start_date": "27-Dec-2021",
+        "end_date": "31-Dec-2021",
+        "sponsoring_agency": "AICTE"
+      },
+      {
+        "serial_number": "21",
+        "level": "International",
+        "nature": "Conference",
+        "title": "5th International Conference on Computational intelligence, Cyber Security, Computational Models",
+        "convener": "Dr.Nadarajan R, Dr.Indhumathi R",
+        "organizers": [
+          "Dr.Poonthalir G",
+          "Dr.Suresh kumar V",
+          "Dr.Latha R"
+        ],
+        "start_date": "16-Dec-2021",
+        "end_date": "18-Dec-2021",
+        "sponsoring_agency": "DRDO"
+      },
+      {
+        "serial_number": "22",
+        "level": "International",
+        "nature": "Workshop",
+        "title": "Pre-Conference Workshop Cyber Physical Systems",
+        "convener": "",
+        "organizers": [
+          "Dr.Nadarajan R",
+          "Dr.Indhumathi R",
+          "Dr.Poonthalir G",
+          "Dr.Suresh kumar V",
+          "Dr.Latha R"
+        ],
+        "start_date": "13-Dec-2021",
+        "end_date": "14-Dec-2021",
+        "sponsoring_agency": "Nil"
+      },
+      {
+        "serial_number": "23",
+        "level": "International",
+        "nature": "1. Young Researchers Forum 2. Pre-Conference School",
+        "title": "(CALDAM - 2020) 1. Young Researchers' Forum in 6th Annual International Conference on Algorithms and Discrete Applied Mathematics 2. Indo-French Pre-Conference School on Algorithms and Combinatorics",
+        "convener": "",
+        "organizers": [
+          "Dr.Lekshmi R S"
+        ],
+        "start_date": "10-Feb-2020",
+        "end_date": "11-Feb-2020",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "24",
+        "level": "International",
+        "nature": "Conference",
+        "title": "Internation Conference on Computational Intelligence, Cyber Security & Computational Models (ICC3)",
+        "convener": "Dr.Nadarajan R",
+        "organizers": [
+          "Dr.Suresh Balusamy",
+          "Dr.Kaja Mohideen A",
+          "Dr.Sreelaja N K",
+          "Dr.Malar B"
+        ],
+        "start_date": "19-Dec-2019",
+        "end_date": "21-Dec-2019",
+        "sponsoring_agency": "Nil"
+      },
+      {
+        "serial_number": "25",
+        "level": "International",
+        "nature": "Pre-Conference School",
+        "title": "CALDAM Indo-Italian Pre-Conference School on Algorithms and Combinatorics (2019)",
+        "convener": "Dr.Lekshmi R S",
+        "organizers": [
+          "Dr.Lekshmi R S"
+        ],
+        "start_date": "11-Feb-2019",
+        "end_date": "12-Feb-2019",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "26",
+        "level": "National",
+        "nature": "Summer School",
+        "title": "ACM-India Summer School on Graph Theory and Graph Algorithms",
+        "convener": "",
+        "organizers": [
+          "Dr.Lekshmi R S"
+        ],
+        "start_date": "21-May-2018",
+        "end_date": "08-Jun-2018",
+        "sponsoring_agency": "ACM"
+      },
+      {
+        "serial_number": "27",
+        "level": "International",
+        "nature": "Conference",
+        "title": "3rd International Conference on Computational Intelligence, Cyber Security & Computational Models (ICC3-2017)",
+        "convener": "",
+        "organizers": [
+          "Dr.Geetha N"
+        ],
+        "start_date": "14-Dec-2017",
+        "end_date": "16-Dec-2017",
+        "sponsoring_agency": "CTS, SERB"
+      },
+      {
+        "serial_number": "28",
+        "level": "National",
+        "nature": "Workshop",
+        "title": "6th INDIAN SCHOOL ON LOGIC AND ITS APPLICATIONS (ISLA 2016)",
+        "convener": "",
+        "organizers": [
+          "Mr.Muthusamy A"
+        ],
+        "start_date": "21-Mar-2016",
+        "end_date": "26-Mar-2016",
+        "sponsoring_agency": "NBHM"
+      },
+      {
+        "serial_number": "29",
+        "level": "National",
+        "nature": "Workshop",
+        "title": "Network Forensics - A Traffic Analysis Perspective",
+        "convener": "",
+        "organizers": [
+          "Dr.Shina Sheen"
+        ],
+        "start_date": "19-Mar-2016",
+        "end_date": "20-Mar-2016",
+        "sponsoring_agency": "Nil"
+      },
+      {
+        "serial_number": "30",
+        "level": "International",
+        "nature": "Conference",
+        "title": "International Conference on Computational Intelligence, Cyber Security, Computational Models - ICC3-2015",
+        "convener": "",
+        "organizers": [
+          "Dr.Senthil Kumar M",
+          "Dr.Vijayalakshmi R",
+          "Dr.Shina Sheen"
+        ],
+        "start_date": "17-Dec-2015",
+        "end_date": "19-Dec-2015",
+        "sponsoring_agency": "DRDO, UGC, PSG"
+      },
+      {
+        "serial_number": "31",
+        "level": "National",
+        "nature": "Workshop",
+        "title": "Science Academies Lecture workshop on Fluid Dynamics",
+        "convener": "",
+        "organizers": [
+          "Dr.Sai Sundara Krishnan G"
+        ],
+        "start_date": "07-Jan-2014",
+        "end_date": "09-Jan-2014",
+        "sponsoring_agency": "Academies of Sciences"
+      },
+      {
+        "serial_number": "32",
+        "level": "International",
+        "nature": "Conference",
+        "title": "Computational models Track Chair, International Conference on Computational Intelligence,Cyber Secur",
+        "convener": "",
+        "organizers": [
+          "Dr.Lekshmi R S"
+        ],
+        "start_date": "19-Dec-2013",
+        "end_date": "25-Dec-2013",
+        "sponsoring_agency": "PSG"
+      },
+      {
+        "serial_number": "33",
+        "level": "International",
+        "nature": "Conference",
+        "title": "Ist International Conference on Computational Intelligence, Cyber Security and Computational Models",
+        "convener": "",
+        "organizers": [
+          "Dr.Sai Sundara Krishnan G",
+          "Dr.Anitha R",
+          "Dr.Lekshmi R S"
+        ],
+        "start_date": "19-Dec-2013",
+        "end_date": "21-Dec-2013",
+        "sponsoring_agency": "CSIR, Cognizant, Microsoft"
+      },
+      {
+        "serial_number": "34",
+        "level": "International",
+        "nature": "Conference",
+        "title": "Computational Intelligence, Cyber Security and Computational Models: Proceedings of ICC3, 2013",
+        "convener": "",
+        "organizers": [
+          "Dr.Sai Sundara Krishnan G",
+          "Dr.Lekshmi R S",
+          "Dr.Senthil Kumar M",
+          "Anthony Bonato, Professor",
+          "Manuel Graña , Professor"
+        ],
+        "start_date": "19-Dec-2013",
+        "end_date": "21-Dec-2013",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "35",
+        "level": "State",
+        "nature": "Workshop",
+        "title": "Organized one day workshop on Research Challenges",
+        "convener": "",
+        "organizers": [
+          "Dr.Lekshmi R S"
+        ],
+        "start_date": "09-Feb-2013",
+        "end_date": "09-Feb-2013",
+        "sponsoring_agency": "PSG"
+      },
+      {
+        "serial_number": "36",
+        "level": "State",
+        "nature": "Workshop",
+        "title": "APPRECIATE AND ADORE TEACHING PROBABILITY, STATISTICS AND STOCHASTIC PROCESSES - One Day Workshop",
+        "convener": "",
+        "organizers": [
+          "Dr.Senthil Kumar M",
+          "Dr.Narayanasamy J, MAT"
+        ],
+        "start_date": "12-Dec-2012",
+        "end_date": "",
+        "sponsoring_agency": "CSIR"
+      },
+      {
+        "serial_number": "37",
+        "level": "State",
+        "nature": "Workshop",
+        "title": "Appreciate and Adore Teaching Probability, Statistics and Stochastic Processes in Engineering Education",
+        "convener": "",
+        "organizers": [
+          "Dr.Senthil Kumar M",
+          "Dr.Narayanasamy J, MAT"
+        ],
+        "start_date": "12-Dec-2012",
+        "end_date": "12-Dec-2012",
+        "sponsoring_agency": ""
+      },
+      {
+        "serial_number": "38",
+        "level": "State",
+        "nature": "Workshop",
+        "title": "Organized two days workshop on Alan Turing Centenary Year Celebrations - Workshop on Art of Computin",
+        "convener": "",
+        "organizers": [
+          "Dr.Lekshmi R S"
+        ],
+        "start_date": "07-Dec-2012",
+        "end_date": "08-Dec-2012",
+        "sponsoring_agency": "PSG"
+      },
+      {
+        "serial_number": "39",
+        "level": "International",
+        "nature": "Conference",
+        "title": "International Conference on Mathematical and Computational Models, ICMCM 2011",
+        "convener": "",
+        "organizers": [
+          "Dr.Lekshmi R S"
+        ],
+        "start_date": "19-Dec-2011",
+        "end_date": "21-Dec-2011",
+        "sponsoring_agency": "PSG"
+      },
+      {
+        "serial_number": "40",
+        "level": "",
+        "nature": "SDP",
+        "title": "Research Initiatives in Data Mining",
+        "convener": "",
+        "organizers": [
+          "Dr.Poomagal S"
+        ],
+        "start_date": "15-Nov-2010",
+        "end_date": "28-Nov-2010",
+        "sponsoring_agency": "AICTE"
+      },
+      {
+        "serial_number": "41",
+        "level": "National",
+        "nature": "Conference",
+        "title": "NATIONAL CONFERENCE ON INTELLIGENT INFORMATION RETRIEVAL",
+        "convener": "",
+        "organizers": [
+          "Dr.Chandran K R, IT"
+        ],
+        "start_date": "24-Sep-2010",
+        "end_date": "25-Sep-2010",
+        "sponsoring_agency": "DRDO"
+      }
+    ]
+  }

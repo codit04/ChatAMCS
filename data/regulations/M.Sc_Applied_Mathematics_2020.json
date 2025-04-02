@@ -1,0 +1,1452 @@
+{
+    "program_name": "M.Sc Applied Mathematics",
+    "year": "2020",
+    "courses": [
+        {
+            "code": "20SA11",
+            "title": "CONTEMPORARY ALGEBRA",
+            "semester": 1,
+            "course_type": "regular",
+            "credits": "4 0 0 4",
+            "content": [
+                {
+                    "title": "GROUPS:",
+                    "content": "Groups- Subgroups- Normal subgroups - Factor group - Cayley\u2019s theorem \u2013 Sylow\u2019s theorem. (10)"
+                },
+                {
+                    "title": "RINGS:",
+                    "content": "Definition and Properties \u2013 Subrings, Ring of Quaternions, Integral domain - Homomorphism \u2013 Ideals and Quotient Rings \u2013 Euclidean ring - Unique factorization theorem, Domain of Gaussian Integers. Polynomials Rings \u2013 Properties, Division -Algorithm, Factorization of Polynomials \u2013 Primitive polynomials. (14)"
+                },
+                {
+                    "title": "FIELDS:",
+                    "content": "Definition \u2013 subfields - Finite fields \u2013 structure of Finite field (6)"
+                },
+                {
+                    "title": "VECTOR SPACES:",
+                    "content": "Linear spaces, subspaces- Linear independence, basis, dimension - Dual spaces - Inner product spaces. (12)"
+                },
+                {
+                    "title": "LINEAR TRANSFORMATIONS:",
+                    "content": "Linear Transformations, null Space and the range Space, rank-nullity-dimension Theorem. Isomorphism between Vector Spaces, matrix representation of a Linear Transformation, matrix for the composition and the Inverse. Similarity transformation, Linear functional. \t\t(12)"
+                },
+                {
+                    "title": "EIGENVALUES AND EIGEN VECTORS:",
+                    "content": "Eigen values, eigenvectors, characteristic polynomial, Cayley-Hamilton theorem, diagonalization. \t\t(6)"
+                }
+            ],
+            "textbooks": [
+                "1.\tHerstein I N., \u2018Topics in Algebra\u2019, Wiley, 2017.",
+                "2.\tStephen H. Friedberg, \u2018Linear Algebra\u2019, Prentice Hall, 2004."
+            ]
+        },
+        {
+            "code": "20SA12",
+            "title": "REAL ANALYSIS",
+            "semester": 1,
+            "course_type": "regular",
+            "credits": "4 0 0 4",
+            "content": [
+                {
+                    "title": "METRIC SPACES:",
+                    "content": "Definition and examples, compact sets, Heine-Borel  theorem. continuous functions,  uniform continuous functions. differentiation- mean value theorem, Taylor\u2019s theorem.(14)"
+                },
+                {
+                    "title": "THE RIEMANN STIELTJES INTEGRAL:",
+                    "content": "Riemann Integral - definition and existence of integral, properties of the integral. Riemann Stieltjes Integrals, integration and differentiation. (12)"
+                },
+                {
+                    "title": "SEQUENCES AND SERIES OF FUNCTIONS:",
+                    "content": "Uniform convergence, uniform convergence and continuity, differentiation and integration ,Equi-continuous families of functions.(12)"
+                },
+                {
+                    "title": "LEBESGUE MEASURE:",
+                    "content": "Introduction, Lebesgue outer measure,  \uf073- algebra of Lebesgue measurable sets, outer and inner approximations, countable additivity , continuity , Borel-Cantelli Lemma.  Lebesgue  measurable functions.(12)"
+                },
+                {
+                    "title": "LEBESGUE INTEGRATION:",
+                    "content": "The Lebesgue integral -bounded measurable functions over a set of finite measure , measurable and non-negative functions, The general Lebesgue Integral. (10)"
+                }
+            ],
+            "textbooks": [
+                "1.\t Walter Rudin, \u2018Principles of Mathematical Analysis\u2019, McGraw Hill, 2019.",
+                "2.\t Royden HL, Fitzpatrick, \u2019Real Analysis\u2019, Pearson, 2015."
+            ]
+        },
+        {
+            "code": "20SA13",
+            "title": "DIFFERENTIAL EQUATIONS",
+            "semester": 1,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "ORDINARY DIFFERENTIAL EQUATIONS:",
+                    "content": "Introduction \u2013 Existence and uniqueness of initial value problems for first order ODEs \u2013 Homogeneous and non-homogeneous linear ODEs - Equations with constant and variable coefficients \u2013 Variation of parameters \u2013 Singular solutions \u2013 Reduction of order \u2013 Sturm-Liouville problems -  Greens\u2019 function. (10)"
+                },
+                {
+                    "title": "SYSTEM OF ORDINARY DIFFERENTIAL EQUATIONS:",
+                    "content": "System of first order ODEs \u2013 Fundamental matrix \u2013 Non-homogeneous linear systems \u2013 Linear system with constant coefficients \u2013 Picard\u2019s theorem \u2013 Continuation and dependence on initial conditions \u2013 Existence and uniqueness of solutions.(9)"
+                },
+                {
+                    "title": "PARTIAL DIFFERENTIAL EQUATIONS:",
+                    "content": "Introduction \u2013 Classification of integrals \u2013 Linear equations of the first order - Integral surface passing through the given curve \u2013 Pfaffian differential equations \u2013 Compatible systems \u2013 Charpit\u2019s method \u2013 Jacobi\u2019s method. (9)"
+                },
+                {
+                    "title": "APPLICATIONS OF PARTIAL DIFFERENTIAL EQUATIONS:",
+                    "content": "Fourier series - Classification of second order PDEs \u2013 Canonical form \u2013 Method of separation of variables \u2013 One dimensional wave equation \u2013 D\u2019Alembert\u2019s solution \u2013 Vibrations of a finite string \u2013 Heat conduction problem \u2013 Finite rod case. (9)"
+                },
+                {
+                    "title": "NONLINEAR SYSTEMS:",
+                    "content": "Autonomous Systems - Phase plane and its phenomena \u2013 Stability for linear systems \u2013 Lyapunov\u2019s direct method \u2013 Simple critical points of nonlinear systems.(12)"
+                }
+            ],
+            "textbooks": [
+                "1.\tEarl. A. Coddington, \u2018An Introduction to Ordinary Differential Equations\u2019, Prentice Hall, 1992.",
+                "2.\tI.N. Sneddon, \u2018Elements of Partial Differential Equations\u2019, Tata McGraw-Hill, 2006.",
+                "3.\tS.G.Deo, V.Ragavendra, Rasmita Kar, V. Lakshmikantham, \u2018Text book of Ordinary Differential Equations\u2019, Mc-Graw Hill, 2015"
+            ]
+        },
+        {
+            "code": "20SA14",
+            "title": "PROBABILITY, STOCHASTIC PROCESSES AND STATISTICS",
+            "semester": 1,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "SAMPLE SPACE AND PROBABILITY:",
+                    "content": "Sets, probability models, conditional probability, total probability theorem, Bayes\u2019 rule, independence, counting. (6+4)"
+                },
+                {
+                    "title": "RANDOM VARIABLES:",
+                    "content": "Discrete and Continuous random variables - Probability mass function and density function, distribution function. Expectation and variance. Discrete distributions: Binomial, Poisson and Geometric. Continuous Distributions: Uniform, Normal, Exponential and Weibull. Joint probability distributions, marginal and conditional distributions, Independent random variables, sums of independent random variables, Conditional expectation and variance.(10+7)"
+                },
+                {
+                    "title": "LIMIT THEOREMS:",
+                    "content": "Markov and Chebyshev inequalities, Law of Large Numbers, Convergence in probability, Central Limit Theorem (7+4)"
+                },
+                {
+                    "title": "STOCHASTIC PROCESSES:",
+                    "content": "Bernoulli and Poisson process, Markov chains- Discrete- Time Markov chain, Classification of states, steady-state behavior, absorption probability and expected time to absorption, period, Continuous-Time Markov chains- Birth and death process (10+7)"
+                },
+                {
+                    "title": "BAYESIAN STATISTICAL INFERENCE:",
+                    "content": "Statistical inference, prior and posterior distributions, conjugate prior distributions, Point estimation, maximum likelihood estimators. Testing of Hypotheses-problems of  Testing Hypotheses, testing simple hypotheses, uniformly most powerful tests. Two-sided test, t - test, comparing means of two Normal distributions, F-distribution, Bayes test procedure. Linear statistical models - Method of least squares, regression, statistical inference in simple linear regression, Bayesian inference in simple linear regression. (12+8)"
+                }
+            ],
+            "textbooks": [
+                "1.  Dimitri P. Bertsekas and John N,Tsitsiklis, \u2018Introduction to Probability\u2019, Athena Scientific, 2008.",
+                "2.  Morris H. DeGroot, Mark J. Schervish, \u2018Probability and Statistics\u2019 Pearson Education ,2018.",
+                "3.  Saeed Ghahramani, \u2018 Fundamentals of probability with Stochastic Processes\u2019, Pearson Education, 2019."
+            ]
+        },
+        {
+            "code": "20SA15",
+            "title": "DISCRETE MATHEMATICS",
+            "semester": 1,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "MATHEMATICAL LOGIC:",
+                    "content": "- Logical operators - Truth tables \u2013 Laws of Logic \u2013 Equivalences \u2013 Rules   of inference - Validity of arguments \u2013 Consistency of specifications \u2013 Propositional  Calculus \u2013 Quantifiers and universe of discourse (8)"
+                },
+                {
+                    "title": "RELATIONS AND FUNCTIONS:",
+                    "content": "Definition and properties of binary  relations \u2013 Representing  relations \u2013 Closures of relations \u2013 Composition of Relations \u2013 Equivalence relations \u2013 Partitions and covering of Sets \u2013 Partial Orderings \u2013 n-ary Relations and their applications.  Functions-Injective, surjective, bijective functions, Composition, Identity and Inverse(8)"
+                },
+                {
+                    "title": "LATTICES:",
+                    "content": "Lattices as partially ordered set \u2013 Properties of Lattices\u2013 Lattices as algebraic system \u2013 Sublattices \u2013 Direct product and Homomorphism \u2013 Some special lattices(10)"
+                },
+                {
+                    "title": "COMBINATORICS:",
+                    "content": "Basics of counting \u2013 The Pigeonhole principle - Permutations and Combinations with and without repetition, Permutations with indistinguishable elements, distribution of objects - Generating permutations and combinations in lexicographic order (8)"
+                },
+                {
+                    "title": "RECURRENCE RELATIONS:",
+                    "content": "Some Recurrence Relation Models- Solutions of linear homogeneous recurrence relations with constant coefficients- solution of linear non-homogeneous recurrence relations by the method of characteristic roots - Divide and conquer recurrence relations. (11)"
+                }
+            ],
+            "textbooks": [
+                "1.     Kenneth H. Rosen, \u2018Discrete Mathematics and its Application\u2019, Mc-Graw Hill, 2011.",
+                "2.     Judith L. Gersting, \u2018Mathematical Structures for Computer Science\u2019, W.H. Freeman and Company, 2014.",
+                "3.     Tremblay J. P. and Manohar R., \u2018Discrete Mathematical structures with application to Computer Science\u2019, Tata Mc-Graw Hill, 2011."
+            ]
+        },
+        {
+            "code": "20SA16",
+            "title": "PROBLEM SOLVING AND C PROGRAMMING",
+            "semester": 1,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "PROBLEM SOLVING:",
+                    "content": "to Problem Solving - Program development - Analyzing and Defining the Problem \u2013 Algorithm -Flow Chart - Programming languages - Types of programming languages- Program Development Environment.  (4)"
+                },
+                {
+                    "title": "C LANGUAGE:",
+                    "content": "Introduction to C Language -  C Character Set - Identifiers and Keywords - Data Types \u2013 Literal Constants - Variables \u2013 l-value-r-value - Qualifiers \u2013 Modifiers - Operators and Expressions \u2013    Type conversions - Library Functions - Data Input and Output Functions \u2013 escape sequence characters \u2013 Formatted input and output.(4)"
+                },
+                {
+                    "title": "CONTROL STATEMENTS:",
+                    "content": "Making Decisions : If Statement \u2013 If/else Statement - If/else if Statement \u2013 Nested if Statements \u2013 dangling else - Switch Multiple Selection Statement\u2013 Repetition : Repetition Essentials - While Loop \u2013 do-While Loop \u2013 For Loop \u2013 Nested Loops  \u2013 Breaking out of a Loop  Continue statement  \u2013 goto Statement.(5)"
+                },
+                {
+                    "title": "FUNCTIONS:",
+                    "content": "Programming \u2013 Function Prototypes - Defining and Calling Functions \u2013Function Call Stack and Activation Records - Passing Arguments to Functions \u2013 Returning a value from a function- Recursion \u2013 Recursion vs. Iteration \u2013 Scope and lifetime of variables \u2013 Memory layout of a C program - Storage Classes - Auto - Static - Extern and Register Variables.(5)"
+                },
+                {
+                    "title": "ARRAYS:",
+                    "content": "Defining Array \u2013Array Initialization - Accessing array elements - Processing arrays - Arrays as function arguments - Multidimensional arrays \u2013 Memory address calculation of an array \u2013 Row major and column major order - String Handling. (5)"
+                },
+                {
+                    "title": "POINTERS:",
+                    "content": "Pointer Variable Definitions and Initializations \u2013 Passing Arguments to Functions by address \u2013 Pointer Expressions and Pointer Arithmetic - Relationship between Pointers and Arrays  - Pointers and multidimensional arrays \u2013Constant Pointer \u2013 Pointer to Constant \u2013NULL pointer- dangling pointers - Pointers to functions - passing functions to other functions \u2013 Introduction to Stack and Heap Memory - Dynamic Memory Allocation.(8)"
+                },
+                {
+                    "title": "STRUCTURES AND UNIONS:",
+                    "content": "Definitions \u2013 Initializing Structures \u2013 Accessing Structure Members -  Processing a structure - typedef- Structures and pointers - Passing structures to functions \u2013 Self-Referential Structures- Bit fields - Unions \u2013 Enumeration Constants.(6)"
+                },
+                {
+                    "title": "FILES:",
+                    "content": "and Streams - Operations on Files \u2013 Types of Files, Various Read and Write Functions for Sequential-Access and Random-Access Files -Command Line Arguments.(4)"
+                },
+                {
+                    "title": "PREPROCESSOR DIRECTIVES:",
+                    "content": "#include Preprocessor Directive - #define Preprocessor Directive: Symbolic Constants - #define Preprocessor Directive : Macros - Conditional Compilation.(4)"
+                }
+            ],
+            "textbooks": [
+                "1.\tBrian W. Kernighan and Dennis Ritchie, \u2018The C Programming Language\u2019, Pearson Education, 2015.",
+                "2.\tR G Dromey, \u2018How to solve it by Computer\u2019, Pearson 2008."
+            ]
+        },
+        {
+            "code": "20SA17",
+            "title": "PROFESSIONAL COMMUNICATIONS",
+            "semester": 1,
+            "course_type": "regular",
+            "credits": "0 0 2 1",
+            "content": [
+                {
+                    "title": "PRACTICALS",
+                    "content": ""
+                }
+            ],
+            "references": [
+                "1.    Course materials prepared by the faculty, Department of English.",
+                "2.     Meenakshi Raman and Sangeeta Sharma, \u2018Technical Communication: Principles and Practice\u2019. Oxford University Press,  2015.",
+                "3.     Dhanavel S.P., \u2018English and Soft Skills\u2019, Orient Black Swan, 2010.",
+                "4.     Murphy  Herta.Hildelrandt, Herbert W and Thomas Jane P,  \u201cEffective Business Communication\u201d, Tata Mc.Graw \u2013 Hill, 2008.",
+                "5.      Priyadarshi Patnaik, \u201cGroup Discussion and Interview Skills\u201d, Indian Institute of Technology, Kharagpur, 2011."
+            ]
+        },
+        {
+            "code": "20SA18",
+            "title": "C PROGRAMMING LAB",
+            "semester": 1,
+            "course_type": "regular",
+            "credits": "0 0 4 2",
+            "references": [
+                "1.    Course materials prepared by the faculty, Department of English.",
+                "2.     Meenakshi Raman and Sangeeta Sharma, \u2018Technical Communication: Principles and Practice\u2019. Oxford University Press,  2015.",
+                "3.     Dhanavel S.P., \u2018English and Soft Skills\u2019, Orient Black Swan, 2010.",
+                "4.     Murphy  Herta.Hildelrandt, Herbert W and Thomas Jane P,  \u201cEffective Business Communication\u201d, Tata Mc.Graw \u2013 Hill, 2008.",
+                "5.      Priyadarshi Patnaik, \u201cGroup Discussion and Interview Skills\u201d, Indian Institute of Technology, Kharagpur, 2011."
+            ]
+        },
+        {
+            "code": "20SA21",
+            "title": "TOPOLOGY AND FUNCTIONAL ANALYSIS",
+            "semester": 2,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "TOPOLOGICAL SPACES AND CONTINUOUS FUNCTIONS:",
+                    "content": "spaces, basis for a topology, subspace topology, order topology, closed sets and limit points, Hausdroff spaces, product topology, metric topology- continuous functions. (10)"
+                },
+                {
+                    "title": "CONNECTEDNESS AND COMPACTNESS:",
+                    "content": "Connected spaces, connected sub sets of the real line, local connectedness, compact spaces, locally compact spaces(7)"
+                },
+                {
+                    "title": "COUNTABILITY AND SEPARATION AXIOMS:",
+                    "content": "Countability axioms. separation axioms, normal spaces, Urysohn\u2019s  Lemma,   Tietze  extension  theorem, Uryshon\u2019s metrization theorem, Tychonoff theorem.(10)"
+                },
+                {
+                    "title": "BANACH SPACES:",
+                    "content": "and examples, continuous linear transformations.  Hahn-Banach theorem, the natural imbedding of a normed space, the open mapping theorem, the closed graph theorem. (10)"
+                },
+                {
+                    "title": "HILBERT SPACES:",
+                    "content": "Definition and simple properties, orthogonal complements, orthonormal sets- Bessel\u2019s inequality. (8)"
+                }
+            ],
+            "textbooks": [
+                "1.    James R Munkres, \u2018Topology -  A  First Course\u2019, Pearson, 2018.",
+                "2.    George F Simmons, \u2018Introduction  to Topology  and  Modern   Analysis\u2019, Tata Mc-Graw Hill, 2017."
+            ]
+        },
+        {
+            "code": "20SA22",
+            "title": "COMPLEX ANALYSIS",
+            "semester": 2,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "ANALYTIC FUNCTIONS AND FUNDAMENTAL THEOREMS:",
+                    "content": "Analytic functions, harmonic conjugates, elementary functions, Mobius transformation, conformal mappings, Cauchy\u2019s theorem and Integral formula, Morera\u2019s Theorem, Cauchy\u2019s theorem for triangle, rectangle, Cauchy\u2019s theorem in a disk, Zeros of Analytic function. The index of a closed curve, counting of zeros.  principles of analytic continuation. Liouville\u2019s theorem, fundamental theorem of algebra. (13)"
+                },
+                {
+                    "title": "SERIES:",
+                    "content": ", uniform convergence, power series, radius of convergences, power series representation of Analytic function, Relation between Power series and Analytic function, Taylor\u2019s series, Laurent\u2019s series(10)"
+                },
+                {
+                    "title": "RESIDUES AND POLES:",
+                    "content": "Rational Functions, singularities, poles, classification of singularities, characterization of removable singularities, poles. behavior of an Analytic functions at an essential singular point, conformal mapping.(8)"
+                },
+                {
+                    "title": "COMPLEX INTEGRATION :",
+                    "content": "Entire and meromorphic functions, residue theorem, evaluation of definite integrals, argument principle, Rouche\u2019s Theorem, Schwartz lemma, Open mapping and Maximum modulus theorem and applications, convex functions, Hadmard\u2019s Three circle theorem. (14)"
+                }
+            ],
+            "textbooks": [
+                "1.     J. B. Conway, \u2019Functions of One Complex Variable\u2019, Narosa, 2007.",
+                "2.     L.V. Ahlfors, \u2018Complex Analysis\u2019, Mc-Graw Hill, 2013."
+            ]
+        },
+        {
+            "code": "20SA23",
+            "title": "OBJECT ORIENTED PROGRAMMING",
+            "semester": 2,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "PRINCIPLES OF OBJECT ORIENTED PROGRAMMING:",
+                    "content": "Oriented Programming - Object Oriented Programming Paradigm. (1)"
+                },
+                {
+                    "title": "FUNCTIONS IN C++:",
+                    "content": "Function Prototyping - Call by Reference - Return by reference - Inline functions - Default, Const Arguments - Function -  Overloading. Classes  and  Objects - Member  functions -  Nesting  of  Member  functions  - Private member functions -  Memory  allocation  for  Objects - Static data members - Static Member Functions - Arrays of Objects - Objects as Function Arguments -  Friend Functions - Returning Objects - Const Member functions - Pointers to Members(6)"
+                },
+                {
+                    "title": "CONSTRUCTORS:",
+                    "content": "Parameterized Constructors - Multiple Constructors in a Class - Constructors with Default Arguments \u2013Dynamic Initialization of Objects - Copy and Dynamic Constructors \u2013 Destructors overloading.(3)"
+                },
+                {
+                    "title": "INHERITANCE AND  POLYMORPHISM:",
+                    "content": "Defining Derived Classes \u2013 Types - Compile and Run Time Polymorphism - Virtual function \u2013 Overloading Unary and Binary Operators - Overloading Binary Operators using Friend functions \u2013 Operator Type conversion. (7)"
+                },
+                {
+                    "title": "TEMPLATES :",
+                    "content": "Introduction to Templates, Generic Functions and Generic Classes(2)"
+                },
+                {
+                    "title": "INTRODUCTION TO JAVA:",
+                    "content": "Data Types -   Declarations \u2013Wrapper Classes - Arrays and Strings \u2013 Input/Output.-Java Classes and Methods - Constructors - Scope rules - this keyword.(6)"
+                },
+                {
+                    "title": "PACKAGES AND INTERFACES:",
+                    "content": "- Access protection - Importing packages \u2013 inheritance vs Interfaces - Defining and Implementing Interface - Applying Interface. (4)"
+                },
+                {
+                    "title": "EXCEPTION HANDLING:",
+                    "content": "Fundamentals - Exception types - Uncaught Exception - Using Try and Catch - Multiple catch clauses - Nested Try statements - Throw - Throws - Java Built-in Exception \u2013 User defined Exceptions.(4)"
+                },
+                {
+                    "title": "MULTI THREADED PROGRAMMING:",
+                    "content": "thread model - Priorities - Synchronization - Messaging - Thread class and runnable Interface - Main thread - Thread creation - Synchronization - Interthread Communication \u2013 Deadlock.(5)"
+                },
+                {
+                    "title": "I/O:",
+                    "content": "I/O basics - Stream - Stream Classes - Predefined stream - Reading/Writing console Input. (3)"
+                },
+                {
+                    "title": "GUI:",
+                    "content": "Applet fundamentals - GUI Components \u2013 Event Handling. (3)"
+                }
+            ],
+            "textbooks": [
+                "1.\tStanley B. Lippman, Josee Lajoie and Barbara E. Moo, \u2018The C++ Primer\u2019, Addison Wesley, 2013.",
+                "2.\tHerbert Schildt, \u2018JAVA - The Complete Reference\u2019, Tata Mc-Graw Hill, 2018."
+            ]
+        },
+        {
+            "code": "20SA24",
+            "title": "DATA STRUCTURES",
+            "semester": 2,
+            "course_type": "regular",
+            "credits": "4 0 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Data structures - Abstract Data Type - Primitive data structures - Analysis of algorithms- Best, worst and average case time complexities \u2013 Asymptotic notations.(6)"
+                },
+                {
+                    "title": "ARRAYS:",
+                    "content": "Operations - Implementation of one, two, three and multi dimensioned arrays \u2013 Sparse and dense matrices \u2013 Applications.(4)"
+                },
+                {
+                    "title": "STACKS:",
+                    "content": "operations - sequential implementation - Applications: Subroutine handling - Recursion \u2013 Expression Processing.(4)"
+                },
+                {
+                    "title": "QUEUES:",
+                    "content": "Primitive operations \u2013 circular queue- Priority Queues \u2013 Dequeues. (4)"
+                },
+                {
+                    "title": "LISTS:",
+                    "content": "Primitive Operations - Singly linked lists, Doubly linked lists, Circular linked lists, Multiply linked lists - Applications: Addition of Polynomials; Multiply linked list : Sparse Matrix representation and Operations. \u2013 Linked Stacks - Linked queues - Linked Priority queues - Dynamic Storage Management.(8)"
+                },
+                {
+                    "title": "TREES:",
+                    "content": "Terminologies \u2013 Binary tree: Properties - Sequential and linked representation - Common binary tree operations - Traversals - Expression trees - Infix, Postfix and Prefix expressions - Threaded trees - Heaps, Max heap, Min heap.(10)"
+                },
+                {
+                    "title": "DICTIONARY DATA STRUCTURES:",
+                    "content": "Search Trees-Search, Insertion, Deletion-Time Complexity. AVL Tree- Insertion-Rotation-Deletion-Complexity.\t Hash Tables-hash functions-collision handling techniques and resolution (9)"
+                },
+                {
+                    "title": "MULTIWAY SEARCH TREES:",
+                    "content": "Indexed Sequential Access \u2013 m-way search trees \u2013 B-Tree \u2013 searching, insertion and deletion.(5)"
+                },
+                {
+                    "title": "GRAPHS:",
+                    "content": "Introduction-representations -Adjacency matrix, packed adjacency list and linked adjacency list\u2013 Graph search methods-Breadth first and depth first traversals.(6)"
+                },
+                {
+                    "title": "SORTING AND SEARCHING:",
+                    "content": "sort, selection sort, bubble sort, heap sort, count sort and radix sort - Linear Search, Binary Search-Time Complexity.(4)"
+                }
+            ],
+            "textbooks": [
+                "1.     Sahni Sartaj, \u2018Data Structures, \u2018Algorithms and Applications in C++\u2019, Silicon Press,2011.",
+                "2.     Aaron M. Tanenbaum, Moshe J. Augenstein and Yedidyah Langsam, \u2018Data structures using C and C++\u2019, Prentice Hall, 2016.",
+                "3.     Michael T. Goodrich, Roberto Tamassia and David Mount,  \u2018Data Structures and Algorithms in C++\u2019, John Wiley, 2011."
+            ]
+        },
+        {
+            "code": "20SA25",
+            "title": "DATABASE MANAGEMENT SYSTEM",
+            "semester": 2,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "BASIC CONCEPTS:",
+                    "content": "Introduction to databases \u2013 Conventional file processing \u2013 Purpose of database system \u2013 Characteristics of database approach \u2013 Advantages of using DBMS \u2013 Database concept and architecture \u2013 Data Abstraction \u2013 Data Models \u2013 Instances and Schema \u2013 Data Independence \u2013 Schema Architecture \u2013 Components of a DBMS. (8)"
+                },
+                {
+                    "title": "DATA MODELING:",
+                    "content": "Introduction \u2013 Data associations \u2013 Entities, attributes, relationships \u2013 Type role and structural constraints \u2013 Weak and Strong entity types \u2013 Design of Entity Relationship data models (ERD) \u2013 Generalization \u2013 Aggregation \u2013 Conversion of ERD into tables \u2013 Applications \u2013 Introduction to Network data model and Hierarchical data model. (6)"
+                },
+                {
+                    "title": "FILE ORGANIZATION:",
+                    "content": "Storage device characteristics \u2013 Constituents of a file \u2013 Operations on file \u2013 Serial files \u2013 Sequential files \u2013 Index sequential files \u2013 Direct files \u2013 Primary and Secondary Key Retrieval \u2013 Types of indexes - Indexing using Tree  Structures(6)"
+                },
+                {
+                    "title": "RELATIONAL MODEL:",
+                    "content": "Introduction to Relational Data Model \u2013 Basic concepts \u2013 Enforcing Data Integrity constraints \u2013 Relational Algebra Operations \u2013 Extended Relational Algebra Operations(6)"
+                },
+                {
+                    "title": "RELATIONAL DATABASE MANIPULATION:",
+                    "content": "Introduction to Structured Query Language (SQL) \u2013 SQL Commands for  defining Database, Constructing database,  Manipulations on database \u2013 Basic data retrieval operations \u2013 Advanced Queries in SQL \u2013 Functions in SQL \u2013 Aggregation \u2013 Categorization \u2013 Updates in SQL \u2013 Views in SQL \u2013\u2013 PL/SQL Basics \u2013 Procedures \u2013 Functions \u2013 Triggers.(5)"
+                },
+                {
+                    "title": "DATA BASE DESIGN THEORY:",
+                    "content": "Data base design process \u2013 Relational Database Design \u2013 Relation Schema \u2013 Anomalies in a database \u2013 Functional dependencies \u2013 Axioms \u2013 Normal forms based on primary keys \u2013 Second Normal form, Third Normal form, Boyce \u2013 Codd Normal form \u2013 Examples \u2013 Multi-valued dependencies  \u2013 Fourth Normal form \u2013 Reduction of an E-R schema to Tables \u2013 Practical database design tuning(8)"
+                },
+                {
+                    "title": "TRANSACTION PROCESSING AND CONCURRENCY CONTROL:",
+                    "content": "Transactions, Locking techniques, Concurrent access, Deadlock handling.(3)"
+                },
+                {
+                    "title": "DATABASE SECURITY, INTEGRITY CONTROL:",
+                    "content": "Security and Integrity threats \u2013 Defense mechanisms \u2013 Discretionary Access Control and Mandatory Access Control.(3)"
+                }
+            ],
+            "textbooks": [
+                "1.     Ramez Elmasri  and Navathe Shamkranth, \u2018Fundamentals of Database Systems\u2019, Pearson Education, 2016.",
+                "2.     Silberschatz A, Korth H and Sudarshan S, \u2018Database System Concepts\u2019, Mc-Graw Hill, 2019."
+            ]
+        },
+        {
+            "code": "20SA27",
+            "title": "OBJECT COMPUTING LAB",
+            "semester": 2,
+            "course_type": "regular",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "20SA28",
+            "title": "DATA STRUCTURES LAB",
+            "semester": 2,
+            "course_type": "regular",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "20SA29",
+            "title": "DATABASE MANAGEMENT SYSTEM LAB",
+            "semester": 2,
+            "course_type": "regular",
+            "credits": "0 0 2 1"
+        },
+        {
+            "code": "20SA31",
+            "title": "APPLIED GRAPH THEORY",
+            "semester": 3,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "Basic Concepts:",
+                    "content": "graphs,digraphs, subgraphs, graph models, graph representations, degree sequence. Walk, trail, path, connected graph, distance, diameter, clique, independent set, vertex cover. Graph isomorphism, graph decomposition. Algorithms \u2013 time and space complexities. Depth-first and breadth-first  search algorithms.(10)"
+                },
+                {
+                    "title": "Trees & Connectivity:",
+                    "content": "Trees \u2013 characterizations, spanning tree  - matrix tree theorem, Prim\u2018s and Kruskal\u2018s algorithms, Cayley\u2019s formula. Shortest path problem \u2013 Dijkstra\u2019s algorithm, Floyd\u2019s algorithm for all pair shortest path. Vertex and edge connectivity, relationship between vertex and edge connectivity, bounds for connectivity. Constructing reliable network- Harary\u2019s k-connected graphs(10)"
+                },
+                {
+                    "title": "EULERIAN & HAMILTONIAN GRAPHS:",
+                    "content": "Eulerian trails and tours. Optimal Chinese Postman Tour \u2013 Edmond\u2019s and Johnson algorithm, Eulerian trail \u2013 Fleury\u2019s algorithm, Hierholzer's Algorithm. Hamiltonian cycles \u2013 Ore\u2019s and Dirac\u2019s conditions. Gray codes, Traveling Salesman problem \u2013 Christofide\u2019s algorithm. Walecki\u2019s construction(8)"
+                },
+                {
+                    "title": "MATCHING & NETWORK FLOWS:",
+                    "content": "Matching, Bipartite matching, Hall\u2019s theorem, Perfect matching, Tutte\u2019s 1-factor theorem, augmenting path algorithm, Edmonds's Blossom Algorithm, Gale\u2013Shapley algorithm. Flows and cuts, maximum flow problem, Max-flow Min-cut Theorem, Ford-Fulkerson Algorithm (9)"
+                },
+                {
+                    "title": "COLORING & PLANAR GRAPHS:",
+                    "content": "Vertex-coloring \u2013 upper chromatic number, bounds using clique number, maximum degree, Welsh \u2013 Powell theorem. Sequential and largest degree first algorithms, applications to frequency assignment. Euler\u2019s formula, dual graph, Kuratowski\u2019s theorem, 4-color problem, Wagner\u2019s theorem. Planarity testing \u2013 Hopcraft-Tarjan algorithm (8)"
+                }
+            ],
+            "textbooks": [
+                "1.\t    Jonathan Gross and Jay Yellen, \u2018Graph Theory and its Applications\u2019, CRC Press, Boca Raton, 2006.",
+                "2.\t    Bondy J.A. and Murty U.S.R., \u2018Graph Theory\u2019 Springer, 2010."
+            ]
+        },
+        {
+            "code": "20SA32",
+            "title": "OPTIMIZATION TECHNIQUES",
+            "semester": 3,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "LINEAR PROGRAMMING:",
+                    "content": "Linear  programming modeling \u2013 Solution techniques \u2013 Graphical method, Simplex method,  Big M method , Two Phase method - Special cases of Simplex method(10)"
+                },
+                {
+                    "title": "DUALITY AND SENSITIVITY ANALYSIS:",
+                    "content": "Analysis for Graphical method and general linear programming model- Dual Problem \u2013 Primal and Dual relationship \u2013 Economic Interpretation of duality \u2013 Dual Simplex method \u2013 Post Optimal Analysis(9)"
+                },
+                {
+                    "title": "NON-LINEAR PROGRAMMING:",
+                    "content": "Elimination methods for one dimensional minimization problems \u2013 Unimodal function - Interval halving method, Fibonacci method, \u2013 Hooke and Jeeves pattern search  method \u2013 Indirect search methods \u2013 Cauchy\u2019s steepest descent method, Fletcher-Reeves conjugate gradient method   (8)"
+                },
+                {
+                    "title": "DECISION MAKING:",
+                    "content": "B> Decision making under certainty and uncertainty \u2013 decision making under risk (6)"
+                },
+                {
+                    "title": "DYNAMIC PROGRAMMING :",
+                    "content": "Principle of optimality - Forward and Backward Recursion methods \u2013  Shortest route problem -  Knapsack model \u2013 Work force size model (6)"
+                },
+                {
+                    "title": "FINANCIAL APPLICATIONS  :",
+                    "content": "Dynamic  Programming approaches to solve Financial problems - Option Pricing using Binomial Lattice  -  Mortgage backed securities (6)"
+                }
+            ],
+            "textbooks": [
+                "1. Hamdy A Taha, \u2018Operations Research :An Introduction\u2019, Pearson Education, 2017",
+                "2. Singiresu S Rao, \u2018Engineering Optimization Theory and Practice\u2019, John Wiley, 2014"
+            ]
+        },
+        {
+            "code": "20SA33",
+            "title": "NUMBER THEORY AND CRYPTOGRAPHY",
+            "semester": 3,
+            "course_type": "regular",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "ARITHMETICAL FUNCTIONS:",
+                    "content": "Divisibility-Division Algorithm, Euclidean Algorithm; Primes-Fundamental Theorem of Arithmetic: Arithmetic function-Euler totient function(6)"
+                },
+                {
+                    "title": "CONGRUENCES:",
+                    "content": "Introduction  to Congruence - Definition, properties, Ring of integer modulo n, Prime field, Primitive roots,  Irreducible polynomial, Chinese remainder Theorem, Euler, and Fermat Theorem, Legendre, Jacobi, and Quadratic Reciprocity. (6)"
+                },
+                {
+                    "title": "CRYPTOGRAPHIC PRIMITIVES:",
+                    "content": "Definitions and Illustrations: Symmetric-Key Cryptography, Classical Ciphers, Stream Ciphers, Block Ciphers LFSRs, Modes of Operation, DES, AES -  Attacks  (9)"
+                },
+                {
+                    "title": "PUBLIC-KEY CRYPTOGRAPHY:",
+                    "content": "of PKC, RSA Cryptosystem, PKC based on the Discrete  Logarithm problem -ElGamal Cryptosystem and  Elliptic Curve systems. (9)"
+                },
+                {
+                    "title": "HASH FUNCTIONS AND SIGNATURE SCHEMES:",
+                    "content": "Hash functions based on Cryptosystems, Message Digest,The RSA signature scheme, The Digital Signature Algorithm. The ElGamal signature scheme.(8)"
+                },
+                {
+                    "title": "KEY DISTRIBUTION AND KEY AGREEMENT:",
+                    "content": "Introduction, Key transport based on symmetric encryption - Kerberos. Key agreement based on symmetric techniques - Blom\u2019s Scheme, Key transport based on public key encryption-Needham \u2013Schroeder protocol, Key agreement based on asymmetric techniques- Diffie-Hellman key agreement protocol, station- to- station protocol. (7)"
+                }
+            ]
+        },
+        {
+            "code": "20SA34",
+            "title": "MACHINE LEARNING",
+            "semester": 3,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Machine learning \u2013 Types \u2013 Supervised learning, unsupervised, Reinforcement learning, semi supervised learning -  Regression \u2013 Linear \u2013 Polynomial \u2013 Multiple regression \u2013 Evaluation measures \u2013 Bias \u2013variance \u2013 overfitting \u2013 under fitting \u2013 Regularization.(10)"
+                },
+                {
+                    "title": "CLASSIFICATIONS:",
+                    "content": "Linear classification \u2013 Logistic regression \u2013 linear discriminant analysis \u2013 Optimization \u2013 Convex set - Convex functions \u2013 Convexity checking - Loss functions  for classification and regression - Gradient descent \u2013 variants \u2013 Perceptron - Support Vector Machines \u2013 Linear, Soft margin, Linearly non separable data - Kernel functions(10)"
+                },
+                {
+                    "title": "NEURAL NETWORKS:",
+                    "content": "Multilayer perceptron  - Back propagation \u2013 Training \u2013 Bayesian Classifier \u2013 Decision theory \u2013 Maximum A Posteriori estimate \u2013  maximum likelihood estimate  K nearest neighbour classifier. (10)"
+                },
+                {
+                    "title": "DECISION TREES:",
+                    "content": "Introduction \u2013 Purity measures \u2013 Entropy, cross entropy,  information gain, gain ratio, Gini Index \u2013 Regression trees \u2013 ID3 \u2013 Pruning \u2013 Model selection \u2013 Bootstrapping and cross validation \u2013 Model evaluation \u2013 Performance Measures \u2013 Receiver operating characteristic curve (ROC) \u2013 AUC.(8)"
+                },
+                {
+                    "title": "UNSUPERVISED LEARNING:",
+                    "content": "Clustering \u2013Types - K-means \u2013 EM - Mixture of Gaussians \u2013Spectral clustering -  Cluster validity measures \u2013 dimensionality reduction- extraction \u2013 PCA (Principal components analysis) - ICA (Independent components analysis)   - Applications : image segmentation \u2013 Image compression \u2013Outlier analysis (7)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1. Download the datasets from UCI machine learning repository / www.kaggle.com for classification and clustering. \n                    \u2003 a. Mail spam  \n                    \u2003 b. Breast cancer data  \n                    \u2003 c. Iris data  \n                    \u2003 d. MNIST dataset  \n \n                    2. Implement the following Classification algorithms on the above suitable datasets.\n                    \u2003   a. Na\u00efve Bayes \n                    \u2003  b. LDA / QDA \n                    \u2003  c. SVM  \n                    \u2003  d. K nearest neighbor  \n                    \u2003  e. Multi layer Perceptron \n                    3. Do tenfold cross validation experiments and statistical validation using t-test and ANOVA. \n                    4. Apply clustering for image segmentation and image compression. \n                    5. Apply Spectral clustering on data sets and visualization through plots  \n                    6. Apply PCA / LDA / Factor analysis on Iris data set, reduce the dimension and visualize the data .   \n                    7. Apply semi supervised learning techniques on data sets for the following tasks: to fill missing values / classification"
+                }
+            ],
+            "textbooks": [
+                "1.\tDavid Barber, \u2018Machine Learning: A Probabilistic Approach\u2019, http://www.idiap.ch/~barber, 2006.",
+                "2.\tAlpaydin Ethem, \u2018Introduction to Machine Learning\u2019, Massachusetts Institute of Technology Press, 2020."
+            ]
+        },
+        {
+            "code": "20SA37",
+            "title": "SCIENTIFIC COMPUTING LAB",
+            "semester": 3,
+            "course_type": "regular",
+            "credits": "0 0 2 1",
+            "textbooks": [
+                "1. Steven C. Chapra and Raymond P. Canale, \u2018Nmerical Methods for Engineers with Software and Programming Applications\u2019,"
+            ]
+        },
+        {
+            "code": "20SA38",
+            "title": "MINI PROJECT & SEMINAR",
+            "semester": 3,
+            "course_type": "regular",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "20SA40",
+            "title": "PROJECT WORK",
+            "semester": 4,
+            "course_type": "regular",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "20SA61",
+            "title": "Algebraic Topology",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "ALGEBRAIC TOPOLOGY:",
+                    "content": "Homotopy of Paths- The Fundamental Groups- Circle , group of Sn, Covering spaces- Retractions of fixed points- The fundamental theorem of Algebra (9+6)"
+                },
+                {
+                    "title": "SEPARATION THEOREMS IN PLANE:",
+                    "content": "The Jordan Separation Theorem\u2014Invariance of domain-Jordan Curve Theorem- Imbedding graphs in a plane- Winding number of simple closed curve(10+7)"
+                },
+                {
+                    "title": "CLASSIFICATION OF SURFACES:",
+                    "content": "Groups of Surfaces-Homology of Surfaces- Cutting and pasting- The classification theorem- Constructing compact surfaces. (10+7)"
+                },
+                {
+                    "title": "AXIOMATIC APPROACH TO DIGITAL TOPOLOGY:",
+                    "content": "Axioms of Digital Topology, Relation between the suggested and classical Axioms, Deducing the properties of ALF spaces from the axioms.\t(8+5)"
+                },
+                {
+                    "title": "ABSTRACT CELL COMPLEXES:",
+                    "content": "Topology of complexes, Cartesian complexes and combinatorial coordinates, AC complexes compared with other Locally Finite Spaces. (8+5)"
+                }
+            ],
+            "textbooks": [
+                "1.   James R. Munkres, \u2018Topology- A First Course\u2019, Pearson, 2018.",
+                "2.   Allen Hatcher, \u2018Algebraic Topology\u2019, Cambridge University Press, 2002."
+            ]
+        },
+        {
+            "code": "20SA62",
+            "title": "ARTIFICIAL INTELLIGENCE",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "The foundations of AI - The History of AI - Intelligent agents - Agent based system. (2)"
+                },
+                {
+                    "title": "PROBLEM SOLVING:",
+                    "content": "State Space models - Searching for solution - Uninformed/Blind search - Informed/ Heuristic search - A* search - Hill-climbing search - Meta Heuristic: Genetic Algorithm - Adversary based search : Minimax \u2013 Expectimax \u2013 Alpha Beta pruning \u2013 Constraint satisfaction problem  -  Backtracking search.(10)"
+                },
+                {
+                    "title": "KNOWLEDGE REPRESENTATION AND REASONING:",
+                    "content": "Knowledge representation - Logics - bivalent logic - inference - Fuzzy logic: membership - Fuzzy rules and reasoning - Fuzzy inference.(8)"
+                },
+                {
+                    "title": "UNCERTAIN KNOWLEDGE AND PROBABILISTIC REASONING:",
+                    "content": "- Probabilistic reasoning - Semantics of Bayesian network - Exact inference in Bayesian network- Approximate inference in Bayesian network - Probabilistic reasoning over time \u2013 Inference in temporal models - Hidden Markov Models \u2013 Dynamic Bayesian Networks.(10)"
+                },
+                {
+                    "title": "DECISION-MAKING:",
+                    "content": "Basics of utility theory, Utility functions - Sequential decision problems - Markov decision process - Value iteration - Policy iteration - Decisions in Multi agent system:  Multi agent decision theory - Group decision making(10)"
+                },
+                {
+                    "title": "LEARNING:",
+                    "content": "Learning from observation \u2013 Supervised Learning: Neural networks - Unsupervised - Reinforcement learning.  Robotics - Introduction.(5)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1.\tImplementation of blind search algorithms. \n                    2.\tImplementation of Heuristic search algorithms like A* and Hill Climbing. \n                    3.\tSolving 8 \u2013puzzle and Missionaries and Cannibals problem. \n                    4.\tConstraint satisfaction techniques \n                    5.\tLogic based exercises. \n                    6.\tImplementation of supervised and unsupervised learning algorithms. \n                    7.\tSimple games \u2013 minimax and expectimax"
+                }
+            ],
+            "textbooks": [
+                "1.    Stuart Russell and Peter Norvig, \u2018Artificial Intelligence: A Modern Approach\u2019, Pearson Education, 2020.",
+                "2.    David Pool and Alan Mackworth, \u2018Atificial Intelligence: Foundations of Computational agents\u2019, Cambridge University"
+            ]
+        },
+        {
+            "code": "20SA63",
+            "title": "BIG DATA AND MODERN DATABASE SYSTEMS",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "OBJECT AND SPATIAL DATABASES:",
+                    "content": "Object Oriented Databases - Complex data types - Structured types and\n                    Inheritance \u2013 Query Processing in Object databases - Spatial Databases : Geometric Information System \u2013 Spatial\n                    Data Types \u2013 Spatial Queries - Spatial indexing techniques.\n                     (6)"
+                },
+                {
+                    "title": "PARALLEL AND DISTRIBUTED DATABASES:",
+                    "content": "Architecture of parallel databases \u2013 Parallel query evaluation, Parallel\n                    Query optimization \u2013 Distributed DBMS Architecture, Distributed Database Design, Distributed Query Processing.(5)"
+                },
+                {
+                    "title": "DATA MODELING FOR BIG DATA",
+                    "content": "Big Data and Challenges, Big Data models, NoSQL data models, Basic principles\n                    of  NoSQL models, BASE properties, CAP Theorem, SQL databases Vs  NoSQL databases - MAP-REDUCE: Apache\n                    Hadoop and HDFS, SPARK.\n                    (10)"
+                },
+                {
+                    "title": "NOSQL DATABASES (PART 1):",
+                    "content": "Key - Value Stores: Amazon DynamoDB, Key -Value Stores (in-memory) : Redis , Column Oriented Store: Google BigTable , Apache Cassandra - Hbase.(10)"
+                },
+                {
+                    "title": "NOSQL DATABASES (PART 2):",
+                    "content": "Document Oriented Stores \u2013 MongoDB - Apache CouchDB - Graph databases:\n                    Neo4J \u2013  Orient DB (9)"
+                },
+                {
+                    "title": "DATABASE INTEGRATION:",
+                    "content": "warehousing, Virtual Data Integration - Schema directed data integration - Schema \n                    mapping and information preservation (5)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1.  Creating and querying object relational data base \n                    2.  Implementing of spatial database and spatial data queries. \n                    3.  Distribution using Map- Reduce onBig Data ( Hadoop) \n                    4.  Data Integration from heterogeneous Databases. \n                    5.  Implementation of No-SQL databases : DynamoDB, MongoDB, HBASE, Neo4J."
+                }
+            ],
+            "textbooks": [
+                "1.   Pramod J. Sadalage and Martin Fowler, \u2018NoSQL Distilled - Brief Guide to the Emerging World of Polyglot Persistence\u2019, Pearson Education, 2013.",
+                "2.   Guy Harrison, \u2018Next generation Databases: NoSQL and Big Data\u2019, Apress, 2015.",
+                "3.   Kristina Chodorow, Mongon DB \u2018The Definitive Guide\u2019, O\u2019Reilly Media, 2019.",
+                "4.   Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia, \u2018Learning Spark: Lightning - Fast Big Data Analysis\u2019, O'Reilly"
+            ]
+        },
+        {
+            "code": "20SA64",
+            "title": "CALCULUS OF VARIATIONS AND TRANSFORMS",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTEGRAL EQUATIONS:",
+                    "content": "Introduction - Linear integral equation of the first and second kind of Fredholm and Volterra type - Solutions with separable kernels \u2013 Eigen values \u2013 Eigen functions - Resolvent kernel \u2013 Construction of Green\u2019s function for BVP (9+6)"
+                },
+                {
+                    "title": "CALCULUS OF VARIATIONS:",
+                    "content": "- Variation of a functional - Euler-Lagrange equation - Necessary and sufficient conditions for extrema - Variational methods for boundary value problems in ordinary and partial differential equations.(8+5)"
+                },
+                {
+                    "title": "LAPLACE TRANSFORM:",
+                    "content": "Definition - Transforms of Standard Functions - Transform of unit step and Dirac delta functions \u2013 Transforms of derivatives and integrals \u2013Derivative and integrals of Transforms- Transforms of Periodic functions - Inverse Laplace transform- Convolution Theorem. Solving ordinary linear differential equations with constant coefficient and solving integral equations using Laplace transform. (10+6)"
+                },
+                {
+                    "title": "FOURIER TRANSFORM:",
+                    "content": "Fourier integrals  - Fourier transform- Fourier sine and cosine transform - Transforms of standard functions - Properties, Convolution theorem (Statement only) \u2013 Discrete Fourier and Fast Fourier Transforms \u2013 Discrete Convolution \u2013 Periodic sequence and circular convolution \u2013 Discrete Fourier Transform \u2013 decimation\u2013in-time algorithm \u2013 Decimation-in-frequency algorithm \u2013 Computation of inverse DFT(10+6)"
+                },
+                {
+                    "title": "Z-TRANSFORM:",
+                    "content": "Z - transform of standard functions, inverse Z-transform \u2013 properties of Z \u2013 transform \u2013 Difference equations \u2013 Modeling and Solution of difference equations. (8+5)"
+                }
+            ],
+            "textbooks": [
+                "1.  Ram P. Kanwal, \u2018Linear Integral Equations: Theory and Technique\u2019, Birkha \u0308user, 2013.",
+                "2.  I.M. Gelfand and S. V. Fomin, \u2018Calculus of Variations\u2019, Dover, 2000.",
+                "3.  Ewin Kreyszig, \u2018Advanced Engineering Mathematics\u2019, John Wiley, 2015."
+            ]
+        },
+        {
+            "code": "20SA65",
+            "title": "CLASSICAL MECHANICS",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "THE MECHANICAL SYSTEMS:",
+                    "content": "Introductions, basic properties  Generalized coordinates- Constraints - Virtual work - Energy and momentum. (9+6)"
+                },
+                {
+                    "title": "LAGRANGE\u2019S EQUATIONS:",
+                    "content": "Introduction to Lagrange\u2019 s equations, Derivation of Lagrange\u2019s equations - Examples - Integrals of the motion(10+7)"
+                },
+                {
+                    "title": "HAMILTON\u2019S EQUATIONS:",
+                    "content": ", Hamilton\u2019s principles,  Hamilton\u2019s equations \u2013 Other variational principles.(10+7)"
+                },
+                {
+                    "title": "HAMILTON \u2013 JACOBI  THEORY:",
+                    "content": "Hamilton\u2019s principal function - The Hamilton \u2013 Jacobi equation - Separability(8+5)"
+                },
+                {
+                    "title": "CANONICAL TRANSORMATIONS:",
+                    "content": "Differential forms and generating functions - Special transformations - Lagrange and Poisson brackets (8+5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tDonald T. Greenwood, Classical Dynamics, Dover Publication, 1997.",
+                "2.\tHerbert Goldstein, Charles Poole, John Safko, Classical Mechanics, Pearson Education, 2002"
+            ]
+        },
+        {
+            "code": "20SA66",
+            "title": "COMPUTATIONAL FINANCE",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Computational finance - Cash Flow Streams - Investments and the Market \u2013 Forwards, Futures, and Options \u2013 No arbitrage and the Law of One Price\u2013Forwards\u2013Futures\u2013Option type, style, and payoff\u2013Put-Call Parity for European options\u2013Put-Call Parity bounds for American options. (5)"
+                },
+                {
+                    "title": "MATHEMATICAL  PRELIMINARIES",
+                    "content": "Univariate distributions - quantiles of a distribution, Value-at-Risk \u2013 Bivariate\n                    distributions - Covariance, correlation, autocorrelation, linear combinations of random variables  - Time series analysis:\n                    Covariance stationarity, autocorrelations, MA(1) and AR(1) models \u2013 Descriptive statistics  - Stochastic calculus\n                    Martingales  and Brownian motion.\n                    (10)"
+                },
+                {
+                    "title": "PORTFOLIO THEORY",
+                    "content": "- Introduction - Review of constrained optimization methods, Markowitz algorithm, Markowitz\n                    Algorithm using the solver and matrix algebra \u2013 Markowitz algorithm with no short sales constraints- Portfolio risk\n                    budgeting\u2013 Statistical analysis of efficient portfolios.\n                    .(10)"
+                },
+                {
+                    "title": "BASIC OPTIONS THEORY",
+                    "content": "\u2013 Definitions \u2013 Pay off diagrams \u2013 Single period binomial options theory \u2013 Multi period binomial options theory \u2013 Real options-Simulation methods for options pricing(10)"
+                },
+                {
+                    "title": "THE CAPITAL ASSET PRICING (CAP) AND RISK BUDGETING",
+                    "content": ":  Mean variance portfolio theory \u2013 Asset returns \n                    Variance as a risk measure - The one and two fund theorems \u2013 The capital market line \u2013 CAP  as a pricing formula\n                    Systematic and unsystematic risk \u2013 Euler\u2019s theorem \u2013 Asset contributions to volatility \u2013Beta as a measure of portfolio\n                    risk-limitations.\n                     (10)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1.    Obtaining financial data, computing returns, plotting and basic analysis \n                    2.    Working with time series data \n                    3.    Linear time series modeling and forecasting   \n                    4.    Modeling volatility: Volatility forecasting for risk management  \n                    5.    Portfolio optimization: Mean-variance model   \n                    6.    Tangency portfolio and Capital Market Line   \n                    7.    Asset Pricing model: Capital Asset Pricing Model, Beta estimation  \n                    8.    Estimating the Term Structure of Interest Rates   \n                    9.    Derivatives Pricing: The Black-Scholes model, The Cox-Ross-Rubinstein model."
+                }
+            ],
+            "textbooks": [
+                "1.     David Ruppert, \u2018Statistics and Data Analysis for Financial Engineering\u2019, Springer, 2013.",
+                "2.     Marek Capinski and Tomasz Zastawniak, \u2018Mathematics for Finance\u2019, Springer, 2003"
+            ]
+        },
+        {
+            "code": "20SA67",
+            "title": "DATA MINING",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "mining, kinds of data, kinds of patterns, major issues in data mining; Data objects and attribute types, measuring data similarity and dissimilarity. (6)"
+                },
+                {
+                    "title": "DATA PREPROCESSING:",
+                    "content": "pre-processing, data cleaning, data integration, data reduction.\n                    (10)"
+                },
+                {
+                    "title": "MINING FREQUENT PATTERNS, ASSOCIATIONS AND CORRELATIONS:",
+                    "content": "concepts, frequent item set mining\n                    methods, apriori algorithm, FP tree, pattern evaluation methods.(10)"
+                },
+                {
+                    "title": "CLASSIFICATION:",
+                    "content": "Basic concepts, decision tree induction, Bayes classification methods, model evaluation and\n                    selection, metrics for evaluating classifier performance, Holdout methods and Random sub sampling, Cross-validation\n                    and ROC Curves, Techniques to improve classification accuracy, Bagging, Boosting and AdaBoost.\n                    (9)"
+                },
+                {
+                    "title": "CLUSTER ANALYSIS:",
+                    "content": "Cluster analysis, partitioning methods, K-means, K-medoids, hierarchical methods, agglomerative versus divisive hierarchical clustering, density-based methods.\n                     (7)"
+                },
+                {
+                    "title": "Case Studies:",
+                    "content": ""
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1.\t Implementation of data mining techniques using WEKA.  \n                    2.\t Implementation of Association rule mining using Apriori algorithm and FP Growth algorithm \n                    3.\t Classification rules using Decision Tree classifier, Ensemble of Classifiers. \n                    4.\t Implementation of clustering algorithms \n                    5.\t Case studies using R programming."
+                }
+            ],
+            "textbooks": [
+                "1.   Jiawei Han, Micheline Kamber and Jian Pei, \u2018Data Mining \u2013 Concepts and Techniques\u2019, Reed Elsevier, 2012.",
+                "2.   Tan, Steinbach and Kumar, \u2018Introduction to Data Mining\u2019, Pearson Education, 2013.",
+                "3.   Trevor Hastie, Robert Tibshirani and Jerome Freidman, \u2018The Elements of Statistical Learning: Data Mining, Inference, and"
+            ]
+        },
+        {
+            "code": "20SA68",
+            "title": "DESIGN AND ANALYSIS OF ALGORITHMS",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Algorithm \u2013 analysis of algorithms \u2013 best case and worst case complexities. Asymptotic notations -Master\u2019s Theorem. (6)"
+                },
+                {
+                    "title": "DIVIDE AND CONQUER:",
+                    "content": "Method \u2013 examples \u2013 Merge sort, Quick sort, Strassen\u2019s matrix multiplication, Closest Pair(6)"
+                },
+                {
+                    "title": "GREEDY METHOD:",
+                    "content": "Optimization problems \u2013 method \u2013 examples \u2013 Minimum cost spanning tree (Kruskal\u2019s and prim\u2019s\n                    algorithms), Topological sorting, Huffman coding, Fractional knapsack.\n                    (8)"
+                },
+                {
+                    "title": "DYNAMIC PROGRAMMING:",
+                    "content": "\u2013 examples \u20130/1 Knapsack- All pairs shortest path problem -Traveling salesman\n                    problem. (6)"
+                },
+                {
+                    "title": "NETWORK FLOW:",
+                    "content": "Flows and Cuts-Max flow mincut theorem-Ford Fulkerson\u2019s Algorithm(5)"
+                },
+                {
+                    "title": "NP-HARD, NP-COMPLETE CLASSES:",
+                    "content": "Basic concepts \u2013 Non deterministic algorithms \u2013 satisfiability problem \u2013 NP-hard and NP-complete Problems \u2013 Cooks theorem (statement only)- Reduction- Vertex cover (6)"
+                },
+                {
+                    "title": "BACK TRACKING:",
+                    "content": "Method \u2013 Examples \u2013 Eight queen\u2019s problem, Hamiltonian Cycles(4)"
+                },
+                {
+                    "title": "BRANCH &BOUND:",
+                    "content": "Method \u2013 Example \u2013 0/1 knapsack-Traveling salesman problem(4)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": ""
+                },
+                {
+                    "title": "Implementation of the following problems:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.   Thomas H. Cormen, Charles E. Leiserson, and Ronald LRivest, \u2018Introduction to Algorithms\u2019, MIT Press, 2015.",
+                "2.   Jon Kleinberg and Eve Tardos, \u2018Algorithm Design\u2019, Pearson Education, 2013"
+            ]
+        },
+        {
+            "code": "20SA69",
+            "title": "DIGITAL IMAGE PROCESSING AND COMPUTER VISION",
+            "semester": 6,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "DIGITAL IMAGE FUNDAMENTALS:",
+                    "content": "Image Sampling and Quantization, Digital Image Representation, Image Types, Pixel neighborhood. (3)"
+                },
+                {
+                    "title": "IMAGE ENHANCEMENT:",
+                    "content": "Noise models, Point Operations, Histogram Processing, Spatial Operations, Multispectral\n                    Image Enhancement, Color Image Enhancement. Image Transforms - Fourier Transform, Discrete Cosine Transform,\n                    Wavelets.(6)"
+                },
+                {
+                    "title": "EDGE DETECTION:",
+                    "content": "The Purpose of Edge Detection, Traditional Approaches and Theory, Edge Models, Comparison\n                    of Two Optimal Edge Detectors, Color Edges. (5)"
+                },
+                {
+                    "title": "DIGITAL MORPHOLOGY:",
+                    "content": ", Binary Operations, Dilation and Erosion, Opening and Closing, Grey-Level\n                    Morphology, Color Morphology.(4)"
+                },
+                {
+                    "title": "GREY-LEVEL SEGMENTATION:",
+                    "content": "of Grey-Level Segmentation, The Use of Regional Thresholds, Moving Averages, Cluster-Based Thresholds, Multiple Thresholds, Region-based segmentation, Watershed Transform.(9)"
+                },
+                {
+                    "title": "IMAGE RESTORATION:",
+                    "content": "Degradations, The Frequency Domain, The Inverse Filter, The Wiener Filter, Structured Noise, Motion Blur, The Homomorphic Filter, Least Square Filters, Generalized Inverse & Iterative Methods, Recursive filtering,  Bayesian Methods (9)"
+                },
+                {
+                    "title": "IMAGE ANALYSIS AND CPMPUTER VISION:",
+                    "content": "Extraction - color, texture and shape features, Dimensionality Reduction, Clustering and Classification(9)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1.\tBasic image processing techniques like sampling and quantization \n                    2.\tImplementation of Image segmentation and edge detection.  \n                    3.\tImplementation of Histogram equalization. \n                    4.\tImplementation of 2-D DFT and DCT. \n                    5.\tImplementation of feature extraction. \n                    6.\tImplementation of image filtering methods in spatial and frequency domain. \n                    7.\tImage restoration. \n                    8.\tImplementation of image classification and clustering. \n                    9.\tDeveloping simple image analysis applications."
+                }
+            ],
+            "textbooks": [
+                "1.    Rafael C Gonzalez and Richard E Woods, \u2018Digital Image Processing\u201d, Prentice Hall, 2011.",
+                "2.    Kenneth R Castleman, \u201cDigital Image Processing\u201d, Pearson Education, 2007."
+            ]
+        },
+        {
+            "code": "20SA70",
+            "title": "EPIDEMIC MODELS",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "BASICS OF EPIDEMICS:",
+                    "content": "The epidemic in a closed population \u2013 Initial growth-the final size. Heterogeneity: Differences in infectivity, differences in infectivity and susceptibility (8+5)"
+                },
+                {
+                    "title": "STRUCTURED POPULATIONS:",
+                    "content": "The concept of state-i-states, p-states, recapitulation and problem formulation(8+5)"
+                },
+                {
+                    "title": "THE BASIC REPRODUCTION RATIO:",
+                    "content": "The definition of R0, general h-state, on conditions that simplify the computation of R0, sub models for the kernel, extended example, pair formulation models. Partially vaccinated populations, the intrinsic growth rate r, some generalities, separable mixing (15+11)"
+                },
+                {
+                    "title": "MACROPARASITES:",
+                    "content": "Introduction, counting parasite load, the calculation of R0 for life cycles, seasonality and R0, a pathological mode.(8+5)"
+                },
+                {
+                    "title": "CONTACT:",
+                    "content": ", Contact duration, consistency conditions, effects of subdivision, network models.(6+4)"
+                }
+            ],
+            "textbooks": [
+                "1.\tO.Diekmann, J.A.P. Heesterbeek, \u201cMathematical Epidemiology of Infectious Diseases: Model building, Analysis and Interpretation\u201d, John Wiley,  2000.",
+                "2.\tRoy M.  Anderson and Robert M. May, \u201cInfectious diseases of humans; dynamic and control\u201d Oxford university Press, 1992."
+            ]
+        },
+        {
+            "code": "20SA71",
+            "title": "GAME THEORY",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Basic concepts -Theory of rational choice \u2013 Interacting decision makers (2)"
+                },
+                {
+                    "title": "STRATEGIC GAMES AND NASHEQUILIBRIUM:",
+                    "content": "Strategic games: Examples \u2013Nash equilibrium: concept and examples -Best response \u2013 Dominated actions \u2013Symmetric games and symmetric equilibria-  Illustrations: Cournot\u2019s and Bertrand\u2019s models of duopoly, Electoral competition, War of Attrition , Auctions, Accident Laws.(8+6)"
+                },
+                {
+                    "title": "MIXED STRATEGY NASH EQUILIBRIUM:",
+                    "content": ", Strategic games with randomization- Mixed strategy Nash equilibrium: concept and examples - Dominated Actions -Formation of Players\u2019 beliefs - Illustrations:  Expert diagnosis, Reporting a crime.(6+4)"
+                },
+                {
+                    "title": "EXTENSIVE GAMES WITH PERFECT INFORMATION:",
+                    "content": "Strategies and outcomes \u2013 Nash equilibrium \u2013 Sub game perfect equilibrium \u2013Backward induction - Illustrations: Stackelberg\u2019s model of duopoly, Buying votes, Ultimatum game(6+4)"
+                },
+                {
+                    "title": "GAMES WITH IMPERFECT INFORMATION:",
+                    "content": "Bayesian games \u2013 Examples \u2013 Strategic information \u2013 Transmission \u2013 Agenda Control with imperfect Information \u2013 Signaling games - Education as a signal of ability.(6+4)"
+                },
+                {
+                    "title": "REPEATED GAMES:",
+                    "content": "Nash equilibrium in repeated games, finitely and infinitely repeated Prisoner's Dilemma - \u2013 Sub game \u2013 Perfect equilibria and the one \u2013 deviation \u2013 Property \u2013 General results \u2013 Finitely replaced games \u2013 Variation on a theme: Imperfect observability.(6+5)"
+                },
+                {
+                    "title": "BARGAINING:",
+                    "content": "Rubinstein Bargaining Model with Alternating Offers -Nash Bargaining Solution- Relation of Axiomatic and Strategic Model- Illustration: Trade in market.(5+3)"
+                },
+                {
+                    "title": "AUCTION AND MECHANISM DESIGN:",
+                    "content": "The Vickery auction- Sponsored Search auction- Social Choice theory- VCG mechanism.(6+4)"
+                }
+            ],
+            "textbooks": [
+                "1.     Martin J. Osborne, \u2018An Introduction to game theory\u2019, Oxford University Press, 2004.",
+                "2.     Nisan N., Roughgarden T.,Tardos E., Vazirani V., \u2018Algorithmic Game Theory\u2019, Cambridge University Press, 2007."
+            ]
+        },
+        {
+            "code": "20SA72",
+            "title": "GEOMETRY OF LOCALLY FINITE SPACES",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "AXIOMATIC APPROACH TO DIGITAL TOPOLOGY:",
+                    "content": "of Digital Topology, Relation between the suggested and classical Axioms,  Deducing the properties of ALF spaces from the axioms.(8+5)"
+                },
+                {
+                    "title": "ABSTACT CELL COMPLEXES:",
+                    "content": "of complexes, Cartesian complexes and combinatorial coordinates, AC complexes compared with other Locally Finite Spaces.(10+7)"
+                },
+                {
+                    "title": "COMBINOTORIAL HOMEOMORPHISM:",
+                    "content": "Definition of combinatorial homeomorphism, balls and spheres, generalized boundary and  boundary of space, orientation of AC complexes, combinatorial manifolds, block complexes, consistency of the (m,n)-adjacencies. (10+7)"
+                },
+                {
+                    "title": "MAPPINGS AMONG LOCALLY FINITE SPACES:",
+                    "content": "Connected \u2013Preserving Mappings (CPM), the combinatorial homeomorphism, properties of manifolds and block complexes.(8+5)"
+                },
+                {
+                    "title": "HOMOLOGY:",
+                    "content": "Homology of groups, matrix reduction, relative homology, exact sequences, co-homology(9+6)"
+                }
+            ],
+            "textbooks": [
+                "1.      Vladimir A. Kovalevsky, \u2018Geometry of Locally Finite Spaces: Computer Agreeable Topology and Algorithms for Computer",
+                "2.      Herbert Edlesbrunner and John Harer, Computational Topology An Introduction\u2019, AMS,2010."
+            ]
+        },
+        {
+            "code": "20SA73",
+            "title": "INFORMATION RETRIEVAL AND WEBSEARCH",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Overview of IR Systems - Historical Perspectives - Goals of IR - The impact of the web on IR - The role of artificial intelligence (AI) in IR (3)"
+                },
+                {
+                    "title": "TEXT REPRESENTATION:",
+                    "content": "Statistical Characteristics of Text: Zipf's law; Porter stemmer; morphology; index term\n                    selection; using thesauri. Basic Tokenizing, Indexing:  Simple tokenizing, stop-word removal, and stemming; inverted\n                    indices; Data Structure and File Organization for IR - efficient processing with sparse vectors.\n                    (6)"
+                },
+                {
+                    "title": "RETRIEVAL MODELS:",
+                    "content": "Similarity Measures and Ranking -  Boolean Matching \u2013 Extended Boolean models \u2013 Ranked\n                    retrieval - Vector Space Models -,  text-similarity metrics - TF-IDF (term frequency/inverse document frequency)\n                     weighting - cosine similarity, Probabilistic Models, Evaluations on benchmark text collections.\n                    (8)"
+                },
+                {
+                    "title": "QUERY PROCESSING:",
+                    "content": "Query Operations and Languages- Query expansion; Experimental Evaluation of IR:\n                    Performance metrics: recall, precision, and F-measure. (9)"
+                },
+                {
+                    "title": "TEXT CATEGORIZATION AND CLUSTERING:",
+                    "content": "Categorization: Rocchio; Naive Bayes, kNN; Clustering:  Agglomerative clustering; k-means; Expectation Maximization (EM); Dimension Reduction: LSI, PCA.(6)"
+                },
+                {
+                    "title": "INFORMATION FILTERING TECHNIQUES:",
+                    "content": "introduction to Information Filtering, Relevance Feedback - Applications of Information Filtering: RECOMMENDER SYSTEMS: Collaborative filtering and Content-Based recommendation of documents and products.(6)"
+                },
+                {
+                    "title": "WEB SEARCH: IR Systems and the WWW - Search Engines:",
+                    "content": "Spidering, Meta Crawlers; Link analysis: Hubs and Authorities, Google PageRank, Duplicate Detection.(5)"
+                },
+                {
+                    "title": "INFORMATION EXTRACTION AND INTEGRATION:",
+                    "content": "Extracting data from text; Basic Techniques: Named Entity Recognition, Co-reference Resolution, Relation Extraction, Event Extraction; Extracting and Integrating specialized information on the Web, Web Mining and Its Applications.(6)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1.\tDifferent retrieval models - Boolean, Vector space and Probability based retrieval.  \n                    2.\tQuery refinement techniques \n                    3.\tEvaluation of the retrieval algorithms.  \n                    4.\tDimension Reduction techniques \n                    5.\tClassification and Clustering techniques  \n                    6.\tRecommender systems- Collaborative and Content Based Filtering \n                    7.\tInformation Extraction techniques \n                    8.\tWeb based retrieval - Link based retrieval, combining content and link information."
+                }
+            ],
+            "textbooks": [
+                "1.   Christopher D. Manning, Prabhakar Raghavan and Hinrich Sch\u00fctze, \u2018Introduction to Information Retrieval\u2019, Cambridge",
+                "2.    B.Croft, D. Metzler, T. Strohman, \u2018Search Engines: Information Retrieval in Practice\u2019, Pearson Education, 2015."
+            ]
+        },
+        {
+            "code": "20SA74",
+            "title": "MATHEMATICAL MODELING",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION TO MODELING:",
+                    "content": "Modeling process, Overview of different kinds of model. (2)"
+                },
+                {
+                    "title": "EMPIRICAL MODELING WITH DATA FITTING:",
+                    "content": "Error function, least squares method; fitting data with polynomials and\n                    Splines. (4)"
+                },
+                {
+                    "title": "PORTFOLIO MODELING AND ANALYSIS:",
+                    "content": "Portfolios, returns and risk, risk-reward analysis, asset pricing models,\n                    mean variance portfolio optimization, Markowitz model and efficient frontier calculation algorithm, Capital Asset Pricing\n                    Models (CAPM).(12)"
+                },
+                {
+                    "title": "DISCRETE-TIME FINANCE:",
+                    "content": "Pricing by arbitrage, risk-neutral probability measures, valuation of contingent claims,\n                    and fundamental theorem of asset pricing, Cox-Ross-Rubinstein (CRR) model, pricing and hedging of European\n                    and American derivatives as well as fixed-income derivatives in CRR model, general results related to prices of\n                    derivatives(5)"
+                },
+                {
+                    "title": "MODELING WITH BIOINFORMATICS:",
+                    "content": "Introduction,Biological data- types, mode of collection, documentation and submission. Sequence alignment- Definition, significance, dot matrix method, dynamic programming- Global and local alignment tools, scoring matrices and gap penalties. Multiple sequence alignment: Iterative methods.  (12)"
+                },
+                {
+                    "title": "INFORMATION FILTERING TECHNIQUES:",
+                    "content": "introduction to Information Filtering, Relevance Feedback - Applications of Information Filtering: RECOMMENDER SYSTEMS: Collaborative filtering and Content-Based recommendation of documents and products.(10)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1    Least square method for fitting data \n                    2.   Modeling financial time series   \n                    3.   ARIMA process \n                    4.   Markowitz model for portfolio modeling \n                    5.   Capital asset pricing models \n                    6.   CRR model \n                    7.   Sequence alignment by using dynamic programming technique \n                    8.   Multiple sequence alignment."
+                }
+            ],
+            "textbooks": [
+                "1.\tGiordano  F R,  Weir M  D, and Fox  W  P, \u2018A First Course in Mathematical Modeling\u2019. Brooks/Cole, Belmont, 2014.",
+                "2.\tCapinski M. and ZastawniakT,\u2019Mathematics for Finance: An Introduction to Financial Engineering\u2019, Springer, 2011.",
+                "3.\tMount. DW, \u2018Bioinformatics Sequence and Genome Analysis\u2019,  Cold Spring Harbor Laboratory, Press, 2006."
+            ]
+        },
+        {
+            "code": "20SA75",
+            "title": "MOBILE APPLICATION AND DEVELOPMENT",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "MOBILE AND WIRELESS DEVICES:",
+                    "content": "- Evolution of mobile communication generations- Challenges in mobile computing \u2013 Vertical and horizontal mobile applications. (8)"
+                },
+                {
+                    "title": "CELLULAR CONCEPT:",
+                    "content": "transmission - Frequencies for radio transmission - Regulations - Signals , Antennas,\n                    Signal propagation ,Path loss of radio signals , Additional signal propagation effects - Multi-path propagation \u2013 Cell\n                    Concept -  Factors determining cell size and shape\n                     (10)"
+                },
+                {
+                    "title": "MOBILE APPLICATIONS ARCHITECTURE:",
+                    "content": "Smart Client \u2013 Smart Client Architecture \u2013 Messaging Architecture \n                    The Model-View-Controller Model - Delegate Pattern- Building Smart Client Applications-Design, Development,\n                    implementation, testing and deployment phase- MVVM mobile architecture design.\n                    (10)"
+                },
+                {
+                    "title": "MOBILE APPLICATION DEVELOPMENT:",
+                    "content": "to Android Platform \u2013 Android architecture overview - Application life cycle - UI design for Android - UI fragments - Different types of layouts \u2013 Widgets \u2013 List view \u2013 View pager \u2013 Dialogs,(10)"
+                },
+                {
+                    "title": "DATABASE:",
+                    "content": "Files and database \u2013 SQLite on Android \u2013 Loading asynchronous data - Map API.(7)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1.  Android SDK installation and study \n                    2.  Defining Layouts \n                    3.  Single Activity Application, Application with multiple activities, using intents to Launch Activities \n                    4.   Application using GUI Widgets \n                    5.   Application with Notifications  \n                    6.   Creating and Saving Shared Preferences and Retrieving Shared Preferences  \n                    7.   Usage of SQLite Databases for storage \n                    8.   Working with Retrofit library in Android Applications \n                    9.   Android Automated Testing Frameworks \n                    10.  Case Study: Dagger Framework for Android"
+                }
+            ]
+        },
+        {
+            "code": "20SA76",
+            "title": "OPERATING SYSTEMS",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "view of an operating system - Operating Systems Objectives and Functions \u2013 Evolution of Operating Systems - Dual-mode operation - System calls- Structure of Operating System. (3)"
+                },
+                {
+                    "title": "PROCESS DESCRIPTION AND CONTROL:",
+                    "content": "Process concepts - Process Creation \u2013 Process Termination \u2013 Process\n                    states - Process Description \u2013 Process Control (3)"
+                },
+                {
+                    "title": "PROCESS AND THREADS:",
+                    "content": "Relationship between process and threads \u2013 Thread States \u2013 Thread Synchronization\n                    Types of Thread \u2013 Multithreading model.\n                    (4)"
+                },
+                {
+                    "title": "PROCESS SCHEDULING:",
+                    "content": "Scheduling basics - CPU-I/O interleaving- (non-)preemption - context switching- Types of\n                    Scheduling \u2013 Scheduling Criteria - Scheduling Algorithms \u2013 Algorithm evaluation \u2013 Real-time scheduling. (5)"
+                },
+                {
+                    "title": "PROCESS SYNCHRONIZATION:",
+                    "content": "Concurrent Process \u2013 Principles of Concurrency \u2013 Race Condition - Mutual Exclusion \u2013 Critical section problems \u2013 Software support \u2013 Hardware Support \u2013 Operating System Support: Semaphore, Monitor \u2013 Classical problems of synchronization \u2013 Synchronization examples.(4)"
+                },
+                {
+                    "title": "DEADLOCK:",
+                    "content": "Principles- Characterization \u2013 Methods for handling deadlock - Deadlock prevention, Avoidance, Detection, and recovery.(4)"
+                },
+                {
+                    "title": "MEMORY MANAGEMENT:",
+                    "content": "Memory hierarchy \u2013Memory Management requirements - Memory partitioning: Fixed partitioning, Dynamic partitioning, Buddy systems \u2013 Simple paging \u2013 Page table structures \u2013 Simple Segmentation \u2013 segmentation and paging(6)"
+                },
+                {
+                    "title": "VIRTUAL MEMORY MANAGEMENT:",
+                    "content": "Need for Virtual Memory management \u2013 Demand Paging \u2013Copy on write -Page Fault handling - Page replacement - Frame allocation- Thrashing - working set model.(5)"
+                },
+                {
+                    "title": "IO MANAGEMENT AND DISK SCHEDULING:",
+                    "content": "of I/O function \u2013 Evolution of I/O function \u2013 Types of I/O devices \u2013 Logical Structure of I/O functions \u2013 I/O Buffering \u2013 Disk I/O \u2013 Disk Scheduling algorithms \u2013 RAID - Disk Cache.(4)"
+                },
+                {
+                    "title": "FILE SYSTEM MANAGEMENT:",
+                    "content": "Files \u2013 Access methods - File system architecture \u2013 Functions of file management \u2013Directory and disk structure -Mounting - File sharing \u2013File system implementation \u2013 Directory implementation - File Allocation \u2013 Free space managment(4)"
+                },
+                {
+                    "title": "VIRTUALIZATION:",
+                    "content": "Requirements for Virtualization - Type 1, Type 2 Hypervisors \u2013 Para virtualization- Memory Virtualization - I/O  Virtualization - Virtual machines on Multicore CPUs\u2013Virtualization in Multiprocessor environment(3)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": "1.\t Practicing UNIX Commands  \n                    2.\tWriting SHELL Scripts \n                    3.\tWriting programs using UNIX System Calls \n                    4.\tProcess Creation and Execution \n                    5.\tThread Creation and Execution \n                    6.\tProcess / Thread Synchronization using semaphore  \n                    7.\tDeveloping Application using Inter Process communication (using sharedmemory, pipes or message queues)  \n                    8.\tImplementation of Memory Management Schemes  \n                    9.\tImplementation of file allocation technique (Linked, Indexed,  Contiguous)."
+                }
+            ],
+            "textbooks": [
+                "1.  Silberschatz A, Galvin, PB. and Gagne, G. \u2018Operating System Concepts\u2019, John Wiley & Sons, Inc.,2018.",
+                "2.  William Stallings, \u2018Operating Systems: Internals and Design Principles\u2019, Pearson Education, 2017.",
+                "3.  Andrew S Tanenbaum, \u2018Modern Operating System\u2019, Prentice Hall, 2018."
+            ]
+        },
+        {
+            "code": "20SA77",
+            "title": "PREDICTIVE ANALYTICS",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "DATA WRANGLING:",
+                    "content": "DataIngest, Data Cleaning - Exploratory data analysis - Univariate data \u2013 Bivariate data, Multivariate data. (5+3)"
+                },
+                {
+                    "title": "LINEAR REGRESSION:",
+                    "content": "Coefficient of determination, Significance test, Residual analysis, Confidence and Prediction intervals.(5+3)"
+                },
+                {
+                    "title": "MULTIPLE LINEAR REGRESSION:",
+                    "content": "Coefficient of determination, Interpretation of regression coefficients, Categorical  variables, heteroscedasticity, Multi-co linearity outliers, Auto regression and Transformation of variables, Regression, Model  Building(10+7)"
+                },
+                {
+                    "title": "LOGISTIC AND MULTINOMIAL REGRESSION:",
+                    "content": "Logistic function, Estimation of probability using Logistic regression, Variance, Wald Test, Hosmer Lemshow Test, Classification Table, Gini Co-efficient.(5+3)"
+                },
+                {
+                    "title": "DECISION TREES:",
+                    "content": "introduction, CHI-Square Automatic Interaction Detectors (CHAID), Classification and Regression Tree(CART), Analysis of Unstructured data.(5+3)"
+                },
+                {
+                    "title": "FORECASTING:",
+                    "content": "average, Exponential Smoothing, Casual Models.   (5+3)"
+                },
+                {
+                    "title": "TIME SERIES ANALYSIS:",
+                    "content": "Moving Average Models, ARMA, ARIMA models , Multivariate Models.(5+3)"
+                },
+                {
+                    "title": "CASE STUDIES :",
+                    "content": "Application of predictive analytics in retail, direct marketing, health care, financial services, insurance, supply chain, Social media analytics\u2013 Customer Analytics - Risk Analytics - Analytics for Retail and Ecommerce, etc- Working with data from different sources: spread sheets, databases, and the cloud -Model Development- Model Validation. (5+5)"
+                }
+            ],
+            "textbooks": [
+                "1.    Daniel T. Larose, Chantal D. Larose, \u2018Data Mining and Predictive Analytics\u2019, Wiley,2015",
+                "2.    Douglas C. Montgomery, Cheryl L. Jennings, Murat Kulachi, \u2018Introduction to Time Series Analysis and Forecasting\u2019,Wiley, 2015.",
+                "3.    Max Kuhn, Kjell Johnson, \u2018Applied Predictive Modeling\u2019, Springer, 2014."
+            ]
+        },
+        {
+            "code": "20SA78",
+            "title": "STATISTICAL LEARNING",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "THEORETICAL FOUNDATIONS :",
+                    "content": "of Statistical Inference, Review of Probability, Testing of Hypothesis \u2013 Introduction to Function Spaces \u2013 Vector Spaces - Metric Spaces \u2013 Cauchy Sequence \u2013 Complete Metric Space \u2013 Normed Space, Inner Product Space \u2013 Banach Space - Hilbert Space \u2013 Sobolev \u2013 Examples - Mercer Kernels - Reproducing Kernel Hilbert Space (RKHS), Concentration of Measure Measures of Complexity - Rademacher Complexity.(10)"
+                },
+                {
+                    "title": "LINEAR REGRESSION:",
+                    "content": "Simple, Multiple, Other Considerations in the Regression Model \u2013 Resampling Methods \n                    Cross-Validation, Bootstrap\u2013 Linear Model Selection & Regularisation \u2013 Subset Selection , Shrinkage Methods \u2013\n                    Ridge, Lasso, Dimension Reduction Methods\n                    (8)"
+                },
+                {
+                    "title": "NON-LINEAR REGRESSION :",
+                    "content": "Estimators, Step Functions, Basis Functions, Regression Spline Smoothing\n                    Splines, Local Regression, Generalised Additive Models.\n                    (4)"
+                },
+                {
+                    "title": "LINEAR CLASSIFICATION:",
+                    "content": "of Classification Models, Logistic Regression, Linear Discriminant Analysis,\n                    Quadratic Discriminant Analysis, Comparison of Classification Methods. (6)"
+                },
+                {
+                    "title": "TREE BASED METHODS:",
+                    "content": "Regression Trees, Classification Trees, Bagging, Random Forests, Boosting(9)"
+                },
+                {
+                    "title": "SUPPORT VECTOR MACHINES:",
+                    "content": "Maximal Margin Classifier \u2013 Support Vector Classifiers - Support Vector Machines \u2013 Non-linear Decision Boundaries \u2013 SVMs with more than 2 classes.(4)"
+                },
+                {
+                    "title": "UNSUPERVISED LEARNING:",
+                    "content": "Principal Components Analysis \u2013 Clustering Methods \u2013 K-Means Clustering, Hierarchical Clustering.(4)"
+                },
+                {
+                    "title": "Tutorial Practices:",
+                    "content": ""
+                },
+                {
+                    "title": "Solve the following problems using R",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.   Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, \u201cAn introduction to Statistical learning\u201d, Springer, 2013.",
+                "2.   Trevor Hastie, Robert Tibshirani, Jerome Friedman, \u201cElements of Statistical Learning: Data Mining, Inference and Prediction\u201d,"
+            ]
+        },
+        {
+            "code": "20SA79",
+            "title": "STOCHASTIC DIFFERENTIAL EQUATIONS",
+            "semester": 7,
+            "course_type": "regular",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "MATHEMATICAL PRELIMINARIES:",
+                    "content": "Probability spaces - Random variables - Stochastic processes \u2013 Brownian motion.(7+6)"
+                },
+                {
+                    "title": "ITO STOCHASTIC CALCULUS:",
+                    "content": "Ito Integrals - Construction of its integrals - Properties(9+6)"
+                },
+                {
+                    "title": "THE ITO FORMULA AND THE MARTINGALE REPRESENTATION THEOREM:",
+                    "content": "one-dimensional Ito formula - The multi-dimensional Ito formula \u2013 The Martingale representation theorem (9+6)"
+                },
+                {
+                    "title": "STOCHASTIC DIFFERENTIAL EQUATIONS:",
+                    "content": "Construction of stochastic differential equations - an existence and uniqueness result- weak and strong solutions.(10+6)"
+                },
+                {
+                    "title": "METHOD OF SOLVING STOCHASTIC DIFFERENTIAL EQUATIONS:",
+                    "content": "Linear stochastic differential equations - Reducible stochastic differential equations - Some explicitly solvable equations.(10+6)"
+                }
+            ],
+            "textbooks": [
+                "1. \tPeter E Kloeden and Eckhard Platen,\u2019Numerical Solution of Stochastic Differential Equations\u2019, Springer, 2018.",
+                "2. \tBernt Oksendal , \u2018Stochastic Differential Equations - An Introduction with Applications\u2019, Springer, 2016."
+            ]
+        }
+    ],
+    "url": "https://amcsregulations.psgtech.ac.in/curriculum/mscam/2020/syllabi.html",
+    "coordinator": "Dr.Sai Sundara Krishnan"
+}

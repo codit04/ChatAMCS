@@ -1,0 +1,32 @@
+{
+    "M.Sc Software Systems": {
+        "Program Co-ordinator": "Dr.Periakaruppan R M",
+        "Year": ["2020", "2023"],
+        "url": ["https://amcsregulations.psgtech.ac.in/curriculum/ss/2020/syllabi.html", "https://amcsregulations.psgtech.ac.in/curriculum/ss/2023/ss2023.html"]
+    },
+    "M.Sc Theoretical Computer Science": {
+        "Program Co-ordinator": "Dr.Poonthalir G",
+        "Year": ["2020", "2023"],
+        "url": ["https://amcsregulations.psgtech.ac.in/curriculum/tcs/2020/syllabi.html", "https://amcsregulations.psgtech.ac.in/curriculum/tcs/2023/tcs2023.html"]
+    },
+    "M.Sc Data Science": {
+        "Program Co-ordinator": "Dr.Senthil Kumar M",
+        "Year": ["2020", "2023"],
+        "url": ["https://amcsregulations.psgtech.ac.in/curriculum/ds/2020/syllabi.html", "https://amcsregulations.psgtech.ac.in/curriculum/ds/2023/ds2023.html"]
+    },
+    "M.Sc Cyber Security": {
+        "Program Co-ordinator": "Mrs.Suganthi SD",
+        "Year": ["2020", "2023"],
+        "url": ["https://amcsregulations.psgtech.ac.in/curriculum/cs/2020/syllabi.html", "https://amcsregulations.psgtech.ac.in/curriculum/cs/2023/cs2023.html"]
+    },
+    "M.Sc Applied Mathematics": {
+        "Program Co-ordinator": "Dr.Sai Sundara Krishnan",
+        "Year": ["2020", "2023"],
+        "url": ["https://amcsregulations.psgtech.ac.in/curriculum/mscam/2020/syllabi.html", "https://amcsregulations.psgtech.ac.in/curriculum/mscam/2023/syllabi.html"]
+    },
+    "B.Sc Computer Systems and Design": {
+        "Program Co-ordinator": "Dr.Poomagal S",
+        "Year": ["2020", "2024"],
+        "url": ["https://amcsregulations.psgtech.ac.in/curriculum/bsccsd/2020/syllabi.html", "https://amcsregulations.psgtech.ac.in/curriculum/bsccsd/2024/syllabi.html"]
+    }
+}

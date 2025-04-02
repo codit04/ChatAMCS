@@ -1,0 +1,582 @@
+{
+    "publications": {
+        "international_journals": [
+            {
+                "author": "Ms.Kiruthika J",
+                "co_author": "Dr.Shina Sheen",
+                "title": "Dynamic deception-based technique for crypto-ransomware detection",
+                "publisher": "Inter Science",
+                "year": "2025"
+            },
+            {
+                "author": "Sundararaju Mugunthan Research scholar",
+                "co_author": "Dr.Suresh kumar V, Dr.Saravanan P, ECE, Ruhul Amin",
+                "title": "VAuth: Robust Lightweight Mutual Authentication Protocol Preserving User’s Anonymity for VANET With FPGA Implementation",
+                "publisher": "IEEE",
+                "year": "2024"
+            },
+            {
+                "author": "Bimal Kumar Meher Associate Professor",
+                "co_author": "Ruhul Amin, Mohammad Abdussami, Dr.Suresh kumar V, Md Ajaharul Hossain",
+                "title": "Efficient Certificateless Anonymous Mutual Authentication in WBANs for Smart Healthcare",
+                "publisher": "IEEE",
+                "year": "2024"
+            },
+            {
+                "author": "Dr.Sathyakala P, MAT",
+                "co_author": "Dr. K.Balaji, Dr.Sai Sundara Krishnan G, Dr. P.Krishnakumar",
+                "title": "Exergetic characterization of flat plate solar collector using genetic algorithm",
+                "publisher": "Sage",
+                "year": "2024"
+            },
+            {
+                "author": "G. Kirubavathi Assistant Professor",
+                "co_author": "Dr.Regis Anne W, Dr.Sridevi UK",
+                "title": "A recent review of ransomware attacks on healthcare industries",
+                "publisher": "Springer India",
+                "year": "2024"
+            },
+            {
+                "author": "Dr.Janani K",
+                "co_author": "Mohanrasu SS, Ardak Kashkynbayev, Rakkiyappan R",
+                "title": "Ensemble feature selection via CoCoSo method extended to interval-valued intuitionistic fuzzy environment",
+                "publisher": "Elsevier",
+                "year": "2024"
+            },
+            {
+                "author": "Dr.Kirubvathi Assistant Professor",
+                "co_author": "Dr.Regis Anne W",
+                "title": "Behavioral based detection of android ransomware using machine learning techniques",
+                "publisher": "Springer India",
+                "year": "2024"
+            },
+            {
+                "author": "M. Vel Vignesh -",
+                "co_author": "Vignesh Boolog, Dr.Bagyalakshmi M, MAT, Dr.Thilaga M",
+                "title": "Quantification of Human Intelligence Using Principal Component Analysis",
+                "publisher": "Springer",
+                "year": "2024"
+            },
+            {
+                "author": "Dr.Sumathi M, MAT",
+                "co_author": "Ms.Abilasha P B, Dr.Veeramani C, AS",
+                "title": "The dynamics of the fractional SEIQR malware spread model on wireless sensor networks",
+                "publisher": "Springernature",
+                "year": "2024"
+            },
+            {
+                "author": "Dr.Sumathi M, MAT",
+                "co_author": "Dr.Veeramani C, AS, Ms.Abilasha P B",
+                "title": "Enhancing transmission control of the COVID‐19 epidemic in India: optimal strategies and approaches",
+                "publisher": "Springer India",
+                "year": "2024"
+            },
+            {
+                "author": "Dr.Senthil Kumar M",
+                "co_author": "Aresh Dadlani, Omid Ardakanian, Ioanis Nikolaidis, Janelle J. Harms",
+                "title": "Age Analysis of Correlated Information in Multi-Source Updating Systems With MAP Arrivals",
+                "publisher": "IEEE Xplorer",
+                "year": "2024"
+            },
+            {
+                "author": "Dr.Sumathi M, MAT",
+                "co_author": "Dr.Senthil Kumar M, Dr.Veeramani C, AS",
+                "title": "Optimal Control of Computer Virus Spreading Model with Partial Immunization",
+                "publisher": "Springer",
+                "year": "2024"
+            },
+            {
+                "author": "Kalaiselvi M Research Scholar",
+                "co_author": "Dr.Senthil Kumar M, Athira Satheeshkumar",
+                "title": "Optimal control of a rumor propagation model in online social network by considering influential nodes",
+                "publisher": "Elsevier",
+                "year": "2024"
+            },
+            {
+                "author": "Ms.Abilasha P B",
+                "co_author": "Dr.Sumathi M, MAT, Dr.Veeramani C, AS",
+                "title": "Analyzing nonlinear dynamics of dengue epidemics: A fractional order model with alert state and optimal control strategies",
+                "publisher": "Wiley",
+                "year": "2024"
+            },
+            {
+                "author": "Dr.Senthil Kumaran V",
+                "co_author": "Dr.Latha R",
+                "title": "Towards personal learning environment by enhancing adaptive access to digital library using ontology-supported collaborative filtering",
+                "publisher": "Emerald Group Publishing Ltd",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Thanalakshmi P",
+                "co_author": "A. Rishikhesh, Joel Marion Marceline, Gyanendra Prasad Joshi, Woong Cho",
+                "title": "A Quantum-Resistant Blockchain System: A Comparative Analysis",
+                "publisher": "MDPI",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Senthil Kumaran V",
+                "co_author": "Dr.Malar B",
+                "title": "Distributed ensemble based iterative classification for churn analysis and prediction of dropout ratio in e-learning",
+                "publisher": "Routledge Journals",
+                "year": "2023"
+            },
+            {
+                "author": "Mrs.Parisa Begum K",
+                "co_author": "Dr.Shina Sheen",
+                "title": "Focused Crawler Based on Reinforcement Learning and Decaying Epsilon - Greedy Exploration Policy",
+                "publisher": "Zarqa University, Jordan",
+                "year": "2023"
+            },
+            {
+                "author": "Padmavathi R Assistant Professor",
+                "co_author": "Dr.Senthil Kumar M, Mohanraj Aruchamy",
+                "title": "Control of water-borne diseases via awareness and vaccination using multilayer networks",
+                "publisher": "Elsevier",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Sumathi M, MAT",
+                "co_author": "Ms.Abilasha P B, Dr.Subalakshmi R, MAT, Dr.Veeramani C, AS",
+                "title": "An optimal control of bi-modal COVID-19 SEIQR epidemic spreading model in India",
+                "publisher": "Elsevier",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Poomagal S",
+                "co_author": "Dr.Malar B, Dr.Visalakshi P, ECE, J. Inamul Hassan, R. Kishor",
+                "title": "Opinion Mining Using Optimized K‑Means Algorithm and a Word Weighting Technique",
+                "publisher": "Springer nature",
+                "year": "2023"
+            },
+            {
+                "author": "A. Nasira Banu Research Scholar",
+                "co_author": "K. Banupriya, Dr.Krishnasamy R, A. Vinodkumar",
+                "title": "Robust stability of uncertain stochastic switched inertial neural networks with time-varying delay using state-dependent switching law",
+                "publisher": "Wiley",
+                "year": "2023"
+            },
+            {
+                "author": "Kalaiselvi Myilsamy Research Scholar",
+                "co_author": "Dr.Senthil Kumar M, Athira Satheesh Kumar",
+                "title": "Optimal control of a stochastic rumour propagation in online social networks",
+                "publisher": "World Scientific",
+                "year": "2023"
+            },
+            {
+                "author": "Ruhul Amin Assistant Professor",
+                "co_author": "Sakshita Jayaswal, Dr.Suresh kumar V, Balram Rathore, Ananya Jha, Mohammad Abdussami",
+                "title": "IoDseC++: authenticated key exchange protocol for cloud-enable internet of drone communication",
+                "publisher": "Springer",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Thanalakshmi P",
+                "co_author": "N. Anbazhagan, Gyanendra Prasad Joshi, Eunmok Yang",
+                "title": "A quantum resistant universal designated verifier signature proof",
+                "publisher": "AIMS PRESS",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Sumathi M, MAT",
+                "co_author": "Kalaiselvi M, Ms.Abilasha P B, Dr.Veeramani C, AS",
+                "title": "Nonlinear analysis and dynamics of COVID-19 mathematical model with optimal control strategies",
+                "publisher": "Wiley",
+                "year": "2023"
+            },
+            {
+                "author": "Ms.Sudha S S",
+                "co_author": "Dr.S.S.Suganya",
+                "title": "On-road driver facial expression emotion recognition with parallel multi-verse optimizer (PMVO) and optical flow reconstruction for partial occlusion in internet of things (IoT)",
+                "publisher": "Measurement: Sensors",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Senthil Kumaran V",
+                "co_author": "",
+                "title": "A Review on Gamification in e-learning: Effects and Challenges",
+                "publisher": "Institute for Research and Community Service, Universitas Terbuka, Indonesia",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Caroline Mary A",
+                "co_author": "Dr. A V SENTHIL KUMAR, Chennamma",
+                "title": "A Novel Underwater Packet Scheduling based on Modified Priority Backpressure and Peak Age of Information approach",
+                "publisher": "IJOSI",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Senthil Kumaran V",
+                "co_author": "",
+                "title": "Prediction and classification of churners in online learning using ensemble of distributed iterative classifiers",
+                "publisher": "Inderscience Enterprises Ltd",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Senthil Kumar M",
+                "co_author": "Aresh Dadlani, Masoumeh Moradian, Ahmad Khonsari, Theodoros A. Tsiftsis",
+                "title": "On the Age of Status Updates in Unreliable Multi-Source M/G/1 Queueing Systems",
+                "publisher": "IEEE Xplorer",
+                "year": "2023"
+            },
+            {
+                "author": "R. Kiruthika Research Scholar",
+                "co_author": "Dr.Krishnasamy R, Dr. S. Lakshmanan, M. Prakash, A. Manivannan",
+                "title": "Non-fragile sampled-data control for synchronization of chaotic fractional-order delayed neural networks via LMI approach",
+                "publisher": "Elsevier",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Sreeja N K",
+                "co_author": "",
+                "title": "A hierarchical heterogeneous ant colony optimization based fingerprint recognition system",
+                "publisher": "Elsevier",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Senthil Kumaran V",
+                "co_author": "Dr.Periakaruppan R M",
+                "title": "COVID-19 Pandemic is an Eye-Opener for Academicians to Use the Technology in the Teaching– Learning Process",
+                "publisher": "Sage",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Bagyalakshmi M, MAT",
+                "co_author": "S. R. Saratha, Dr.Sai Sundara Krishnan G, Ahmet Yıldırım",
+                "title": "Nonlinear analysis of irregular temperature distribution in a heat exchanger using fractional derivative",
+                "publisher": "springer",
+                "year": "2022"
+            },
+            {
+                "author": "Kalpana D Assistant Professor",
+                "co_author": "Dr.Senthil Kumar M",
+                "title": "Strategic access in a Green IoT(Internet of Things) system with an unreliable server",
+                "publisher": "Elsevier",
+                "year": "2022"
+            },
+            {
+                "author": "Temirlan Kalimzhanov Researcher",
+                "co_author": "Dr.Aresh Dadlani, Dr.Senthil Kumar M, Ahmad Khonsari",
+                "title": "Co-Evolution of Viral Processes and Structural Stability in Signed Social Networks",
+                "publisher": "IEEE Xplore",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Shina Sheen",
+                "co_author": "Asmitha K A, Sridhar Venkatesan",
+                "title": "R-Sentry: Deception based ransomware detection using file access patterns",
+                "publisher": "Elsevier",
+                "year": "2022"
+            },
+            {
+                "author": "Sushma Basil Research Scholar",
+                "co_author": "Dr. S. Muraisankar, Dr.Santhi A",
+                "title": "SOME NEW ϕ-FIXED POINT THEOREMS VIA b-SIMULATION FUNCTIONS AND THEIR APPLICATION ON QUANTUM STRUCTURES",
+                "publisher": "Palestine Journal of Mathematics",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Kumaresan M",
+                "co_author": "Dr.Senthil Kumar M, Nehal M",
+                "title": "Analysis of mobility based COVID-19 epidemic model using Federated Multitask Learning",
+                "publisher": "American Institute of Mathematical Sciences",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Suresh kumar V",
+                "co_author": "Ruhul Amin",
+                "title": "An enhanced mutually authenticated security protocol with key establishment for cloud enabled smart vehicle to grid network",
+                "publisher": "Springer",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Poomagal S",
+                "co_author": "Dr.Malar B, Ranganayaki E M, Deepika K, Dheepak G",
+                "title": "Sentiment Thesaurus, Synset and Word2Vec Based Improvement in Bigram Model for Classifying Product Reviews",
+                "publisher": "Springer",
+                "year": "2022"
+            },
+            {
+                "author": "D. Saranya Assistant Professor",
+                "co_author": "Dr.Jeevadoss S",
+                "title": "Decomposition of hypercube graphs into paths and cycles of length four",
+                "publisher": "Taylor & Francis",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Thanalakshmi P",
+                "co_author": "Dr.Anitha R, N. Anbazhagan, Chulho Park, Gyanendra Prasad Joshi, Changho Seo",
+                "title": "A Hash-Based Quantum-Resistant Designated Verifier Signature Scheme",
+                "publisher": "MDPI",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Regis Anne W",
+                "co_author": "Jeeva SC",
+                "title": "Empirical Analysis of Pair Programming Using Bloom's Taxonomy and Programmer Rankers Algorithm to Improve the Software Metrics in Agile Development",
+                "publisher": "IGI Global",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Poomagal S",
+                "co_author": "Dr.Malar B, Pridarshini Srirambalaji, Vanitha Sivagaminathan",
+                "title": "Conformal Isotonic Separation for Binary Classification",
+                "publisher": "Elsevier",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Thanalakshmi P",
+                "co_author": "Dr.Anitha R",
+                "title": "A Hash-Based Quantum-Resistant Chameleon Signature Scheme.",
+                "publisher": "MDPI",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Deena R, MAT",
+                "co_author": "Dr.Sai Sundara Krishnan G",
+                "title": "IrregularBehaviourofgasflowatentranceofrectangularmicrochannelsusingFractionalDerivative",
+                "publisher": "MUK Publishers",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Santhi A",
+                "co_author": "Dr.Shakthiganesan M, Sushma Basil",
+                "title": "Solving a class of  Fredholm integral  inclusions via fixed point  theorems in the turf of  D_C - WD mappings",
+                "publisher": "Natural Volatiles and Essential Oils",
+                "year": "2021"
+            },
+            {
+                "author": "Henning Fernau Professor",
+                "co_author": "Lakshmanan, Dr.Indhumathi R",
+                "title": "On the generative capacity of matrix insertion-deletion systems of small sum-norm",
+                "publisher": "Springer",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Ilayaraja N, MCA",
+                "co_author": "Dr.Periakaruppan R M",
+                "title": "Personalized local search using ontology based user profile category model",
+                "publisher": "Systematic Reviews",
+                "year": "2021"
+            },
+            {
+                "author": "M. Aishwarya Student",
+                "co_author": "Dr.Ilayaraja N, MCA, Dr.Periakaruppan R M",
+                "title": "Optimization of web search techniques using frequency analysis",
+                "publisher": "Semnan Univ",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Sreelaja N K",
+                "co_author": "",
+                "title": "Ant Colony Optimization based Light weight Binary Search for efficient signature matching to filter Ransomware",
+                "publisher": "Elsevier.B.V",
+                "year": "2021"
+            },
+            {
+                "author": "K. Sivaranjani Assistant Professor",
+                "co_author": "Dr.Sivakumar M, S. Dharani, K. Loganathan, Ngawang Ngmgyel",
+                "title": "Nonfragile Synchronization of Semi-Markovian Jumping Neural Networks with Time Delays via Sampled-Data Control and Application to Chaotic Systems",
+                "publisher": "Hindawi",
+                "year": "2021"
+            },
+            {
+                "author": "Kalaiselvi Myilsamy Research Scholar",
+                "co_author": "Athira Satheeshkumar, Dr.Senthil Kumar M",
+                "title": "Dynamics of Trachoma Epidemic in Human Contact Network with Seasonally Varying Infectious Medium",
+                "publisher": "Springer",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Santhi A",
+                "co_author": "Dr. S. Muralisankar, Ravi P. Agarwal",
+                "title": "A NEW COUPLED FIXED POINT THEOREM VIA SIMULATION FUNCTION WITH APPLICATION",
+                "publisher": "Matematicki Vesnik",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Suresh kumar V",
+                "co_author": "Dr.Anandhi S, RuhulAmin, N Selvarajan, R Madhumathi",
+                "title": "Design of Robust Mutual Authentication and Key Establishment Security Protocol for Cloud-Enabled Smart Grid Communication",
+                "publisher": "IEEE",
+                "year": "2021"
+            },
+            {
+                "author": "K Loganathan",
+                "co_author": "Dr.Sivakumar M, M Mohanraj, P Sakthivel",
+                "title": "Thermally Radiative Casson Fluid Flow over a Cylinder with Newtonian Heating and Heat generation/absorption",
+                "publisher": "IOP Publishing",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Sathyakala P, MAT",
+                "co_author": "Dr.Sai Sundara Krishnan G, Dr.Balaji K",
+                "title": "Minimizing the overall loss coefficient of flat plate solar collector using energy, entropy and exergy analysis",
+                "publisher": "",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Sai Sundara Krishnan G",
+                "co_author": "Dr.Syama R, MAT",
+                "title": "Algebraic Invariants in Abstract Cellular Complex",
+                "publisher": "",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Nirmala P Assistant Professor (Sr. Gr.)",
+                "co_author": "Dr.Nadarajan R",
+                "title": "Eigenvector centrality based algorithm for finding a maximal common connected vertex induced molecular substructure of two chemical graphs",
+                "publisher": "Elsevier",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Sangeetha S, IT",
+                "co_author": "Dr.Sudha Sadasivam G, CSE, Dr.Latha R",
+                "title": "Utility-Based Differentially Private Recommendation System",
+                "publisher": "Springernature",
+                "year": "2021"
+            },
+            {
+                "author": "Henning Fernau Professor",
+                "co_author": "Lakshmanan, Dr.Indhumathi R",
+                "title": "On the computational completeness of matrix simple semi-conditional grammars",
+                "publisher": "Elsevier",
+                "year": "2021"
+            },
+            {
+                "author": "RuhulAmin Assistant Professor",
+                "co_author": "IshaPali, Dr.Suresh kumar V",
+                "title": "Software-Defined Network enabled Vehicle to Vehicle secured data transmission protocol in VANETs",
+                "publisher": "Elsevier",
+                "year": "2021"
+            },
+            {
+                "author": "Kalpana Devarajan Assistant Professor",
+                "co_author": "Dr.Senthil Kumar M",
+                "title": "On the Retrial-Queuing Model for Strategic Access and Equilibrium-Joining Strategies of Cognitive Users in Cognitive-Radio Networks with Energy Harvesting",
+                "publisher": "MDPI",
+                "year": "2021"
+            },
+            {
+                "author": "Padmavathi Ramamoorthi Assistant Professor",
+                "co_author": "Dr.Senthil Kumar M",
+                "title": "Optimal control of alcoholism spreading through awareness over multiplex network",
+                "publisher": "World Scientific",
+                "year": "2021"
+            },
+            {
+                "author": "Antonitta Eileen Pious Assistant professor",
+                "co_author": "Dr.Sridevi UK",
+                "title": "A study of automatic segmentation of White Matter Hyperintensity for detection of Alzheimer’s disease",
+                "publisher": "",
+                "year": "2021"
+            },
+            {
+                "author": "Dr.Sridevi UK",
+                "co_author": "Shanthi P",
+                "title": "An ontology-based sentiment analysis model towards classification of drug reviews",
+                "publisher": "CEUR Workshop Proceedings (CEUR-WS.org)",
+                "year": "2021"
+            },
+            {
+                "author": "Padmavathi Ramamoorthi Assistant Professor",
+                "co_author": "Dr.Senthil Kumar M",
+                "title": "Dynamics of COVID-19 spreading model with social media public health awareness diffusion over multiplex networks: Analysis and control",
+                "publisher": "",
+                "year": "2021"
+            },
+            {
+                "author": "Hironori Washizaki",
+                "co_author": "Tian Xia, Natsumi Kamata, Yoshiaki Fukazawa, Hideyuki Kanuka, Takehisa Kato, Masayuki Yoshino, Takao Okubo, Dr.Priyalakshmi G",
+                "title": "Systematic Literature Review of Security Pattern Research",
+                "publisher": "",
+                "year": "2021"
+            },
+            {
+                "author": "Henning Fernau Professor",
+                "co_author": "Rufus Oladele, Dr.Indhumathi R",
+                "title": "Improved Descriptional Complexity Results for Simple Semi-Conditional Grammars",
+                "publisher": "EPI Sciences",
+                "year": "2021"
+            },
+            {
+                "author": "Kalaiselvi Myilsamy Research Scholar",
+                "co_author": "Dr.Senthil Kumar M, Athira Satheeshkumar",
+                "title": "Optimal control of a rumor model with group propagation over complex networks",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "Dr.Senthil Kumar M",
+                "co_author": "Dr.Sumathi M, MAT, Dr.Veeramani C, AS",
+                "title": "Optimal Control of Malware Spreading Model with Tracing and Patching in Wireless Sensor Networks",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "Dr.Sathyakala P, MAT",
+                "co_author": "Dr.Sai Sundara Krishnan G, Dr.Balaji K",
+                "title": "An Exergy Analysis for Overall Hidden Losses of Energy in Solar Water Heater",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "Dr.Malar B",
+                "co_author": "Dr.Nadarajan R",
+                "title": "An online isotonic separation with cascade architecture for binary classification",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "Dr.Syama R, MAT",
+                "co_author": "Dr.Sai Sundara Krishnan G, Yashwanth Ramamurthy",
+                "title": "Mappings on abstract cellular complex and their applications in image analysis",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "S. R. Saratha Assistant Professor",
+                "co_author": "Dr.Sai Sundara Krishnan G, Dr.Bagyalakshmi M, MAT, Chee Peng Lim",
+                "title": "Solving Black–Scholes equations using fractional generalized homotopy analysis method",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "Dr.Suresh kumar V",
+                "co_author": "Ruhul Amin, Mohammad S. Obaidat, Isswarya Karthikeyan",
+                "title": "An enhanced mutual authentication and key establishment protocol for TMIS using chaotic map",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "Dr.Poonthalir G",
+                "co_author": "Dr.Nadarajan R, Dr.Senthil Kumar M",
+                "title": "Hierarchical optimization of green routing for mobile advertisement vehicle",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "Aldiyar Dabarov Research Scholar",
+                "co_author": "Madiyar Sharipov, Aresh Dadlani, Dr.Senthil Kumar M, Walid Saad",
+                "title": "Heterogeneous Projection of Disruptive Malware Prevalence in Mobile Social Networks",
+                "publisher": "",
+                "year": "2020"
+            },
+            {
+                "author": "Dr.Anandhi S",
+                "co_author": "Dr.Anitha R, Dr.Suresh kumar V",
+                "title": "An Authentication Protocol to Track an Object with Multiple RFID Tags Using Cloud Computing Environment",
+                "publisher": "",
+                "year": "2020"
+            }
+        ],
+        "national_journals": [
+            {
+                "author": "Dr.Poomagal S",
+                "co_author": "Dr.Malar B, J.INAMUL HASSAN, Student, R. KISHOR, Student",
+                "title": "A novel Tag Score(T_S) model with improved K-means for clustering tweets",
+                "publisher": "",
+                "year": "2020"
+            }
+        ]
+    }
+}

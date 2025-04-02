@@ -1,0 +1,218 @@
+{
+    "publications": {
+        "books": [
+            {
+                "author": "Dr.Indhumathi R",
+                "co_authors": "Dr.Poonthalir G, Dr.Suresh kumar V, Dr.Latha R",
+                "title": "Computational Intelligence, Cyber Security and Computational Models. Recent Trends in Computational Models, Intelligent and Secure Systems: 5th International Conference, ICC3 2021",
+                "publisher": "Springer",
+                "year": "2022"
+            },
+            {
+                "author": "Dr.Geetha N",
+                "co_authors": "Arumugam Subramaniam, Manuel Grana, Dr.Suresh Balusamy, Dr.Rajamanickam N, Dr.Periakaruppan R M",
+                "title": "Computational Intelligence, Cyber Security and Computational Models",
+                "publisher": "Springer",
+                "year": "2018"
+            },
+            {
+                "author": "",
+                "co_authors": "Dr.Shina Sheen",
+                "title": "Digital Connectivity – Social Impact:",
+                "publisher": "Springer",
+                "year": "2016"
+            },
+            {
+                "author": "",
+                "co_authors": "Dr.Vijayalakshmi R, Dr.Shina Sheen",
+                "title": "Computational Intelligence, Cyber Security and Computational Models",
+                "publisher": "Springer",
+                "year": "2016"
+            },
+            {
+                "author": "Dr.Sai Sundara Krishnan G",
+                "co_authors": "R. Anitha, Dr.Lekshmi R S, M Senthilkumar, Anthony Bonato, Manual Grana",
+                "title": "Computational Intelligence, Cyber Security and Computational Models: Proceedings of ICC3, 2013",
+                "publisher": "Springer",
+                "year": "2013"
+            }
+        ],
+        "contributions": [
+            {
+                "nature": "Chapter",
+                "title": "Based Approach to Generate Efficient Minimal Boolean Expressions for Rekeying in Authentication of IoT Devices",
+                "author": "Dr.Sreelaja N K",
+                "contributor": "Dr.Sreeja N K",
+                "date": "16/02/2024"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Deep Learning to Explore the Correlation Between Screen Time and Depression Through Analysis of the NHANES Dataset",
+                "author": "Dr.Regis Anne W",
+                "contributor": "",
+                "date": "15/01/2024"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Hierarchical Heterogeneous Ant Colony Optimization Based Approach to Optimize File Similarity Searches Using ssDeep",
+                "author": "Dr.Sreelaja N K",
+                "contributor": "Dr.Sreeja N K",
+                "date": "07/07/2023"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Improved Ant Colony Optimization Based Binary Search for Point Pattern Matching for Efficient Image Matching",
+                "author": "Dr.Sreeja N K",
+                "contributor": "Dr.Sreelaja N K",
+                "date": "07/07/2023"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Phishing URL Detection Based on Deep Learning Techniques",
+                "author": "Jeeva s c",
+                "contributor": "Dr.Regis Anne W",
+                "date": "04/11/2022"
+            },
+            {
+                "nature": "Chapter",
+                "title": "An Ant Colony Optimization Based Resampling for Weighted Pattern Matching Classifier (PMC+)",
+                "author": "Dr.Sreelaja N K",
+                "contributor": "",
+                "date": "10/08/2022"
+            },
+            {
+                "nature": "Chapter",
+                "title": "An Action Rule Generation Algorithm from Clustered Objects Using Particle Swarm Optimization",
+                "author": "Dr.Sreeja N K",
+                "contributor": "",
+                "date": "10/08/2022"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Machine learning modeling techniques and statistical projections to predict the outbreak of COVID-19 with implication to India",
+                "author": "Dr.Regis Anne W",
+                "contributor": "Jeeva SC",
+                "date": "24/06/2022"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Route Optimization for Perishable Goods Transportation System",
+                "author": "AK. Kowalya Devi",
+                "contributor": "Dr.Megala M, Dr. C. Manivannan",
+                "date": "04/03/2022"
+            },
+            {
+                "nature": "Article",
+                "title": "Webinar gets going in Coimbatore",
+                "author": "Dr.Indhumathi R",
+                "contributor": "Dr.Indhumathi R",
+                "date": "16/12/2021"
+            },
+            {
+                "nature": "Chapter",
+                "title": "A Risk Based Ensemble Classifier for Breast Cancer Diagnosis",
+                "author": "Dr.Malar B",
+                "contributor": "Priyadarshini Srirambalaji, TS Vanitha",
+                "date": "22/10/2021"
+            },
+            {
+                "nature": "Chapter",
+                "title": "An Ant Colony Optimization based approach of feature selection for efficient classification of very small datasets by mining patterns",
+                "author": "Dr.Sreelaja N K",
+                "contributor": "Dr.Sreeja N K",
+                "date": "01/07/2021"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Graph Based Isotonic Separation as a Healthcare Model Using Statistical Feature Selection",
+                "author": "Dr.Malar B",
+                "contributor": "Dr.Nadarajan R",
+                "date": "20/11/2020"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Mean-Square Stochastic Stability of Delayed Hybrid Stochastic Inertial Neural Networks",
+                "author": "Dr.Krishnasamy R",
+                "contributor": "A. Manivannan, Raju K George",
+                "date": "11/08/2020"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Fuzzy-Based Sliding Mode Control Design for Stability Analysis of Nonlinear Interconnected Systems",
+                "author": "A. Manivannan",
+                "contributor": "G. Bhuvaneswari, Dr.Krishnasamy R, V. Parthiban, S. Dhanasekar",
+                "date": "11/08/2020"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Elderly Behavior Prediction Using a Deep Learning Model in Smart Homes",
+                "author": "Dr.Sridevi UK",
+                "contributor": "Sophia, Shanthi P",
+                "date": "01/02/2020"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Security protocol for Multimedia Streaming",
+                "author": "Dr.Brindha N",
+                "contributor": "Mrs.Deepa S, S. Balamurugan",
+                "date": "30/01/2020"
+            },
+            {
+                "nature": "Chapter",
+                "title": "A Fireworks-Based Approach for Efficient Packet Filtering in Firewall",
+                "author": "Dr.Sreelaja N K",
+                "contributor": "",
+                "date": "12/12/2019"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Learning From Class Imbalance: A Fireworks-Based Resampling for Weighted Pattern Matching Classifier (PMC+)",
+                "author": "Dr.Sreeja N K",
+                "contributor": "",
+                "date": "02/12/2019"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Semantic Similarity Using Register Linear Question Classification (RLQC) for Question Classification",
+                "author": "Shanthi P",
+                "contributor": "Dr.Sridevi UK, Pathur Nisha S.",
+                "date": "01/11/2019"
+            },
+            {
+                "nature": "Article",
+                "title": "Analysing exposure diversity in collaborative recommender systems—Entropy fusion approach",
+                "author": "Dr.Latha R",
+                "contributor": "Dr.Latha R",
+                "date": "16/07/2019"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Security for smart vehicle in IOT",
+                "author": "Mrs.Deepa S",
+                "contributor": "Dr.Brindha N",
+                "date": "10/06/2019"
+            },
+            {
+                "nature": "Article",
+                "title": "An image encryption scheme based on block scrambling, modified zigzag transformation and key generation using enhanced logistic—Tent map",
+                "author": "Dr.Priya R",
+                "contributor": "Dr.Priya R",
+                "date": "07/03/2019"
+            },
+            {
+                "nature": "Chapter",
+                "title": "Swarm Intelligence-Volume 2: Innovation, new algorithms and methods,2018",
+                "author": "Dr.Sreelaja N K",
+                "contributor": "Dr.Sreeja N K",
+                "date": "03/09/2018"
+            },
+            {
+                "nature": "Chapter",
+                "title": "An Ant Colony Optimization based approach of feature selection for efficient classification of very small datasets by mining patterns",
+                "author": "Dr.Sreeja N K",
+                "contributor": "Dr.Sankar A, MCA",
+                "date": "01/10/2013"
+            }
+        ]
+    }
+}

@@ -1,0 +1,2082 @@
+{
+    "program_name": "B.Sc Computer Systems and Design",
+    "year": "2020",
+    "courses": [
+        {
+            "code": "21X101",
+            "title": "CALCULUS AND ITS APPLICATIONS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "FUNCTIONS AND CONTINUITY:",
+                    "content": "Functions - Periodic functions- Graphs of standard functions \u2013 Limits and continuity - Piecewise continuous functions \u2013 Differentiability \u2013 Fundamental theorem of Calculus(8+5)"
+                },
+                {
+                    "title": "FUNCTIONS OF TWO VARIABLES:",
+                    "content": "Partial derivatives - Geometrical interpretation - Saddle points - Taylor\u201fs series - Maxima and minima - Constrained maxima and minima - Lagrange multiplier method(6+4)"
+                },
+                {
+                    "title": "INTEGRAL CALCULUS:",
+                    "content": "Multiple integrals \u2013 Change of order of integration - Application of multiple integrals in finding area and volume - Beta and Gamma functions - Relation connecting Beta and Gamma functions - Evaluation of definite integrals (10+7)"
+                },
+                {
+                    "title": "ORDINARY DIFFERENTIAL EQUATIONS:",
+                    "content": "Linear Differential Equations of first order - Exact differential equations - Integrating factors - Linear Differential Equations of second order with constant coefficients - Method of variation of parameters \u2013 Modeling: \n                        Mass-spring systems, electrical circuits  \n                         (11+7)"
+                },
+                {
+                    "title": "VECTOR CALCULUS:",
+                    "content": "Vector differentiation - Gradient, Divergence, Curl and directional derivatives \u2013 Vector Integration - Line \n                        and surface integrals - Green\u201fs, Gauss divergence and Stoke\u201fs theorems (Statement only).                                    \n                        (10+7)"
+                }
+            ],
+            "textbooks": [
+                "1.\tErwin Kreyszig, \u201cAdvanced Engineering Mathematics\u201d, John Wiley and Sons, 2015.",
+                "2.\tGeorge B.Thomas, Maurice D.Weir and Joel R.Hass, \u201cThomas Calculus\u201d, Pearson Education, 2018."
+            ]
+        },
+        {
+            "code": "21X102",
+            "title": "COMBINATORICS",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION TO COMBINATORIAL PROBLEMS:",
+                    "content": "Magic Square Problem \u2013 Four-Color Problem \u2013 Shortest-route problem \u2013 Perfect Covers of Chessboards(4)"
+                },
+                {
+                    "title": "PERMUTATIONS AND COMBINATIONS:",
+                    "content": "Sets and MultiSets - The Pigeonhole Principle \u2013 Simple and Strong Form - Generating Permutations - Inversions in Permutations - Generating Combinations - Generating r-Subsets. (9)"
+                },
+                {
+                    "title": "BINOMIAL COEFFICIENTS:",
+                    "content": "Pascal's Triangle - The Binomial Theorem - Unimodality of Binomial Coefficients - The Multinomial Theorem - Newton's Binomial Theorem (7)"
+                },
+                {
+                    "title": "INCLUSION-EXCLUSION PRINCIPLE:",
+                    "content": "The Inclusion-Exclusion Principle - Combinations with Repetition \u2013 Derangements - Permutations with Forbidden Positions - Mobius Inversion (8)"
+                },
+                {
+                    "title": "RECURRENCE RELATIONS:",
+                    "content": "Some Number Sequences - Generating Functions - Exponential Generating Functions -Solving Linear Homogeneous Recurrence Relations - Nonhomogeneous Recurrence Relations. (9)"
+                },
+                {
+                    "title": "SPECIAL COUNTING SEQUENCES:",
+                    "content": "Fibonacci Numbers - Catalan Numbers - Stirling Numbers - Partition Numbers.  (4)"
+                },
+                {
+                    "title": "COMBINATORIAL DESIGNS:",
+                    "content": "Modular Arithmetic \u2013 Block Designs \u2013 Steiner Triple systems \u2013 Latin Squares (4)"
+                }
+            ],
+            "textbooks": [
+                "1.\tRichard A Brualdi, \u201cIntroductory Combinatorics\u201d, Pearson, 2019.",
+                "2.\tAlan Tucker, \u201cApplied Combinaorics\u201d, Wiley, 2016."
+            ]
+        },
+        {
+            "code": "21X103",
+            "title": "C PROGRAMMING",
+            "credits": "4 0 0 4",
+            "content": [
+                {
+                    "title": "PROBLEM SOLVING:",
+                    "content": "Introduction to Problem Solving- Program development- Analyzing and Defining the Problem- Modular Design \u2013 Algorithm - Flow Chart - What is a programming language-Types of programming language- Program Development Environment.                                                                                                           \n                        (5)"
+                },
+                {
+                    "title": "C LANGUAGE:",
+                    "content": "Introduction to C Language -  C character set - Identifiers and Keywords - Data Types - Constants - Variables - Arrays - Declarations - Expressions - Statements - Symbolic constants - Operators and  Expressions - Library Functions - Data Input and  Output Functions (7)"
+                },
+                {
+                    "title": "CONTROL STATEMENTS:",
+                    "content": "While Statement - Do While Statement \u2013 For Loop \u2013 Nested  Loop - If Else - Switch - Break - Continue - Comma Operator \u2013 Goto Statement  (6)"
+                },
+                {
+                    "title": "FUNCTIONS:",
+                    "content": "Defining Function - Accessing a Function - Passing Arguments to Functions - Specifying Arguments Data Types - Function Prototypes - Storage Classes - Auto - Static - Extern and Register Variables(8)"
+                },
+                {
+                    "title": "ARRAYS:",
+                    "content": "Defining Array \u2013 Processing array - Passing array to a function - Multi dimensional array - Array and strings (6)"
+                },
+                {
+                    "title": "POINTERS:",
+                    "content": "Declarations - Pointers to a function - Pointers and one dimensional arrays - Operating a pointer - Pointer and multi-dimensional arrays - arrays of pointers - passing functions to other functions. (10)"
+                },
+                {
+                    "title": "STRUCTURES AND UNIONS:",
+                    "content": "Definition of Structure and Union - Processing a structure \u2013 Bit field representations - Structures and pointers - Passing structure to functions - Self-referential structures \u2013 Nested structure. (7)"
+                },
+                {
+                    "title": "FILES:",
+                    "content": "File Structure concepts introduction -  Definitions, concept  of  record,  file  operations:  Storing,  creating,  retrieving,  updating Sequential, relative, indexed and random access mode, Files with binary mode(Low level), performance of Sequential Files  \u2013 Operations on Files \u2013 Types of Files, Various input and output functions on Files.  (7)"
+                },
+                {
+                    "title": "ENUMERATED DATA TYPE :",
+                    "content": "Typedef - Preprocessor Directives - Command Line Arguments.  (4)"
+                }
+            ],
+            "textbooks": [
+                "1.\tKernighan B. W. and Ritchie D. M., \u201cC Programming Language (ANSI C)\u201d, Prentice Hall, 2015.",
+                "2.\tDeitel H. M. and Deitel P. J., \u201cC How to Program\u201d, Prentice Hall, 2015"
+            ]
+        },
+        {
+            "code": "21X104",
+            "title": "ANALOG AND DIGITAL ELECTRONICS",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "ANALOG:",
+                    "content": "Diode theory-forward and reverse-biased junctions- Transistor fundamentals, transistor configurations, characteristics & parameters - Transistor as Amplifier and as switch - Basic idea of an OP-AMP - Inverting and non-inverting inputs \u2013 Adder \u2013Subtractor - Integrator - Differentiator. (9)"
+                },
+                {
+                    "title": "NUMBER SYSTEMS AND CODES:",
+                    "content": "Introduction to decimal, binary, octal, hexadecimal number systems \u2013 Inter conversions of Number Systems \u2013 Binary Codes: BCD, Excess -3, Gray, ASCII Codes\u2013 2\u201fs complement addition, subtraction \u2013 BCD addition. (7)"
+                },
+                {
+                    "title": "LOGIC GATES AND FAMILIES:",
+                    "content": "AND, OR, NOT, NAND, NOR, Exclusive - OR and Exclusive - NOR- Implementations of Logic Functions using gates- NAND -NOR implementations. (6)"
+                },
+                {
+                    "title": "BOOLEAN ARITHMETIC AND THEOREM:",
+                    "content": "Boolean laws and theorems \u2013 Boolean expressions \u2013 Minimization - Sum of Products (SOP) -Product of Sums (POS) - Minterm - Maxterm - Canonical forms - Karnaugh map Minimization - two, three and four variable Karnaugh maps - Don't care conditions. (9)"
+                },
+                {
+                    "title": "COMBINATIONAL AND SEQUENTIAL LOGIC CIRCUITS:",
+                    "content": "Adders \u2013 Subtractors - Encoders \u2013 Decoders \u2013 Multiplexers - Demultiplexers - Flip-flops. (8)"
+                },
+                {
+                    "title": "SHIFT REGISTERS AND COUNTERS:",
+                    "content": "A Parallel/serial in/out shift registers \u2013 Counters: Definition \u2013 Types - Asynchronous Counters - Synchronous counters - Design of counters. (6)"
+                }
+            ],
+            "textbooks": [
+                "1.\t1.Morris Mano M., \u201cDigital Design\u201d, Prentice Hall of India Private Limited, 2012",
+                "2.\tJohn M. Yarbrough, \u201cDigital Logic Applications and Design\u201d, Thomson- Vikas publishing house, 2015"
+            ]
+        },
+        {
+            "code": "21X105",
+            "title": "ENGLISH",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "VOCABULARY BUILDING:",
+                    "content": "The concept of Word Formation: Compounding, Backformation, Clipping, Blending - Root words from foreign languages and their use in English - Acquaintance with prefixes and suffixes from foreign languages in English to form derivatives - Synonyms, antonyms, and standard abbreviations: Acronyms. (5)"
+                },
+                {
+                    "title": "GRAMMAR:",
+                    "content": "Identifying Common Errors in English \u2013 Tenses \u2013 Modal auxiliary verbs - Subject-verb agreement - Noun-pronoun agreement - Articles \u2013 Prepositions \u2013 Word order - Different types of sentence: simple, compound, complex, Idioms and Phrases, Transformation of sentences: Active and Passive voice. (6)"
+                },
+                {
+                    "title": "READING COMPREHENSION:",
+                    "content": "Developing Reading Skills like Skimming and Scanning for information, Critical Reading, Inferential, Cognition, and analytical Skills- appropriate reading texts to be used from general, scientific, and literary genres.  (9)"
+                },
+                {
+                    "title": "BASIC WRITING SKILLS:",
+                    "content": "Importance of proper punctuation - Creating coherence: Arranging paragraphs & Sentences in logical order - Creating Cohesion: Organizing principles of paragraphs - Techniques for writing precisely - Nature and Style of sensible Writing: Describing, Defining, Classifying - Writing introduction and conclusion - Pr\u00e9cis Writing - Essay Writing - Writing Letters: Formal, Informal - Writing E-mail. (9)"
+                },
+                {
+                    "title": "LISTENING SKILLS:",
+                    "content": "Adders \u2013 Subtractors - EncodeUnderstanding listening - Listening Techniques - Listening short comprehension passages - Conversational practice in both social and professional contexts. (6)"
+                },
+                {
+                    "title": "PRACTICALS",
+                    "content": "Oral presentation - Short speeches and conversation Practice  - Listening integrated tasks. (10)"
+                }
+            ],
+            "textbooks": [
+                "1. Shoba, K N & Lourdes Joavani Rayen. \u201cCommunicative English: a workbook\u201d. New Delhi: Cambridge University Press, 2021"
+            ]
+        },
+        {
+            "code": "21X106",
+            "title": "C PROGRAMMING LABORATORY",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X107",
+            "title": "WEB DESIGN LABORATROY",
+            "credits": "0 0 4 2",
+            "content": [
+                {
+                    "title": "Exercises pertaining to the following concept s are to be implemented",
+                    "content": "b\n                        1.\tHTML formatting for images, text including list and link  \n                        2.\tHTML table formatting \n                        3.\tMenu and frames  \n                        4.\tUser interface using forms with audio and video \n                        5.\tDynamic web page using internal/external CSS \n                        6.\tCSS involving text, colour properties in tables \n                        7.\tBootstrap commands \n                        8.\tIncluding internal/external JavaScript \n                        9.\tJavaScript control structures \n                        10.\tJavaScript functions \n                        11.\tA complete web site development"
+                }
+            ]
+        },
+        {
+            "code": "21X108",
+            "title": "ANALOG AND DIGITAL ELECTRONICS LABORATORY",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X201",
+            "title": "LINEAR ALGEBRA",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "Prerequisites:",
+                    "content": ""
+                },
+                {
+                    "title": "LINEAR SYSTEMS:",
+                    "content": "System of linear equations - Consistent and inconsistent systems - Geometric interpretation of linear system in 2 and 3 unknowns - Row reduction and Echelon forms \u2013 Vector equation \u2013 Matrix equation Ax=b - LU decomposition - Applications of linear systems. (6+4)"
+                },
+                {
+                    "title": "VECTOR SPACES:",
+                    "content": "Euclidean n-space, General vector spaces, Subspaces, Linear independence, Basis and dimension, Row space, Column space and Null space, Rank and nullity \u2013 Change of basis \u2013 Similarity - Isomorphism. (10+7)"
+                },
+                {
+                    "title": "LINEAR TRANSFORMATIONS:",
+                    "content": "Introduction, Properties-Kernel and range, Linear Transformation from Rn to Rm, Matrices of linear transformations (9+5)"
+                },
+                {
+                    "title": "INNER PRODUCT SPACES:",
+                    "content": "Inner products, Length and Angle in inner product spaces - Orthonormal bases, Gram Schmidt process - Orthogonal matrices, QR decomposition - Best Approximation and Least-squares. (10+7)"
+                },
+                {
+                    "title": "EIGEN VALUES AND EIGEN VECTORS:",
+                    "content": "Eigen values and Eigen vectors - Diagonalization, Symmetric Matrices, Orthogonal Diagonalization \u2013 Singular Value Decomposition \u2013 Eigen values and linear transformations - Discrete Dynamical systems. (10+7)"
+                }
+            ],
+            "textbooks": [
+                "1.\tHoward Anton, \u201cElementary Linear Algebra\u201d, John Wiley, 2017",
+                "2.\tDavid C. Lay, \u201cLinear Algebra and Its Applications\u201d, Pearson Education, 2016."
+            ]
+        },
+        {
+            "code": "21X202",
+            "title": "DISCRETE MATHEMATICS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "MATHEMATICAL LOGIC:",
+                    "content": "Proposition logic - Logical operators - Laws of Logic \u2013 Tautologies \u2013 Equivalences \u2013 Tautological implications \u2013 Rules of inference - Validity of arguments \u2013 Consistency of specifications \u2013 Predicate logic \u2013 Quantifiers and universe of discourse. (10+7)"
+                },
+                {
+                    "title": "RELATIONS AND FUNCTIONS:",
+                    "content": "Relations \u2013 Binary relation \u2013 Properties \u2013 Representations \u2013 Closures of Relations \u2013 Composition of Relations \u2013 Equivalence Relations \u2013 Partitions \u2013 Partial Orderings \u2013 Covering of Sets \u2013 Hasse Diagrams \u2013 n-ary Relations and their Applications. Functions - Injective, Surjective, Bijective functions, Composition, Identity and Inverse. (10+7)"
+                },
+                {
+                    "title": "ALGEBRAIC STRUCTURES:",
+                    "content": "Groups \u2013 properties of Groups, Subgroups \u2013Definition, Cosets and Lagrange\u201fs theorem, Homomorphism, Isomorphism, Automorphism - Cayley\u201fs theorem-Normal subgroups-Factor group-Fundamental theorem of group homomorphism.(10+7)"
+                },
+                {
+                    "title": "CODING THEORY:",
+                    "content": "Coding of Binary information and Error detection \u2013 Group codes \u2013 Decoding and Error correction.  (6+4)"
+                },
+                {
+                    "title": "GRAPH THEORY:",
+                    "content": "Basic concepts \u2013 degree sequence - Matrix representation of graphs - connectedness \u2013 Euler and Hamilton graphs \u2013 Graph isomorphism. Tree\u2013Spanning tree\u2013matrix tree theorem-Dijkstra\u201fs algorithm. (9+5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tKenneth H Rosen, \u201cDiscrete Mathematics and its Applications\u201d, 8th Edition, McGraw Hill, 2019.",
+                "2.\tTremblay J P and Manohar R, \u201cDiscrete Mathematical Structures with Applications to Computer Science\", Tata McGraw Hill, 2014.",
+                "3.\tJoseph A. Gallian, \u201cContemporary Abstract Algebra\u201d, 9th Edition, Cengage Learning, 2016"
+            ]
+        },
+        {
+            "code": "21X203",
+            "title": "COMPUTER ARCHITECTURE",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Elements of a Computer system \u2013 Jon Von Newmann Architecture, Harvard Architecture - RTL. (3)"
+                },
+                {
+                    "title": "ALU DESIGN:",
+                    "content": "Arithmetic micro operations \u2013 Logic micro operations \u2013 Shift micro operations \u2013 Arithmetic, logic, shift units. (5)"
+                },
+                {
+                    "title": "CONTROL UNIT:",
+                    "content": "Computer Instructions - Instruction codes- Instruction Cycle \u2013Timing & Control \u2013 Types of  Instructions \u2013 Memory Reference, Register Reference , Input & Output,  Interrupt Instructions. (9)"
+                },
+                {
+                    "title": "CPU DESIGN:",
+                    "content": "General Register organization\u2013Stack Organization\u2013Instruction formats\u2013Addressing modes. (6)"
+                },
+                {
+                    "title": "INPUT OUTPUT ORGANIZATION:",
+                    "content": "I/O devices and interface \u2013 Asynchronous data transfer- Modes of data transfer- Direct Memory Access (DMA) \u2013 I/O processor. (7)"
+                },
+                {
+                    "title": "MEMORY ORGANIZATION:",
+                    "content": "Memory hierarchy \u2013 Main memory \u2013 Auxiliary memory \u2013 Associative memory \u2013 Cache memory -  Virtual memory. (8)"
+                },
+                {
+                    "title": "MULTIPROCESSOR:",
+                    "content": "Characteristics \u2013 Interconnection structures \u2013Parallel Processing-Pipelining. (7)"
+                }
+            ],
+            "textbooks": [
+                "1.\tMorris Mano, \u201cComputer Systems Architecture\u201d, Prentice Hall, 2017.",
+                "2.\tWilliam Stallings, \u201cComputer Organization & Architecture Designing for Performance\u201d, Pearson Education, 2019."
+            ]
+        },
+        {
+            "code": "21X204",
+            "title": "DATA STRUCTURES",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Data structures - Abstract data Types - Primitive data structures \u2013 Asymptotic Notations \u2013 Best and Worst case complexities (7)"
+                },
+                {
+                    "title": "ARRAYS:",
+                    "content": "Operations - one, two, and multi- dimension arrays \u2013 Sparse matrices \u2013 Applications. (3)"
+                },
+                {
+                    "title": "STACKS:",
+                    "content": "Primitive operations - sequential implementation - Applications: Function  handling - Recursion \u2013 Expression  Processing, Parentheses matching. (4)"
+                },
+                {
+                    "title": "QUEUES:",
+                    "content": "Primitive operations - sequential implementation - Priority Queues - Dequeue - Applications. (5)"
+                },
+                {
+                    "title": "LISTS:",
+                    "content": "Primitive Operations - Singly linked lists, doubly linked lists, Circular lists, Multiply linked lists - Applications: Addition of Polynomials \u2013 Linked Stacks -   Linked queues - Linked Priority queues - Dynamic Storage Management. (9)"
+                },
+                {
+                    "title": "TREES:",
+                    "content": "Terminologies - implementation - BINARY TREE: Properties - sequential and linked representation - binary tree operations - traversals - Expression trees - Infix, Postfix and Prefix expressions - Threaded trees - Tournament trees. (8)"
+                },
+                {
+                    "title": "HASH TABLE:",
+                    "content": "Introduction \u2013 Operations \u2013 Implementation \u2013 Hash Function -\u2013 successful and unsuccessful search - Collision Resolution handling. (4)"
+                },
+                {
+                    "title": "SORTING AND SEARCHING:",
+                    "content": "Insertion sort, Bubble sort, Selection sort, Radix sort \u2013 time complexity and analysis - linear search \u2013 Binary search. (5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tMichael T. Goodrich, Roberto Tamassia, and David M. Mount, \u201cData Structures and Algorithms in C++\u201d, Wiley, 2017",
+                "2.\tSahni Sartaj, \"Data Structures, Algorithms and Applications in C++\", Silicon Press, 2011"
+            ]
+        },
+        {
+            "code": "21X205",
+            "title": "OBJECT ORIENTED PROGRAMMING WITH C++",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "PRINCIPLES OF OBJECT ORIENTED PROGRAMMING:",
+                    "content": "Software  crisis - Software Evolution - Procedure Oriented Programming - Object Oriented Programming Paradigm -  Basic  Concepts and Benefits of OOP - Object Oriented  Programming Language  -  Application of  OOP -  Structure   of   C++   - Tokens, Expressions and  Control  Structures  - Operators in C++ - Manipulators (6)"
+                },
+                {
+                    "title": "FUNCTIONS IN C++:",
+                    "content": "Function Prototyping - Call by Reference - Return by reference - Inline functions - Default, Const Arguments - Function overloading  -  Classes  and  Objects - Member  functions -  Nesting  of  member  functions  - Private member functions -  Memory  allocation  for  Objects - Static data members - Static Member Functions - Array of objects - Objects as Function Arguments -  Friend Functions - Returning Objects - Const Member functions - Pointers to Members. (10)"
+                },
+                {
+                    "title": "CONSTRUCTORS:",
+                    "content": "Parameterized Constructors - Multiple Constructors in a Class - Constructors with Default Arguments - Dynamic Initialization of Objects - Copy and Dynamic Constructors \u2013 Constructor overloading - Destructors.  (3)"
+                },
+                {
+                    "title": "OPERATOR OVERLOADING:",
+                    "content": "Overloading Unary and Binary Operators - Overloading Binary Operators using Friend functions \u2013\tOperator Type conversion. (3)"
+                },
+                {
+                    "title": "INHERITANCE:",
+                    "content": "Defining Derived Classes - Single Inheritance - Making a Private Member Inheritable - Multiple Inheritance - Hierarchical Inheritance - Hybrid Inheritance \u2013 Function overriding \u2013 Virtual functions - Virtual Base Classes - Abstract Classes - Constructors in Derived Classes - Nesting of Classes \u2013 Composition \u2013 Aggregation (9)"
+                },
+                {
+                    "title": "POLYMORPHISM:",
+                    "content": "Basics of polymorphism \u2013 Types of polymorphism - Compile and Run time polymorphism - Virtual functions  \u2013\tObject Slicing \u2013 Virtual destructor \u2013 Dynamic binding. (5)"
+                },
+                {
+                    "title": "TEMPLATES & EXCEPTION HANDLING:",
+                    "content": "Introduction to Templates, Generic Functions and Generic Classes \u2013 Exception Handling \u2013 Examples. (4)"
+                },
+                {
+                    "title": "STREAMS:",
+                    "content": "String I/O -Character I/O - Object I/O - I/O with multiple Objects - File pointers - Disk I/O with member functions. (5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tBjarne Stroustrup, \u201cThe C++ Programming Language\u201d, Pearson Education, 2014.",
+                "2.\tStanley B. Lippman, Josee Lajoie and Barbara E. Moo, \u201cThe C++ Primer\u201d, Addison Wesley, 2013."
+            ]
+        },
+        {
+            "code": "21X206",
+            "title": "PYTHON PROGRAMMING LABORATORY",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Development Tools (IDE) \u2013 Python shell - Python Basics \u2013 Data types - Control flow."
+                },
+                {
+                    "title": "CORE PYTHON LANGUAGE:",
+                    "content": "Lists - Tuples - Dictionaries - Strings \u2013 Regular expressions - Functions - File input/output \u2013 Exception hand ling."
+                },
+                {
+                    "title": "OBJECT-ORIENTED DESIGN:",
+                    "content": "Inheritance \u2013 Polymorphism."
+                },
+                {
+                    "title": "PACKAGING AND DISTRIBUTION:",
+                    "content": "Modules \u2013 Packages \u2013 Python standard libraries - pip."
+                },
+                {
+                    "title": "STANDARD PACKAGES:",
+                    "content": ": NumPy \u2013 Matplotlib \u2013 SciPy \u2013 SymPy \u2013 Pandas"
+                },
+                {
+                    "title": "EXERCISES:",
+                    "content": "1.\tTest basic coding skills in Python using data types, control statements and iteration. \n                            2.\tImplement Python data structures like lists, tuples, dictionaries, and sets.  \n                            3.\tGeneral programming concepts such as functions, strings, regular expressions, reading / writing files and exceptions.      \n                            4.\tImplement object oriented concepts.  \n                            5.\tPackaging programs into reusable libraries.   \n                            6.\tUse libraries for numerical programming and data visualization.  \n                            7.\tUse libraries to perform the following:  \n                            a)\tPlot 2D and 3D functions.  \n                            b)\tPrograms on differentiation and integration.  \n                            c)\tSolving system of Linear equations.  \n                            d)\tDetermination of Vector space under given operations.  \n                            e)\tDetermination of linear independence and basis.  \n                            f)\tFinding Row space, Column space and null space.  \n                            g)\tPrograms for Linear transforms on R2 .  \n                            h)\tCovert a standard basis into an orthonormal basis.  \n                            i)\tCompute Eigen values and Eigen bases for a given system.  \n                            j)\tApply the orthogonal Diagonalization technique to reducing a Quadratic form."
+                }
+            ],
+            "textbooks": [
+                "1.\tMark Lutz, \u201cLearning Python\u201d, O\u201fReilly Media, 2013.",
+                "2.\tTony Gaddis, \u201cStarting out with Python\u201d, Pearson, 2017."
+            ]
+        },
+        {
+            "code": "21X207",
+            "title": "DATA STRUCTURES LABORATORY",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X208",
+            "title": "OBJECT ORIENTED PROGRAMMING WITH C++ LABORATORY",
+            "credits": "0 0 4 2",
+            "content": [
+                {
+                    "title": "Exercises pertaining to the following outlines are to be experimented using C++:",
+                    "content": "1.\tCreating and processing array of objects of a class. \n                        2.\tUsage of static member to count the number of instances of a class. \n                        3.\tIllustration of the need of default arguments and function overloading. \n                        4.\tCreation of a class having read-only member function and processing the objects of that class.  \n                        5.\tInitializing the object of a class using constructor and destroying the same using destructor. \n                        6.\tIllustration of a data structure using dynamic objects. \n                        7.\tUsage of a function to perform the same operation on more than one data type. \n                        8.\tCreation of a class with generic data member. \n                        9.\tOverloading the operators to do arithmetic operations on objects. \n                        10.\tOverloading stream operators and creation of user-defined manipulators. \n                        11.\tAcquisition of the features of an existing class and creation of a new class with added features in it. \n                        12.\tImplementation of run time polymorphism. \n                        13.\tImplementation of derived class which has direct access to both its own and public members of the base class. \n                        14.\tImplementation of streams to store and maintain Library system, with the features of Book Issue and Book Return."
+                }
+            ]
+        },
+        {
+            "code": "21X301",
+            "title": "PROBABILITY AND STATISTICS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "PROBABILITY BASIC CONCEPTS:",
+                    "content": "Introduction - Sample space and events - Axiomatic approach to probability \u2013 Basic theorems. Conditional Probability - Law of multiplication - Law of total probability and Bayes\u201f Theorem - Independence. (8+5)"
+                },
+                {
+                    "title": "RANDOM VARIABLES:",
+                    "content": "Discrete and continuous random variables - probability mass function and density function - distribution function - Expectation and variance. Discrete distributions: Binomial, Poisson and Geometric - Continuous distributions: Uniform, Normal, Exponential and Weibull. (9+7)"
+                },
+                {
+                    "title": "JOINT PROBABILITY DISTRIBUTIONS:",
+                    "content": "Marginal and conditional distributions - statistical independence, Conditional expectation \u2013 Moments and moment generating functions. (5+3)"
+                },
+                {
+                    "title": "STATISTICAL INFERENCE:",
+                    "content": "Sampling distribution - Estimation:  Point estimation, interval estimation - Criteria of a good estimator \u2013Interval estimation of mean, proportion, and variance (single sample and two samples) - Maximum likelihood estimator. Hypothesis Testing: General concepts - Errors in Hypothesis testing - One-and two-tailed tests - Tests concerning mean, proportion, and variance - Tests for Goodness of fit and independence of attributes (12+8)"
+                },
+                {
+                    "title": "CORRELATION AND REGRESSION:",
+                    "content": "introduction - Estimation using the regression line - Correlation analysis -Limitations, errors, and caveats of using regression and correlation analyses - Multiple regression analysis. (7+5)"
+                },
+                {
+                    "title": "ANALYSIS OF VARIANCE:",
+                    "content": "Introduction to design of experiments, Analysis of variance - Completely Randomized Design and Randomized Block Design. (4+2)"
+                }
+            ],
+            "textbooks": [
+                "1.\tSaeed Ghahramani, \u201cFundamentals of Probability with Stochastic Processes\u201d, Pearson Education, 2018.",
+                "2.\tJay L. Devore, \u201cProbability and Statistics for Engineering and Sciences\u201d, Cengage Learning, 2015.",
+                "3.\tRichard I. Levin, David S. Rubin, \u201cStatistics for Management\u201d, Pearson Education, 2013"
+            ]
+        },
+        {
+            "code": "21X302",
+            "title": "DATABASE MANAGEMENT SYSTEMS",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "BASIC CONCEPTS",
+                    "content": "Introduction to databases \u2013 Conventional file processing \u2013 Purpose of database system \u2013 Characteristics of database approach \u2013 Advantages of using DBMS \u2013 Database concept and architecture \u2013 Data Abstraction \u2013 Data Models \u2013 Instances and Schema \u2013 Data Independence \u2013 Schema Architecture \u2013 Components of a DBMS \u2013 Database Languages \u2013 Database Manager \u2013 Database Administrator \u2013 Database Users. (6)"
+                },
+                {
+                    "title": "DATA MODELING:",
+                    "content": "Introduction \u2013 Data associations \u2013 Entities, attributes, relationships \u2013 Constraints  - Design of Entity Relationship data models (ERD) \u2013 Generalization \u2013 Aggregation \u2013 Conversion of ERD into tables \u2013  Introduction to Network data model and Hierarchical data model. (7)"
+                },
+                {
+                    "title": "FILE ORGANIZATION:",
+                    "content": ": Storage device characteristics \u2013 Constituents of a file \u2013 Operations on file \u2013 Serial files \u2013 Sequential files \u2013 Index sequential files \u2013 Direct files \u2013 Binary and Secondary Key Retrieval \u2013 Indexing using Tree Structures. (6)"
+                },
+                {
+                    "title": "RELATIONAL MODEL:",
+                    "content": "Introduction to Relational Data Model \u2013 Basic concepts \u2013 Enforcing data Integrity constraints \u2013 Relational Algebra Operations \u2013 Extended Relational Algebra Operations. (5)"
+                },
+                {
+                    "title": "RELATIONAL DATABASE MANIPULATION:",
+                    "content": "Introduction to Structured Query Language (SQL) \u2013 SQL Commands for defining Database, Constructing database, Manipulations on database \u2013 Basic data retrieval operations \u2013 Advanced Queries in SQL \u2013 \n                        Functions in SQL \u2013 Aggregation \u2013 Categorization \u2013 Updates in SQL \u2013 Views in SQL \u2013 embedded SQL \u2013 Introduction to NoSQL Databases. (6)"
+                },
+                {
+                    "title": "DATABASE DESIGN THEORY:",
+                    "content": "Data base design process \u2013 Relational Database Design \u2013 Relation Schema \u2013 Anomalies in a database \u2013 Functional dependencies \u2013 Axioms \u2013 closure of a set of FD's - minimal covers - Normal forms based on primary keys \u2013 Second Normal form, Third Normal form, Boyce\u2013Codd Normal form \u2013 Properties of relational decomposition - Multivalued dependencies  \u2013 Fourth Normal form \u2013 Practical database design tuning. (9)"
+                },
+                {
+                    "title": "DATABASE SECURITY, INTEGRITY CONTROL:",
+                    "content": "Security and Integrity threats \u2013 Defense mechanisms \u2013 Transaction and concurrency control mechanisms- ACID properties, Serializability and concurrency control, Lock based concurrency control (2PL, Deadlocks), Time stamping methods, optimistic methods, Database recovery management. (6)"
+                }
+            ],
+            "textbooks": [
+                "1.\tSilberschatz A., Korth H. and Sudarshan S., \u201cDatabase System Concepts\u201d, Tata McGraw Hill, 2011.",
+                "2.\tElmasri R. and Navathe S.B., \u201cFundamentals of Database Systems\u201d, Pearson Education, 2017."
+            ]
+        },
+        {
+            "code": "21X303",
+            "title": "MICROPROCESSORS AND MICROCONTROLLER",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION TO MICROPROCESSORS:",
+                    "content": "Introduction to Microprocessors \u2013 Architecture of 8086 \u2013 Memory address space and Data organization - Generating memory address - Addressing modes \u2013 Bus cycles and timing diagram. (7)"
+                },
+                {
+                    "title": "ASSEMBLY LANGUAGE PROGRAMMING:",
+                    "content": "Instruction Set Architecture (ISA) -Instruction format -  8086 Arithmetic and Logic Instructions \u2013 Control flow instructions and program structures - Array processing- String processing - Assembler directives - Procedures and Macros. (10)"
+                },
+                {
+                    "title": "INTERRUPT SYSTEMS:",
+                    "content": "Introduction - Types of interrupts \u2013 Priorities of interrupt \u2013 Interrupt Instructions in 8086 - Implementing Interrupt schemes in 8086 processors \u2013 8259 Programmable Interrupt Controller.  (8)"
+                },
+                {
+                    "title": "INTERFACING CONCEPTS:",
+                    "content": "I/O Interfacing concepts - Interfacing I/O devices\u2013   8255 Programmable Peripheral Interface DMA \u2013 8237 DMA Controller \u2013 Timer (6)"
+                },
+                {
+                    "title": "MICROCONTROLLER ARCHITECTURE:",
+                    "content": "Introduction- Architecture of 8051 \u2013 Special Function Registers (SFRs) - I/O pins ports and circuits \u2013 Instruction Set-Addressing modes \u2013 Assembly Language Programming. (7)"
+                },
+                {
+                    "title": "INTERFACING MICROCONTROLLER:",
+                    "content": "Programming 8051 timers - Serial port programming \u2013Interrupts programming \u2013 LCD and keyboard interfacing \u2013 ADC, DAC & Sensor interfacing \u2013 External Memory interface (7)"
+                }
+            ],
+            "textbooks": [
+                "1.\tWalter A. Triebel, Avtar Sing, \u201c8088 and 8086 Microprocessors Programming\u201d, Pearson Education, 2017",
+                "2.\tWalter A. Triebel, Kenneth J Ayala, \u201cThe 8088 and 8086 Microprocessors Programming, Interfacing, Software, Hardware and Applications\u201d, Pearson Education, 2018.",
+                "3.\tMohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, \u201cThe 8051 Microcontroller and Embedded Systems: Using Assembly and C\u201d, Pearson Education, 2017."
+            ]
+        },
+        {
+            "code": "21X304",
+            "title": "OPERATING SYSTEMS",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Abstract view of an operating system - Operating Systems Objectives and Functions \u2013 Evolution of Operating Systems - Dual-mode operation - System calls- Structure of Operating System. (3)"
+                },
+                {
+                    "title": "PROCESS DESCRIPTION AND CONTROL:",
+                    "content": "Process concepts - Process Creation \u2013 Process Termination - Process states - Process Description \u2013 Process Control. (4)"
+                },
+                {
+                    "title": "PROCESS AND THREADS:",
+                    "content": "Relationship between process and threads \u2013 Thread States \u2013 Thread Synchronization \u2013 Types of Thread \u2013 Multithreading model. (3)"
+                },
+                {
+                    "title": "PROCESS SCHEDULING:",
+                    "content": "Scheduling basics - CPU-I/O interleaving- (non-)preemption - context switching- Types of Scheduling \u2013 Scheduling Criteria - Scheduling Algorithms \u2013 Algorithm evaluation \u2013 Real-time scheduling. (5)"
+                },
+                {
+                    "title": "PROCESS SYNCHRONIZATION:",
+                    "content": "Concurrent Process \u2013 Principles of Concurrency \u2013 Race Condition - Mutual Exclusion \u2013 Critical section problems \u2013 Software support \u2013 Hardware Support \u2013 Operating System Support: Semaphore, Monitor \u2013 Classical problems of synchronization \u2013 Synchronization examples. (7)"
+                },
+                {
+                    "title": "DEADLOCK:",
+                    "content": "Principles- Characterization \u2013 Methods for handling deadlock - Deadlock prevention, Avoidance, Detection, and recovery. (2)"
+                },
+                {
+                    "title": "MEMORY MANAGEMENT:",
+                    "content": "Memory hierarchy \u2013Memory Management requirements - Memory partitioning: Fixed partitioning, Dynamic partitioning, Buddy systems \u2013 Simple paging \u2013 Page table structures \u2013 Simple Segmentation \u2013 segmentation and paging. (7)"
+                },
+                {
+                    "title": "VIRTUAL MEMORY MANAGEMENT:",
+                    "content": "Need for Virtual Memory management \u2013 Demand Paging \u2013Copy on write -Page Fault handling - Page replacement - Frame allocation- Thrashing - working set model. (3)"
+                },
+                {
+                    "title": "I/O MANAGEMENT AND DISK SCHEDULING:",
+                    "content": "Organization of I/O function \u2013 Evolution of I/O function \u2013 Types of I/O devices \u2013 Logical Structure of I/O functions \u2013 I/O Buffering \u2013 Disk I/O \u2013 Disk Scheduling algorithms \u2013 RAID - Disk Cache. (5)"
+                },
+                {
+                    "title": "FILE SYSTEM MANAGEMENT:",
+                    "content": "Files \u2013 Access methods - File system architecture \u2013 Functions of file management \u2013Directory and disk structure -Mounting - File sharing \u2013File system implementation \u2013 Directory implementation - File Allocation \u2013 Free space management. (6)"
+                }
+            ],
+            "textbooks": [
+                "1.\tSilberschatz A, Galvin, PB. and Gagne, G. \u201cOperating System Concepts Essentials\u201d, John Wiley,2018",
+                "2.\tWilliam Stallings, \u201cOperating Systems\u201d, Pearson Education, 2017.",
+                "3.\tAndrew S Tanenbaum, \"Modern Operating System\", Prentice Hall, 2018."
+            ]
+        },
+        {
+            "code": "21X305",
+            "title": "ADVANCED DATA STRUCTURES AND ALGORITHMS ANALYSIS",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Algorithm \u2013 analysis of algorithms \u2013 best case and worst case complexities, asymptotic notations - analysis of some algorithms using simple data structures \u2013 amortized analysis - Master\u201fs theorem  (5)"
+                },
+                {
+                    "title": "SORTING:",
+                    "content": "Quick sort \u2013 Merge sort \u2013 time complexity and analysis. (5)"
+                },
+                {
+                    "title": "HEAPS:",
+                    "content": "Max heap - Min heap - Insertion and deletion of elements - Build-heap \u2013 Applications: Huffman codes - Priority Queue \u2013 Heap sort.  (6)"
+                },
+                {
+                    "title": "BINARY SEARCH TREES:",
+                    "content": "Searching \u2013 Insertion and deletion of elements \u2013 Analysis. (6)"
+                },
+                {
+                    "title": "AVL TREES:",
+                    "content": "Definition \u2013 Height \u2013 searching \u2013 insertion and deletion of elements, AVL rotations  (6)"
+                },
+                {
+                    "title": "MULTIWAY SEARCH TREES:",
+                    "content": "Indexed Sequential Access \u2013 m-way search tree - B-Tree \u2013 searching, insertion and deletion  - B+ tree - searching, insertion and deletion - Tries  (7)"
+                },
+                {
+                    "title": "GRAPHS:",
+                    "content": "Introduction \u2013 Representations - Depth First Search \u2013 Breadth First Search \u2013 Minimum cost spanning tree Kruskal\u201fs and prim\u201fs algorithms - Topological sorting \u2013 Dijkstra\u201fs algorithm  (10)"
+                }
+            ],
+            "textbooks": [
+                "1.\tThomas H. Cormen, Charles E. Leiserson and Ronald L. Rivest, \u201cIntroduction to Algorithms\u201d, Prentice Hall, 2009.",
+                "2.\tSahni Sartaj, \u201cData Structures, Algorithms and Application in C++\u201d, Silicon Press, 2013."
+            ]
+        },
+        {
+            "code": "21X306",
+            "title": "DATABASE MANAGEMENT SYSTEMS LABORATORY",
+            "credits": "0 0 4 2",
+            "content": [
+                {
+                    "title": "SQL \u2013 ORACLE, SQL SERVER",
+                    "content": "1.\tWorking with DDL and DML commands of SQL for creation and manipulation of single, multiple tables. \n                            2.\tWorking with PL/SQL, Triggers and stored procedures. \n                            3.\tEmbedded SQL \n                            4.\tDeveloping a Package using a database."
+                }
+            ]
+        },
+        {
+            "code": "21X307",
+            "title": "OPERATING SYSTEMS LABORATORY (Linux)",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X308",
+            "title": "ADVANCED DATA STRUCTURES AND ALGORITHMS ANALYSIS LABORATORY",
+            "credits": "0 0 4 2",
+            "content": [
+                {
+                    "title": "Implementation of the following problems:",
+                    "content": "1.\tSorting and Searching. \n                        2.\tBinary Search Tree \u2013 Insertion and Deletion 3. Demonstration of AVL rotations. \n                        4.\tB tree, B+ tree, Trie. \n                        5.\tGraphs \u2013 DFS & BFS \n                        6.\tImplementation of Topological sort, Minimum cost spanning tree. \n                        7.\tDijkstra\u201fs algorithm"
+                }
+            ]
+        },
+        {
+            "code": "21X401",
+            "title": "COMPUTER NETWORKS",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Network goals - Applications of Networks - Design issues for the layers - OSI Reference Model - Types of Network - Network Topologies - Network Performance Measures: Bit Rate, Baud Rate \u2013 Band width. (8)"
+                },
+                {
+                    "title": "PHYSICAL LAYER:",
+                    "content": "Transmission media- SWITCHING: Circuit switching - Packet switching. (6)"
+                },
+                {
+                    "title": "ERROR DETECTION AND CORRECTION :",
+                    "content": "Transmission Impairments -  Types of Errors \u2013 Single bit \u2013 Multiple bit \u2013 Burst Error \u2013 Detection \u2013 Vertical redundancy Check \u2013 Longitudinal Redundancy Check \u2013 Cyclic redundancy Check \u2013 Error Correction \u2013 Single bit Error Correction \u2013 Hamming Code.  (8)"
+                },
+                {
+                    "title": "DATA LINK CONTROL AND PROTOCOLS:",
+                    "content": "Line Discipline \u2013 Flow Control \u2013 Error control - Stop and Wait - Sliding Window Protocols- Random access protocols - Ethernet \u2013 IEEE 802.3. Internetworking devices: Repeaters \u2013 Hubs - Bridge- Switches \u2013 Routers. (10)"
+                },
+                {
+                    "title": "TCP/IP:",
+                    "content": "TCP/IP Protocol Structure - Internet Protocol \u2013 IP addressing and Sub netting \u2013 IP datagram \u2013 Routing \u2013Distance vector routing - Link state Routing \u2013 TCP \u2013 UDP.  (8)"
+                },
+                {
+                    "title": "APPLICATIONS:",
+                    "content": "SMTP, DNS, HTTP. (5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tBehrouz A Forouzan, \u201cData Communication and Networking\u201d, Tata McGraw Hill, 2017.",
+                "2.\tBehrouz A Forouzan, \u201cTCP / IP Protocol Suite\u201d, Tata McGraw Hill, 2017."
+            ]
+        },
+        {
+            "code": "21X402",
+            "title": "JAVA PROGRAMMING",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "JAVA PROGRAMMING:",
+                    "content": "Introduction - Data Types -  Operators -  Declarations - Control Structures - Enhanced for Loop - Arrays and Strings -  Fundamentals - Methods - Constructors - Scope rules - this keyword- Composing Classes\u2013Inheritance - Reusability -  Polymorphism - Abstract classes.  (8)"
+                },
+                {
+                    "title": "INTERFACES AND PACKAGES:",
+                    "content": "Interface - Defining and Implementing Interface - Applying Interface - Packages - Access protection - Importing packages. (8)"
+                },
+                {
+                    "title": "EXCEPTION HANDLING:",
+                    "content": "Exception types - Uncaught Exception - Using Try and Catch - Multiple catch clauses - Nested try statements - Throw - Throws - Java Built-in Exception \u2013 Custom exception. (5)"
+                },
+                {
+                    "title": "MULTI THREADED PROGRAMMING:",
+                    "content": "Java thread model - Priorities - Synchronization - Messaging - Thread class and runnable Interface -  Main thread \u2013 Creating threads - Synchronization \u2013 Interthread Communication - Deadlock. (8)"
+                },
+                {
+                    "title": "GUI PROGRAMMING:",
+                    "content": "Applets - GUI Components - Event handling \u2013 Swing. (6)"
+                },
+                {
+                    "title": "I/O AND JAVA COLLECTION API:",
+                    "content": "I/O basics - Stream Classes -   File  I/O \u2013 Lambda Expressions \u2013 Collection     Framework - Manipulating group of objects -  Generic classes \u2013 List \u2013 Set \u2013 Queue \u2013 ArrayList - Map. (6)"
+                },
+                {
+                    "title": "JDBC:",
+                    "content": "Establishing a Connection - Manipulating Data - Error Handling - Closing a Connection. (4)"
+                }
+            ],
+            "textbooks": [
+                "1.\tHerbert Schildt, \"JAVA - The Complete Reference\", Tata McGraw Hill, 2019.",
+                "2.\tCay S Horstmann, \u201cCore Java Volume1 - Fundamentals\u201d, Pearson Education, 2020."
+            ]
+        },
+        {
+            "code": "21X403",
+            "title": "SOFTWARE ENGINEERING",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Nature of a software \u2013Software Engineering -Objectives & Benefits of Software Engineering \u2013 Management Spectrum-People involved in the systems development -Quality attributes of a software product. (4)"
+                },
+                {
+                    "title": "SOFTWARE PROCESS :",
+                    "content": "Software Process Structure\u2013 Generic Process Model \u2013 Prescriptive Process Model \u2013 Specialized Process Model \u2013 Unified Process Model \u2013 Agile Development \u2013 Agile Process \u2013 Extreme programming-Agile process models. (6)"
+                },
+                {
+                    "title": "SOFTWARE PLANNING:",
+                    "content": "Software Project Estimation - Decomposition Techniques \u2013Empirical Estimation model - COCOMO & PUTNAM models. (5)"
+                },
+                {
+                    "title": "REQUIREMENTS ENGINEERING:",
+                    "content": "Requirements Engineering \u2013Establishing the Ground Work\u2013 Eliciting Requirements \u2013 Building the Analysis Model-Negotiating Requirements. (5)"
+                },
+                {
+                    "title": "REQUIREMENT MODELING:",
+                    "content": "Scenario Based Modeling-UML model that supplements the use case - Class Based Modeling \u2013 Creating a Behavioral Modeling \u2013 State Chart Diagrams \u2013 Package Diagrams \u2013 Component Diagrams \u2013 Deployment Diagrams. (8)"
+                },
+                {
+                    "title": "DESIGN ENGINEERING:",
+                    "content": "Design Process & Design Quality \u2013 Design Concepts \u2013 The Design Model: Architectural Design\u2013 User Interface Design \u2013 Component level Design \u2013 Pattern Based Design. (6)"
+                },
+                {
+                    "title": "SOFTWARE TESTING & IMPLEMENTATION:",
+                    "content": "Testing Strategies \u2013 Testing Tactics \u2013 Testing Methodologies and Debugging Methods \u2013 Quality Concepts: Software quality- The Cost of Quality-Software Quality Factors - Quality Assurance versus Quality Control Reviews Techniques. (7)"
+                },
+                {
+                    "title": "CASE STUDIES:",
+                    "content": "Project Scheduling and Tracking \u2013 Agile Framework-User story Scrum board, Sprint planning, Tools for Agile project management- JIRA ,Kanban. (4)"
+                }
+            ],
+            "textbooks": [
+                "1. Pressman R S, \u201cSoftware Engineering \u2013 A Practitioner\u201fs Approach\u201d, Tata McGraw Hill, 2019."
+            ]
+        },
+        {
+            "code": "21X404",
+            "title": "PRINCIPLES OF COMPILER DESIGN",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "SYSTEMS PROGRAMMING:",
+                    "content": "Need and working of Assemblers, Macro processors, Linkers, Loaders, Interpreters and Compilers. (6)"
+                },
+                {
+                    "title": "LEXICAL ANALYSIS:",
+                    "content": "Role of a Lexical Analyzer \u2013 Deterministic Finite Automata and Nondeterministic Finite Automata - Regular Expressions to Nondeterministic Finite Automata \u2013 Regular expressions to Deterministic Finite Automata \u2013 Nondeterministic Finite Automata to Deterministic Finite Automata - Minimizing  the number of states of Deterministic Finite Automata \u2013 Implementation of a lexical analyzer. (10)"
+                },
+                {
+                    "title": "SYNTAX ANALYSIS :",
+                    "content": "Context free grammars \u2013 Derivations and Reductions - Parse trees \u2013 Ambiguity \u2013 Capabilities of context  free grammars. Top down and bottom up parsing \u2013 Shift reduce parsing \u2013 Operator precedence parsing \u2013 Recursive descent parsing -Predictive parsing \u2013 Construction of Predictive parsing table - LR parsing \u2013 Construction of Simple LR parsing tables \u2013 Construction of Canonical LR parsing tables. (14)"
+                },
+                {
+                    "title": "SYNTAX DIRECTED TRANSLATION AND INTERMEDIATE CODE GENERATION :",
+                    "content": "Semantic actions \u2013 Implementations of syntax directed translators \u2013 Intermediate code formats : Postfix notation, Quadruples, Triples , Indirect triples \u2013Methods of translation of assignment statements, Boolean expressions and control statements - Representing information in a symbol table. (10)"
+                },
+                {
+                    "title": "CODE OPTIMIZATION AND CODE GENERATION :",
+                    "content": "Introduction to code optimization \u2013 Basic blocks \u2013 Loop optimization techniques - DAG representation \u2013 Error detection and recovery \u2013 A simple code generator. (5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tJohn J. Donovan, \u201cSystems Programming\u201d, Tata McGraw Hill, 2012.",
+                "2.\tAlfred V.Aho, Monica S.Lam, Ravisethi and Jeffrey D Ullman, \u201cCompilers : Principles, Techniques and Tools\u201d, Pearson Education, 2013"
+            ]
+        },
+        {
+            "code": "21X405",
+            "title": "OPTIMIZATION TECHNIQUES",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "LINEAR PROGRAMMING:",
+                    "content": "Introduction to Operations Research \u2013 Modeling with linear programming - Graphical method for two dimensional problems \u2013 Simplex Algorithm \u2013 Two Phase Simplex Method \u2013 Special cases of Simplex Method \u2013 Sensitivity analysis - Revised Simplex Method. (14)"
+                },
+                {
+                    "title": "SIMPLEX MULTIPLIERS :",
+                    "content": "Dual and Primal \u2013 Dual Simplex Method\u2013 Transportation problem and its solution \u2013 Assignment problem and its solution by Hungarian method. (10)"
+                },
+                {
+                    "title": "DECISION THEORY:",
+                    "content": "Decision  Analysis \u2013 Decision making under certainty, uncertainty and risk. (6)"
+                },
+                {
+                    "title": "NON LINEAR PROGRAMMING (UNCONSTRAINED OPTIMIZATION):",
+                    "content": "Introduction \u2013 Random search method \u2013 Univariate method Gradient of a function \u2013 steepest descent method \u2013 Conjugate gradient method. (5)"
+                },
+                {
+                    "title": "DYNAMIC PROGRAMMING:",
+                    "content": "Introduction \u2013 multistage decision processes \u2013 Principles of optimality \u2013 Computation procedures. (5)"
+                },
+                {
+                    "title": "CPM AND PERT:",
+                    "content": "Critical path network model \u2013 CPM computations \u2013 PERT calculations. (5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tHamdy A Taha, \u201cOperations Research \u2013 An introduction\u201d, Pearson, 2016.",
+                "2.\tHillier and Lieberman, \u201cIntroduction to Operations Research\u201d, McGraw Hill,  2017."
+            ]
+        },
+        {
+            "code": "21X406",
+            "title": "COMMUNICATION SKILLS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "SOFT SKILLS:",
+                    "content": "Process of Communication - Types: Intra & Interpersonal Communication, Cross \u2013 Cultural Communication - Barriers. (6)"
+                },
+                {
+                    "title": "VERBAL AND NON-VERBAL COMMUNICATION:",
+                    "content": "Body language, Etiquette: Types - Business, Telephonic, Interview, Social and Dining Etiquette (6)"
+                },
+                {
+                    "title": "PRESENTATION SKILLS:",
+                    "content": "Professional Presentation - Public Speaking - Group Communication  - Case Study based Presentation-  - Meetings - Interview Techniques. (12)"
+                },
+                {
+                    "title": "READING SKILLS:",
+                    "content": "Reading Comprehension and Techniques  \u2013 Focus on Syntax, Vocabulary use, Discourse Markers, and Variety of expression. (12)"
+                },
+                {
+                    "title": "WRITING SKILLS:",
+                    "content": "Professional Reports: Characteristics - Categories - Format and style and writing techniques, The 7Cs of Writing letters - Official and Business letters - Effective Email writing - Resume Writing practices. (12)"
+                },
+                {
+                    "title": "PRACTICALS:",
+                    "content": "Professional Presentations - Group Discussions  and Meetings - Mock Interviews. (12)"
+                }
+            ],
+            "textbooks": [
+                "1. Meenakshi Raman, Sangeetha Sharma,\u201dTechnical Communication:Principles and Practices\u201d, Oxford University Press, New Delhi, 2018."
+            ]
+        },
+        {
+            "code": "21X407",
+            "title": "COMPUTER NETWORKS LABORATORY",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X408",
+            "title": "JAVA PROGRAMMING LABORATORY",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X501",
+            "title": "MOBILE COMPUTING AND APPLICATION DEVELOPMENT",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Introduction to mobile and wireless devices -  wireless networking, Advantages and disadvantages of wireless networking, Evolution of mobile communication generations- Challenges in mobile computing \u2013 Vertical and horizontal mobile applications - Wireless LAN and Wireless WAN. (6)"
+                },
+                {
+                    "title": "CELLULAR CONCEPT:",
+                    "content": "Wireless transmission - Frequencies  for  radio transmission  -  Regulations -  Signals,  Antennas, Signal propagation ,Path loss of radio signals , Additional signal propagation effects - Multi-path propagation -  Multiplexing -  Space division multiplexing - Frequency division multiplexing -Time division multiplexing  - Code division multiplexing - Spread spectrum - Direct sequence spread spectrum - Frequency hopping spread spectrum. (10)"
+                },
+                {
+                    "title": "CELLULAR NETWORK :",
+                    "content": "Cellular Concepts \u2013Factors determining cell size and shapes \u2013GSM - Mobile services - System architecture -- Handover \u2013 GPRS \u2013 Mobile services \u2013 System architecture \u2013 LTE Network architecture and interfaces. (10)"
+                },
+                {
+                    "title": "MOBILE APPLICATIONS ARCHITECTURE:",
+                    "content": "Smart Client \u2013 Smart Client Architecture \u2013 Messaging Architecture \u2013 The ModelView-Controller Model- Delegate Pattern- Building Smart Client Applications - Design, Development, implementation, testing and deployment phase-MVVM mobile architecture Design. (5)"
+                },
+                {
+                    "title": "MOBILE APPLICATION DEVELOPMENT:",
+                    "content": "Introduction to Android Platform \u2013 Android  architecture overview -  Application life cycle -  UI design for Android -  Different types of layouts \u2013 Widgets \u2013 List view and Adapters  - Dialogs and Toasts \u2013 Intent filters -  Files and database \u2013 SQLite on Android -  Security model \u2013 Comparison with IOS application development \u2013 Building cross-platform applications using React Native. (14)"
+                }
+            ],
+            "textbooks": [
+                "1.\tJochen Schiller, \u201cMobile Communications\u201d, Pearson Education, 2016.",
+                "2.\tMartyn Mallick, \u201cMobile and Wireless Design Essentials\u201d, Wiley, 2014.",
+                "3.\tBill Philips, Kristin Marsicano and Chris Stewart, \u201cAndroid Programming: The big Nerd Ranch Guide\u201d. O\u201fReilly, 2017."
+            ]
+        },
+        {
+            "code": "21X502",
+            "title": "COMPUTER GRAPHICS AND MULTIMEDIA",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION AND OVERVIEW OF GRAPHICS SYSTEMS:",
+                    "content": "Use of Computer graphics, Video Display Devices, Refresh \n                        Cathode-Ray Tubes, Raster and Random Scan Displays, Colour CRT Monitors, Direct View Storage Tubes, Flat Panel \n                        Displays, Three-Dimensional Viewing Devices, Stereoscopic & Virtual Reality Systems, Raster and Random Scan Systems, \n                        Different Input and Hard Copy Devices, Graphics Softwares. (6)"
+                },
+                {
+                    "title": "OUTPUT PRIMITIVES:",
+                    "content": "Points and Lines, Line Drawing Algorithms (DDA & Bresenham\u201fs), Circle and Ellipse Generating \n                        Algorithms. (5)"
+                },
+                {
+                    "title": "TWO-DIMENSIONAL GEOMETRIC TRANSFORMATIONS:",
+                    "content": "Different types of transformations and their matrix representations, \n                        Homogeneous Coordinates, Composite Transformations, transformations between Coordinate Systems, Affine transformations, Window-to-Viewport Coordinate transformation, Clipping-Point, Line, Polygon, Curve and Text Clipping. (8)"
+                },
+                {
+                    "title": "THREE-DIMENSIONAL CONCEPTS AND OBJECT REPRESENTATION:",
+                    "content": "Three Dimensional Display Methods, Polygon \n                        Surfaces, Curved Lines & Surfaces, Quadric Surfaces, Spline Representations, Cubic Spline interpolation methods, Bezier \n                        Curves and Surfaces. (6)"
+                },
+                {
+                    "title": "THREE DIMENSIONAL TRANSFORMATIONS AND VIEWING:",
+                    "content": "Translation, Rotation, Scaling, Reflection, Shears, Composite \n                        Transformations, Projections- Parallel and Perspective, Projection Transformations, Clipping. (6)"
+                },
+                {
+                    "title": "VISIBLE SURFACE DETECTION METHODS:",
+                    "content": "Classification of Visible Surface Detection Algorithms, Back Face Detection, \n                        Depth Buffer Method, A-Buffer Method, Scan-Line Method, Depth Sorting Method, BSP-Tree Method & Area Subdivision Method. Polygon- Rendering Methods. (6)"
+                },
+                {
+                    "title": "INTRODUCTION TO MULTIMEDIA SYSTEMS DESIGN:",
+                    "content": "An Introduction \u2013 Multimedia applications \u2013 Multimedia System Architecture \u2013 Defining objects for Multimedia systems \u2013 Multimedia Data interface standards \u2013 Multimedia Databases. (4)"
+                },
+                {
+                    "title": "COMPRESSION & DECOMPRESSION:",
+                    "content": "Data & File Format standards \u2013 Multimedia I/O technologies - Digital voice and audio \n                        \u2013 video image and animation \u2013 Full motion video \u2013 Multimedia Authoring & User Interface \u2013 Hypermedia messaging. (4)"
+                }
+            ],
+            "textbooks": [
+                "1.\tHearn D. & M.P. Baker, \u201cComputer Graphics with open GL\u201d, Pearson Education, 2014.",
+                "2.\tPrabat K. Andleigh and Kiran Thakrar, \u201cMultimedia Systems and Design\u201d, Prentice Hall, 2009"
+            ]
+        },
+        {
+            "code": "21X503",
+            "title": "MACHINE LEARNING",
+            "credits": "3 0 0 3",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Machine learning \u2013 Basics - Convex set - Convex functions \u2013 Unconstrained Convex Optimization - Gradient Ascent/Descent -  Loss functions  in ML \u2013  Types \u2013 Supervised learning, unsupervised, Reinforcement learning. (4)"
+                },
+                {
+                    "title": "SUPERVISED LEARNING:",
+                    "content": "Regression \u2013 Linear \u2013 Polynomial \u2013 Multiple regression \u2013 Evaluation measures \u2013 Bias \u2013variance \u2013 overfitting \u2013 underfitting \u2013 regularization. (6)"
+                },
+                {
+                    "title": "CLASSIFICATION :",
+                    "content": "Linear classifier - Logistic Regression \u2013 Support Vector Machines \u2013 Linear, Soft margin, Linearly non separable data - Kernel functions (8)"
+                },
+                {
+                    "title": "NEURAL NETWORKS :",
+                    "content": "Perceptron - Multilayer perceptron  - Back propagation \u2013 Training - Na\u00efve Bayes Classifier - Maximum Likelihood Estimation \u2013 Maximum a Posteriori Estimate \u2013 Multivariate classification \u2013   K nearest neighbor classifier (6)"
+                },
+                {
+                    "title": "DECISION TREES :",
+                    "content": "Introduction \u2013 Purity measures \u2013 Entropy, cross entropy,  information gain, gain ratio, Gini Index \u2013 Regression trees \u2013 ID3 \u2013 Pruning \u2013 Model selection \u2013  Model selection and evaluation \u2013 Performance Measures \u2013 Receiver operating characteristic curve (ROC) \u2013 AUC  (8)"
+                },
+                {
+                    "title": "UNSUPERVISED LEARNING:",
+                    "content": "Clustering \u2013 K-means \u2013 EM - Mixture of Gaussians \u2013Spectral clustering - Cluster validity measures \u2013 Applications : image segmentation \u2013 Image compression  (6)"
+                },
+                {
+                    "title": "DIMENSIONALITY REDUCTION:",
+                    "content": "Principal components analysis (PCA) \u2013 Linear discriminant analysis (LDA) -  Independent components analysis (ICA)  (5)"
+                },
+                {
+                    "title": "RECENT TRENDS:",
+                    "content": "Overview - Federated Learning \u2013 Automated Machine Learning (2)"
+                }
+            ],
+            "textbooks": [
+                "1.\tChristopher M Bishop, \u201cPattern Recognition and Machine Learning\u201d, Springer, 2016.",
+                "2.\tAlpaydin Ethem, \u201cIntroduction to Machine Learning\u201d, Massachusetts Institute of Technology Press, 2020."
+            ]
+        },
+        {
+            "code": "21X504",
+            "title": "MOBILE COMPUTING AND APPLICATION DEVELOPMENT LABORATORY",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X505",
+            "title": "COMPUTER GRAPHICS AND MULTIMEDIA LABORATORY",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X506",
+            "title": "MACHINE LEARNING LABORATORY",
+            "credits": "0 0 4 2"
+        },
+        {
+            "code": "21X601",
+            "title": "DISTRIBUTED ENTERPRISE COMPUTING",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "DISTRIBUTED SYSTEM COMPUTING:",
+                    "content": "Types of UI \u2013 CSS \u2013 Validation - Operating System Services for Client \u2013 Server Types \u2013 Server Side Scripting \u2013 Operating System Services for Server \u2013 Client and Server Software Requirements. (8)"
+                },
+                {
+                    "title": "DISTRIBUTED MULTI-TIER COMPUTING:",
+                    "content": "Basis of Distributed Computing \u2013 Decomposition Approaches \u2013 Layers and Tiers \u2013 Component Based Software Development for Enterprise \u2013 Enterprise Architectural Overview \u2013 Java Enterprise System - EJB. (7)"
+                },
+                {
+                    "title": "COMMUNICATION:",
+                    "content": "Message Passing - Features and Issues \u2013 Synchronization \u2013 Buffering \u2013 Process addressing \u2013 Failure handling \u2013 Remote Procedure Call: Model \u2013 Implementation \u2013 Stub generation \u2013 RPC messages \u2013 Marshaling \u2013Server management \u2013 Call semantics \u2013 IDL \u2013 UUID. (8)"
+                },
+                {
+                    "title": "MIDDLEWARE:",
+                    "content": "Architecture \u2013 Classification of Middleware \u2013 Architecture of Middleware \u2013 Communication Middleware \u2013 ODBC \u2013 JDBC \u2013 Connection \u2013 Statement - Transaction Middleware \u2013 Isolation \u2013 Interfacing \u2013 Overview of RMI \u2013 Web Services . (8)"
+                },
+                {
+                    "title": "ENTERPRISE WEB COMMUNICATION:",
+                    "content": "Java Servlets \u2013 Packages - Generic Servlets - HTTP Servlet  \u2013 Session Management - JSP \u2013 Elements of JSP \u2013 Directives - Java Beans in JSP \u2013 JSTL - Libraries. (8)"
+                },
+                {
+                    "title": "FRAMEWORKS:",
+                    "content": "Introduction to Frameworks \u2013 Spring \u2013 Hibernate - Laravel. (6)"
+                }
+            ],
+            "textbooks": [
+                "1.\tRobert Orfali, Dan Harkey and Jeri Edwards, \u201cClient / Server survival Guide\u201d, Wiley, 2011",
+                "2.\tLiu M L, \u201cDistributed Computing: Principles and Applications\u201d, Pearson Education, 2013"
+            ]
+        },
+        {
+            "code": "21X602",
+            "title": "SOFTWARE TESTING",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Need for testing \u2013 Psychology of testing \u2013 Testing economies \u2013 Software Testing Life Cycle: Requirements Analysis/Design\u2013 Traceability Matrix\u2013 Test Planning\u2013 Objective, Scope of Testing, Schedule, Approach, Roles & Responsibilities, Assumptions, Risks & Mitigations, Entry & Exit Criteria, Test Automation, and Deliverables - SDLC vs STLC. (6)"
+                },
+                {
+                    "title": "TYPES OF TESTING:",
+                    "content": "Unit Testing, Integration Testing, System Testing, Smoke, Regression Testing, Acceptance Testing, Acceptance testing - Installation testing, Functional/Non-Functional Testing, Manual Testing, Automation Testing. (6)"
+                },
+                {
+                    "title": "SOFTARE TESTING METHODOLOGIES:",
+                    "content": "Validation  &  Verification\u2013 White/Glass Box Testing - Black Box Testing - Grey Box Testing - Statement Coverage  Testing -  Branch  Coverage  Testing-  Path  Coverage  Testing- Conditional Coverage Testing- Loop Coverage Testing- Boundary Value Analysis-  Equivalence  Class  Partition-  State Based Testing-  Decision Table - Testing GUI.  (15)"
+                },
+                {
+                    "title": "TEST PLAN & TEST EXECUTION:",
+                    "content": "Types of Test cases\u2013 Preparation of test plan \u2013 Test script \u2013 Execute test cases \u2013 Error/Defect Detecting and Reporting \u2013 DRE (Defect Removal Efficiency) \u2013 Object \u2013 Types of Bugs \u2013 Debugging Approaches \u2013 Reporting the Bugs \u2013Test Closure \u2013 Criteria for test closure \u2013 Test summary report. (8)"
+                },
+                {
+                    "title": "TEST METRICS:",
+                    "content": "Test Measurements, Test Metrics, Metric Life Cycle, Types of Manual Test Metrics, Static metrics: Halsted Metrics & Cyclomatic Complexity. (3)"
+                },
+                {
+                    "title": "TECHNIQUES FOR AUTOMATING TEST EXECUTION:",
+                    "content": "Testing and test automation \u2013 the V model \u2013 common problems of test automation \u2013 limitations of automating software testing. (7)"
+                }
+            ],
+            "textbooks": [
+                "1. William Perry, \"Effective Methods for Software Testing\", Wiley, 2009.",
+                "2.\tAlpaydin Ethem, \u201cIntroduction to Machine Learning\u201d, Massachusetts Institute of Technology Press, 2020."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A1 WEB SERVICES",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "XML:",
+                    "content": "Introduction to XML \u2013 Comparison with HTML \u2013 XML Documents \u2013 Well\u2013Formed XML Document \u2013 Markup and Character Data \u2013 Prolog and XML Declaration \u2013 Processing Instructions \u2013 XML Elements and its types\u2013 Attributes \u2013 Elements Vs Attributes \u2013 C DATA Sections \u2013 XML Namespaces \u2013 DTD. (7)"
+                },
+                {
+                    "title": "XML SCHEMAS:",
+                    "content": "Validating XML documents using XML Schema \u2013 Comparison with DTD \u2013 Creation of Simple Types \u2013 Specifying attribute constraints and defaults \u2013 Creation of Complex type \u2013 Specifying different types of content using Complex Type \u2013 Specifying data types and restrictions in Schema. \u2013 XML Applications and Development. (7)"
+                },
+                {
+                    "title": "DOM AND SAX:",
+                    "content": "Comparison \u2013DOM and SAX parser \u2013 creation, Displaying and Filtering XML documents  (4)"
+                },
+                {
+                    "title": "XML TECHNOLOGIES:",
+                    "content": "XLINK, XPOINTERS, XQUERY, SVG, RDF. (4)"
+                },
+                {
+                    "title": "WEB SERVICES:",
+                    "content": "Introduction \u2013 Interacting with Web Services \u2013 Technology of Web Services. (5)"
+                },
+                {
+                    "title": "SOAP:",
+                    "content": "SOAP Message Exchange Model \u2013 Relation to XML \u2013 SOAP Envelope \u2013 Head \u2013 Body \u2013 Fault \u2013 SOAP Encoding \u2013 SOAP and HTTP \u2013 Using SOAP for RPC  (5)"
+                },
+                {
+                    "title": "WSDL:",
+                    "content": "WSDL Document structure \u2013 Types, Messages, Port types, Bindings, Ports, Services \u2013 SOAP binding \u2013 HTTP GET and POST Binding. (6)"
+                },
+                {
+                    "title": "UDDI:",
+                    "content": "Introduction \u2013 UDDI Data Structure \u2013 Business Entity \u2013 Business Service \u2013 Binding Template \u2013 tModel \u2013 UDDI API \u2013 Inquiry API, Publication API \u2013 Security. (5)"
+                },
+                {
+                    "title": "APPLICATIONS:",
+                    "content": "Real world examples and implementation  (2)"
+                }
+            ],
+            "textbooks": [
+                "1.\tRon Schmalzer, Travis Vandersypen, Jason Bloomberg, \u201cXML and Web Services Unleashed\u201d, Pearson Education, 2014.",
+                "2.\tMartin KAlin, \u201cJava Web Services: Up and Running\u201d, O\u201fReilly, 2013"
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A2 OPEN SOURCE SOFTWARE",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Proprietary Software, Free Software, Open Software, Licenses, Version Control, Explore GitHub \u2013 GitHub Workflows, Git Basics, Git Branching, Git on the Server, Distributed Git, GitHub, Git Tools, Customizing Git. (6)"
+                },
+                {
+                    "title": "PHP PROGRAMMING LANGUAGE:",
+                    "content": "Basics \u2013 Data types \u2013 operators and flow control \u2013 String \u2013 Arrays \u2013 Functions \u2013 PHP with HTML \u2013 Client side validation \u2013 Working with Databases  (9)"
+                },
+                {
+                    "title": "PYTHON PROGRAMMING LANGUAGE:",
+                    "content": "Basic Syntax, Functions, Conditionals and Recursion, Iteration, Strings, Lists, Dictionaries, Tuples, Files, Classes and Objects, Inheritance, CGI, Multithreading, Networking, Python GUI - Tkinter, Distributing Python Modules, Python Standard Library, Django Framework. (9)"
+                },
+                {
+                    "title": "RUBY PROGRAMMING LANGUAGE:",
+                    "content": "Foundations and Scaffolding \u2013 Ruby Building Blocks, Ruby Ecosystem, The Core of Ruby - Classes, Objects, and Modules, Projects and Libraries, Error Handling, Files and Databases, Deploying Ruby Applications, Ruby Online  (8)"
+                },
+                {
+                    "title": "RUBY ON RAILS:",
+                    "content": "Scaling Rails, rails server, Deploying \u2013 Heroku Setup, User Resource, Microposts Resource, Static and Slightly Dynamic Pages, Rails Flavoured Ruby, Filling in the Layout, Modeling Users, Sign Up, Sign In, Sign Out, Updating, Showing, Deleting Users, User Microposts, Following Users.  (8)"
+                },
+                {
+                    "title": "WEB SERVER:",
+                    "content": "Application Server Vs Web server\u2013 Characteristics of Web server \u2013 Case Study: Apache Tomcat Web Server  (5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tSteven Holzner, \u201cPHP: The Complete Reference\u201d, Tata McGraw Hill, 2010",
+                "2.\tAllen B Downey, \u201cThink Python\u201d, O'Reilly, 2012",
+                "3.\tMichael Hartl, \u201cRuby on Rails Tutorial\u201d, Addison Wesley, 2012"
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A3 ARTIFICIAL INTELLIGENCE",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "The foundations of AI - The History of AI - Intelligent agents - Agent based system. (2)"
+                },
+                {
+                    "title": "PROBLEM SOLVING:",
+                    "content": "State Space models - Searching for solution - Uninformed/Blind search - Informed/ Heuristic search  A* , Hill-climbing  - Meta Heuristic: Genetic Algorithm - Adversary based search : Minimax ,  Expectimax \u2013 Alpha Beta pruning \u2013 Constraint satisfaction problem  -  Backtracking search  (10)"
+                },
+                {
+                    "title": "KNOWLEDGE REPRESENTATION AND REASONING:",
+                    "content": "Knowledge representation - Logic - inference - Fuzzy logic: membership - Fuzzy rules and reasoning - Fuzzy inference  (8)"
+                },
+                {
+                    "title": "UNCERTAIN KNOWLEDGE AND PROBABILISTIC REASONING:",
+                    "content": "Uncertainty - Probabilistic reasoning - Semantics of Bayesian network - Exact inference in Bayesian network- Approximate inference in Bayesian network  (10)"
+                },
+                {
+                    "title": "DECISION-MAKING:",
+                    "content": "Basics of utility theory, Utility functions - Sequential decision problems - Markov decision process - Value iteration - Policy iteration - Decisions in Multi agent system:  Multi agent decision theory - Group decision making.  (10)"
+                },
+                {
+                    "title": "LEARNING:",
+                    "content": "Learning from observation \u2013 Supervised Learning - Unsupervised - Reinforcement learning  (5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tStuart Russell and Peter Norvig, \u201cArtificial Intelligence: A Modern Approach\u201d, Pearson Education, 2015.",
+                "2.\tDavid Pool and Alan Mackworth, \u201cArtificial Intelligence: Foundations of Computational agents\u201d, Cambridge University Press, 2017."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A4 DATA MINING",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Motivation for Data Miniing \u2013 Importance \u2013 Definition \u2013 Kinds of data for  Data Mining \u2013 Data Mining functionalities \u2013 Patterns \u2013 Classification of Data Mining Systems \u2013 Major issues in Data Mining. (5)"
+                },
+                {
+                    "title": "DATA PREPROCESSING:",
+                    "content": "Types of data - Data cleaning \u2013 Data Aggregation \u2013 Data Discretization - Sampling \u2013 Data Reduction \u2013 LDA and PCA - Feature subset selection \u2013 Correlation analysis \u2013 Numerical attributes and Categorical attibutes.  (6)"
+                },
+                {
+                    "title": "MINING FREQUENT PATTERNS, ASSOCIATION AND CORRELATIONS:",
+                    "content": "Basic concepts \u2013 Efficient and scalable frequent item set mining methods \u2013 Apriori, FP tree, ECLAT.  (8)"
+                },
+                {
+                    "title": "ENSEMBLE OF CLASSIFIERS:",
+                    "content": "Classification  \u2013 Ensemble Learning \u2013 Bagging, Boosting, Cascading \u2013 Ensemble Pruning.  (9)"
+                },
+                {
+                    "title": "CLUSTER ANALYSIS:",
+                    "content": "A categorization of major clustering  methods \u2013 partitioning methods \u2013 hierarchical methods \u2013 density based methods \u2013 DBSCAN, OPTICS, DENCLUE - Outlier analysis.  (9)"
+                },
+                {
+                    "title": "MINING DATA STREAMS:",
+                    "content": "Challenges-Mining time series databases and sequence data \u2013Stationary data stream learning- Hoeffding trees- Evolving data stream mining.   (4)"
+                },
+                {
+                    "title": "APPLICATIONS AND TRENDS IN DATA MINING:",
+                    "content": "Spatial Data Mining \u2013Graph Mining- Web Mining \u2013Text Mining.  (4)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.\tJiwei Han and Micheline  Kamber , \u201cData Mining \u2013 Concepts and Techniques\u201d, Morgan Kaufmann,  2011.",
+                "2.\tTan, Steinbach, Kumar, \u201cIntroduction to Data Mining\u201d, Pearson Education, 2007."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A5 NATURAL LANGUAGE PROCESSING",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION :",
+                    "content": "Natural language processing techniques - analysis in NLP: morphological \u2013 syntactic, semantic \u2013 pragmatic \u2013 Applications  (2)"
+                },
+                {
+                    "title": "WORDS :",
+                    "content": "Regular expressions \u2013 Automata \u2013 Morphology \u2013 Finite state Transducers \u2013 Finite state morphological parsing \u2013 Combining FST lexicon and rules \u2013 Porter Stemmer Algorithm \u2013 Probabilstic models for Spelling \u2013 Bayes method, Minimum edit distance - N-Grams \u2013 Counting words in Corpora \u2013 Simple n-grams \u2013 Smoothing \u2013 Evaluating language models : Entropy, Perplexity- Part of Speech Tagging (POS) \u2013 Rule based tagging \u2013 Stochastic based tagging \u2013 Transformation based tagging - Context Free Grammars - Top down parser \u2013 Earley Algorithm \u2013 Bottom-up parsing \u2013 CYK parser \u2013 Probabilistic parsing.  (12)"
+                },
+                {
+                    "title": "SEMANTICS & PRAGMATICS:",
+                    "content": "First order predicate calculus \u2013 Syntax driven sematic analysis \u2013 Attachments for a fragment of English \u2013 Word Sense Disambiguation \u2013 Machine learning approaches \u2013 Dictionary based approaches \u2013 Pragmatics : Discourse \u2013Textcoherence. (10)"
+                },
+                {
+                    "title": "DEEP LEARNING in NLP :",
+                    "content": "Text representation \u2013 Word2Vec models \u2013 Recurrent neural network (RNN) \u2013 Long short term memory (LSTM )  (6)"
+                },
+                {
+                    "title": "NATURAL LANGUAGE GENERATION :",
+                    "content": "Architecture of NLG Systems- Generation Tasks and Representations- Application of NLG. Machine Translation: Language similarities and differences \u2013 The transfer metaphor \u2013 Direct translation \u2013 Statistical translation - Translation involving Indian Languages. (11)"
+                },
+                {
+                    "title": "CASE STUDIES :",
+                    "content": "Mail spam, web spam detection, Fake news detection - Sentiment Analysis - Information extraction - Automatic summarization - Question answering - Named entity recognition and relation extraction - IE using sequence labeling - Open problems  (4)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.\tDaniel Jurafsky and James H. Martin, \u201cSpeech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition\u201d, Prentice Hall,2014.",
+                "2.\tJacob Eisenstein, \"Introduction to Natural Language Processing\", The MIT Press, 2019."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A6 DESIGN AND ANALYSIS OF ALGORITHMS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Fundamentals of algorithmic problem solving, deciding an appropriate data structure and algorithm design technique \u2013 Methods of specifying an algorithm \u2013 proving the correctness \u2013 Review of analysis of algorithms, analysis of recursive algorithms \u2013 Master\u201fs Theorem. (5)"
+                },
+                {
+                    "title": "DIVIDE AND CONQUER:",
+                    "content": "Binary search-merge sort-quick sort-Large Integer multiplication,- Strassen\u201fs matrix multiplication- Closest pair.  (7)"
+                },
+                {
+                    "title": "GREEDY METHOD:",
+                    "content": "Minimum cost spanning tree (Kruskal and Prim\u201fs algorithms) - Topological sorting - Huffman codes and data compression. (6)"
+                },
+                {
+                    "title": "DYNAMIC PROGRAMMING:",
+                    "content": "Principles of dynamic programming \u2013 0/1 knapsack problem-Llongest common subsequence problem -All pairs shortest problem - Travelling salesman problem. (7)"
+                },
+                {
+                    "title": "STRING MATCHING:",
+                    "content": "The na\u00efve string-matching algorithm - Rabin-Karp algorithm and analysis.  (4)"
+                },
+                {
+                    "title": "NETWORK FLOW:",
+                    "content": "Flow networks and Flows \u2013 Flow networks with multiple sources and sinks, -The Ford \u2013 Fulkerson method- Augmenting paths \u2013 Max flow min cut theorem-The Edmonds \u2013 Karp algorithm. (5)"
+                },
+                {
+                    "title": "NP AND COMPUTATIONAL INTRACTABILITY:",
+                    "content": "Basic concepts \u2013 Polynomial time reductions- 3 SAT and Independent Set- efficient certification and NP, NP hard and NP complete problems. (5)"
+                },
+                {
+                    "title": "COPING WITH NP-COMPLETENESS:",
+                    "content": "Backtracking-n queens problem, Graph coloring problem - Branch and bound - 0/1 Knap sack problem , Traveling salesman problem, Assignment problem- Approximation algorithm \u2013 Introduction \u2013 Traveling salesman problem. (6)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.\tThomas H. Cormen, Charles E Leiserson and Ronald L Rivest, \u201cIntroduction to Algorithms\u201d, MIT Press, 2015",
+                "2.\tAlfred V Aho, John E Hopcraft, Jeffrey D Ullman, \u201dData structures and Algorithms\u201d, Pearson Education, 2009"
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A7 CLOUD COMPUTING",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "OVERVIEW OF COMPUTING PARADIGM:",
+                    "content": "Recent trends in Computing - Grid Computing, Cluster Computing, Distributed Computing, Utility Computing, Cloud Computing - Evolution of Cloud Computing - Business driver for adopting Cloud Computing \u2013 Web Services \u2013 SOA \u2013 Web 2.0.  (8)"
+                },
+                {
+                    "title": "INTRODUCTION TO CLOUD COMPUTING:",
+                    "content": "Cloud Computing - Introduction to Cloud Computing, History of Cloud Computing, Cloud Service Providers - Properties, Characteristics & Disadvantages - Pros and Cons of Cloud Computing - Comparison of Cloud Computing with Grid, Cluster and Utility Computing \u2013 Role of Open Standards.  (6)"
+                },
+                {
+                    "title": "CLOUD COMPUTING ARCHTECTURE:",
+                    "content": "Cloud Computing Stack - Comparison with traditional computing architecture (client/server) - Services at Various Levels - Role of Networks in Cloud computing - Role of Web Services - Service Models (XaaS) - Infrastructure as a Service(IaaS), Platform as a Service(PaaS), Software as a Service(SaaS) - Deployment Models - Private Cloud, Public Cloud, Hybrid cloud, Community cloud.  (6)"
+                },
+                {
+                    "title": "VIRUTUALIZATION:",
+                    "content": "Basics of Virtualization - Types of virtualization - Implementation Levels of virtualization: Application level, Server level, Storage level and Networking - Tools for Virtualization \u2013 KVM, VMware - Virtualization for Cloud.  (5)"
+                },
+                {
+                    "title": "MAP REDUCE PARADIGMS:",
+                    "content": "Introduction, GFS Architecture, HDFS Architecture, HBase, Google Big Table, Hive, MongoDB as DaaS, Firebase - Map Reduce programming examples. (6)"
+                },
+                {
+                    "title": "CLOUD SECURITY:",
+                    "content": "Infrastructure Security - Network level security, Host level security, Application level security. Data security and Storage - Data privacy and security Issues, Jurisdictional issues raised by Data location: Identity & Access Management, Access Control, Trust, Reputation, Risk, Authentication, Client Access in Cloud, Cloud Contracting Model, Commercial and Business Considerations. (7)"
+                },
+                {
+                    "title": "CASE STUDY ON OPEN SOURCE AND COMMERCIAL CLOUDS:",
+                    "content": "Amazon EC2, Amazon S3, Google Compute Engine, Microsoft Azure, Cloudfoundry, OpenStack. (7)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.\tAnthony T. Velte, Toby J. Velte and Robert Elsenpeter, \u201cCloud Computing: A Practical Approach\u201d, Tata McGraw Hill, 2017.",
+                "2.\tRajkumar Buyya, James Broberg and Andrzej Goscinski, \u201cCloud Computing: Principles and Paradigms\u201d, John Wiley and Sons, 2013"
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A8 DEEP LEARNING",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Basic concepts \u2013 Convex sets, convex functions \u2013 loss functions \u2013 Gradient descent \u2013 Variants - Perceptron \u2013 Activation functions - Geometric representation \u2013 Perceptron Convergence theorem  (4)"
+                },
+                {
+                    "title": "FEED FORWARD NETWORKS:",
+                    "content": "Multi layer Perceptron \u2013 back propagation - Learning XOR \u2013 Auto encoder - Deep neural networks  (6)"
+                },
+                {
+                    "title": "TRAINING NEURAL NETWORKS:",
+                    "content": "Optimization methods for neural networks - Adagrad, Adadelta, rmsprop, adam, NAG - second order methods for training, Saddle point problem in neural networks, Regularization methods - dropout, batch normalization, Ridge and Lasso  (10)"
+                },
+                {
+                    "title": "CONVOLUTIONAL NETWORKS:",
+                    "content": "Structure \u2013 properties \u2013 Region based CNN - LeNet \u2013 Alex net  (5)"
+                },
+                {
+                    "title": "RECURRENT NETWORKS :",
+                    "content": "Recurrent neural networks(RNN) \u2013 Gated Recurrent unit \u2013 Long Short Term Memory - Bidirectional RNNs - Deep recurrent network \u2013 Methodology \u2013 Applications.  (8)"
+                },
+                {
+                    "title": "DEEP LEARNING RESEARCH :",
+                    "content": "Linear Factor Models, variants of Autoencoders, Representational Learning, Structured probabilistic models for deep learning, Monte Carlo Methods, Generative adversarial networks \u2013 Deep generative models  (9)"
+                },
+                {
+                    "title": "APPLICATIONS:",
+                    "content": "Natural language processing, Big Data, Brain Computer Interface, Vision, IoT  (3)"
+                }
+            ],
+            "textbooks": [
+                "1.\tIan Goodfellow, YoshuaBengio, and Aaron Courville ,\u201dDeep Learning\u201d, The MIT Press, 2016.",
+                "2.\tYoshuaBengio, \u201cLearning Deep Architectures for AI, Foundations & Trends in Machine Learning\u201d, 2009."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "A9 BIG DATA ANALYTICS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Big Data Sources \u2013 Acquisition  - Features of big data - Security, Compliance, Auditing and Protection  - Evolution of Big Data - characteristics.  (3)"
+                },
+                {
+                    "title": "MASSIVE DATASETS MINING:",
+                    "content": "MapReduce \u2013 Algorithms using MapReduce \u2013 Finding Similar Items: Applications of Near-Neighbor Search \u2013 Shingling of Documents \u2013 Locality Sensitive Hashing for Documents.  (10)"
+                },
+                {
+                    "title": "MINING DATA STREAMS:",
+                    "content": "Sampling Data in a Stream \u2013 Filtering Streams \u2013 Counting Distinct Elements in a Stream.   (5)"
+                },
+                {
+                    "title": "LINK ANALYSIS:",
+                    "content": "PageRank \u2013 Efficient Computation of PageRank \u2013 Topic Sensitive PageRank \u2013 Link Spam \u2013 Hubs and Authorities \u2013 Advertising on the Web: Issues \u2013 The Adwords Problem - Social Network analysis  (8)"
+                },
+                {
+                    "title": "DATA MODELING FOR BIG DATA:",
+                    "content": "Big Data and Challenges, NoSQL data models, Basic principles of NoSQL models, SQL databases VsNoSQL databases. (4)"
+                },
+                {
+                    "title": "NOSQL DATABASES :",
+                    "content": "Key - Value Stores: Oracle Coherence \u2013 Amazon DynamoDB, Key -Value Stores (in-memory) :Redis  Key-value Stores (B-tree): Berkeley DB, Column Oriented Store: Google BigTable , Apache Cassandra -  Hbase.  Document Oriented Stores \u2013 MongoDB - Apache CouchDB - XML databases, Graph databases: Neo4J - OrientDB, Object Database: Db4o  (13)"
+                },
+                {
+                    "title": "DATA VISUALIZATION",
+                    "content": "(2)"
+                }
+            ],
+            "textbooks": [
+                "1.\tPaul Zikopoulos, Dirk Deroos, Krishnan Parasuraman, Thomas Deutsch, David Corrigan, James Giles, \u201cHarness the power of Big Data\u201d,Tata McGraw  Hill, 2013.",
+                "2.\tPeter Zadrozny, Raghu Kodali, \u201cBig Data Analytics using Splunk\u201d, Apress, 2013.",
+                "3.\tAnand Rajaraman and Jeffrey David Ullman, \u201cMining of Massive Datasets\u201d, Cambridge University Press, 2016."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "AA GRAPH THEORY",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "BASIC CONCEPTS:",
+                    "content": "Graphs - subgraphs, graph models, graph representations, degree sequence, Havel-Hakimi theorem (statement only), Hand-shaking lemma. Walk, path, distance, diameter, connectedness.  Isomorphic graphs. Common classes of graphs \u2013 regular, complete, Petersen, cycle, path, tree, bipartite, hypercube. Trees, Spanning trees \u2013 Minimum Spanning Tree, Shortest Path problem.  (11)"
+                },
+                {
+                    "title": "CONNECTIVITY:",
+                    "content": "Vertex and edge connectivity, Vertex and edge cuts, relationship between vertex and edge connectivity, bounds for connectivity.  Harary\u201fs construction of k-connected graphs.  (8)"
+                },
+                {
+                    "title": "EULERIAN AND HAMILTONIAN GRAPHS:",
+                    "content": "Eulerian graphs, Route inspection problem, Hamiltonian graphs, Dirac\u201fs and Ore\u201fs theorems, Gray codes, traveling salesman problem. \t (8)"
+                },
+                {
+                    "title": "MATCHING:",
+                    "content": "Maximum matching \u2013 augmenting paths, Berge\u201fs theorem, Bipartite matching - Hall\u201fs theorem, Perfect matching \u2013 Tutte\u201fs theorem, Edmonds\u201f algorithm.  (8)"
+                },
+                {
+                    "title": "COLORING & PLANAR GRAPHS:",
+                    "content": "Vertex-coloring \u2013 chromatic number, bounds, sequential and largest degree first algorithms \u2013 Chromatic Polynomial. Plane and Planar graphs, dual graphs, Kuratowski's graphs, Euler's formula, Characterization of Planar Graphs, Planarity testing.  (10)"
+                }
+            ],
+            "textbooks": [
+                "1.\tJonathan L. Gross, Jay Yellen, Mark Anderson, \u201cGraph Theory and its Applications\u201d, 3rd Edition, CRC Press, 2019.",
+                "2.\tDouglas B. West, \u201cIntroduction to Graph Theory\u201d 2nd Edition, Pearson Education India, 2015."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "AB SOFTWARE PATTERNS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Reusable Software, Reusable object oriented software, Patterns, Definition, Overview & motivation, Categories, Relationship between patterns, Pattern description.  (5)"
+                },
+                {
+                    "title": "DESIGN PATTERNS:",
+                    "content": "Creational patterns - Abstract factory, Builder, Factory method, Prototype, Singleton. Structural patterns \u2013 Adapter, Bridge, Composite, Decorator, Fa\u00e7ade, Flyweight, Proxy. Behavioral patterns \u2013 Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template method, Visitor, Case Studies.  (15)"
+                },
+                {
+                    "title": "ARCHITECTURE PATTERNS:",
+                    "content": "From Mud to Structure \u2013 Layers, Pipes and Filters, Blackboard.  Distributed systems \u2013 Broker. Interactive Systems - Model View Controller (MVC), Presentation Abstraction Control, Adaptable Systems, Reflection, Microkernel.   (5)"
+                },
+                {
+                    "title": "REFACTORING AND CODE SMELLS:",
+                    "content": "Refactoring, Principles in Refactoring, Bad smells in Code,  A Catalog of Refactoring with examples. (10)"
+                },
+                {
+                    "title": "Idioms:",
+                    "content": "Antipatterns in Software development, Pattern mining, Pattern Language.  (10)"
+                }
+            ],
+            "textbooks": [
+                "1.\tErich Gamma, Richard Helm, Ralph Johnson and John Vlissides, \u201cDesign Patterns: Elements of Reusable Object-Oriented Software\u201d, Pearson Education, 2005.",
+                "2.\tFrank Buschman, Regine Meunier, Hans Rohnert, Peter Sommerlad and Michael Stal, \u201cPattern-Oriented Software Architecture: A System of Patterns\u201d, John Wiley and Sons, 2001."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "AC MODERN DATABASE MANAGEMENT SYSTEMS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "QUERY PROCESSING:",
+                    "content": "Database Catalog - Query Processing Methodology - Query Evaluation - Query Interpretation - Equivalence of Expressions \u2013 Selection, Projection and Natural Join Operations  - Estimation of Query Processing Cost - Estimation of access costs  using Indices - Algorithm for executing query operations \u2013 Query Optimization - Heuristic Query optimization\u2013 Cost based query optimization.  (8)"
+                },
+                {
+                    "title": "OBJECT  DATABASES:",
+                    "content": "Introduction to Object Relational Data Model - Complex data types- Structured types and InheritanceNesting -un nesting of Relations \u2013 Query Processing in ORDBMS- Object oriented data model - Object Identity - Persistent Programming Languages - Type and Class Hierarchies and Inheritance - Complex Objects - Object Oriented Database Design - Query Processing in object oriented database-Comparison of Object Oriented and Object Relational databases.  (5)"
+                },
+                {
+                    "title": "SPATIAL DATABASES:",
+                    "content": "Fundamentals of GIS - Spatial Data Types- Spatial relations \u2013 Spatial Queries -Spatial indexing techniques - R-trees, KD trees - Quad trees-Applications of spatial databases   (4)"
+                },
+                {
+                    "title": "PARALLEL AND DISTRIBUTED DATA BASES:",
+                    "content": "Architecture of parallel databases \u2013 Parallel query evaluation, Paralyzing individual operations, Parallel query optimization -  Homogeneous and Heterogeneous databases - Architecture of distributed data bases - Storing data in distributed data bases, Distributed Transactions - Concurrency control in Distributed databases - Distributed query processing.  (10)"
+                },
+                {
+                    "title": "MODERN NOSQL DATABASES:",
+                    "content": "Key - Value Stores \u2013 Amazon\u201fs DynamoDB, Key -Value Stores (in-memory) : Redis , Wide Column Store: Cassandra, Google BigTable -  Document Oriented Stores \u2013 MongoDB  - Graph databases: Neo4J.  (10)"
+                },
+                {
+                    "title": "DATABASE INTEGRATION:",
+                    "content": "Data integration: schema directed data integration - Data exchange: Schema mapping and information preservation - automatic schema matching - Information Preserving XML Schema Embedding.   (8)"
+                }
+            ],
+            "textbooks": [
+                "1.\tElmasri R and Navathe SB, \u201cFundamentals of Database Systems\u201d, Pearson Education,  2016.",
+                "2.\tSilberschatz A, Korth H  and Sudarshan S, \u201cDatabase System Concepts\u201d, McGraw Hill, 2011.",
+                "3.\tTamer O Zsu M and Patrick Valduriez, \u201cPrinciples of Distributed Database Systems\u201d, Pearson Education, 2011."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "AD EMBEDDED SYSTEM AND DESIGN",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "Introduction to Embedded Systems:",
+                    "content": "Definition of Embedded System, Embedded Systems Vs General Computing Systems, History of Embedded Systems, Classification, Major Application Areas, Purpose of Embedded Systems, Characteristics and Quality Attributes of Embedded Systems. (9)"
+                },
+                {
+                    "title": "Typical Embedded System:",
+                    "content": "Core of the Embedded System: General Purpose and Domain Specific Processors, ASICs, PLDs, Commercial Off-The-Shelf Components (COTS), Memory: ROM, RAM, Memory according to the type of Interface, Memory Shadowing, Memory selection for Embedded Systems, Sensors and Actuators, Communication Interface: Onboard and External Communication Interfaces. \t (10)"
+                },
+                {
+                    "title": "Embedded Firmware:",
+                    "content": "Reset Circuit, Brown-out Protection Circuit, Oscillator Unit, Real Time Clock, Watchdog Timer, Embedded Firmware Design Approaches and Development Languages.  (8)"
+                },
+                {
+                    "title": "RTOS Based Embedded System Design:",
+                    "content": "Operating System Basics, Types of Operating Systems, Tasks, Process and Threads, Multiprocessing and Multitasking, Task Scheduling.  (9)"
+                },
+                {
+                    "title": "Task Communication:",
+                    "content": "Shared Memory, Message Passing, Remote Procedure Call and Sockets, Task Synchronization: Task Communication/Synchronization Issues, Task Synchronization Techniques, Device Drivers. An example of RTOS.    (9)"
+                }
+            ],
+            "textbooks": [
+                "1.\tDavid E Simon, \u201cAn Embedded Software Primer \u201c, Pearson Education, 2013.",
+                "2.\tShibu K.V , \u201cIntroduction to Embedded Systems\u201d  Mc Graw Hill,2017",
+                "3.\tMarilyn Wolf, \u201cComputers as components: principles of embedded computing system design\u201d, Elsevier, 2014"
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "AE INFORMATION RETRIEVAL AND WEB SEARCH",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION:",
+                    "content": "Overview of IR Systems - Historical Perspectives - Goals of IR -   The impact of the web on IR - The role of artificial intelligence (AI) in IR. (3)"
+                },
+                {
+                    "title": "TEXT REPRESENTATION:",
+                    "content": "Statistical Characteristics of Text: Zipf's law; Porter stemmer; morphology; index term selection; using thesauri. Basic Tokenizing, Indexing:  Simple tokenizing, stop-word removal, and stemming; inverted indices; Data Structure and File Organization for IR - efficient processing with sparse vectors.  (6)"
+                },
+                {
+                    "title": "RETRIEVAL MODELS:",
+                    "content": "Similarity Measures and Ranking -  Boolean Matching \u2013 Extended Boolean models - Ranked retrieval - Vector Space Models -,  text-similarity metrics - TF-IDF (term frequency/inverse document frequency) weighting - cosine similarity, Probabilistic Models, Evaluations on benchmark text collections. (8)"
+                },
+                {
+                    "title": "QUERY PROCESSING:",
+                    "content": "Query Operations and Languages- Query expansion; Experimental Evaluation of IR: Performance metrics: recall, precision, and F-measure. (5)"
+                },
+                {
+                    "title": "TEXT CATEGORIZATION AND CLUSTERING:",
+                    "content": "Categorization: Rocchio; Naive Bayes, kNN; Clustering:  Agglomerative clustering; k-means; Expectation Maximization (EM); Dimension Reduction: LSI, PCA.  (6)"
+                },
+                {
+                    "title": "WEB SEARCH: IR Systems and the WWW - Search Engines: Spidering, Meta Crawlers and near duplicate pages, Question answering,  ; Link analysis: Hubs and Authorities, Google PageRank, Duplicate Detection.   (5)",
+                    "content": ""
+                },
+                {
+                    "title": "INFORMATION FILTERING TECHNIQUES:",
+                    "content": "introduction to Information Filtering, Relevance Feedback - Applications of Information Filtering: RECOMMENDER SYSTEMS: Collaborative filtering and Content-Based recommendation of documents and products.   (6)"
+                },
+                {
+                    "title": "INFORMATION EXTRACTION AND INTEGRATION:",
+                    "content": "Extracting data from text; Basic Techniques: Named Entity Recognition, Co-reference Resolution, Relation Extraction, Event Extraction; Extracting and Integrating specialized information on the Web, Web Mining and Its Applications.  (6)"
+                }
+            ],
+            "textbooks": [
+                "1.\tChristopher D. Manning, Prabhakar Raghavan and Hinrich Sch\u00fctze, \u201cIntroduction to Information Retrieval\u201d, Cambridge University Press, 2012.",
+                "2.\tStefan B\u00fcttcher, Charles L. A. Clarke, Gordon V. Cormack, \u201c Information Retrieval \u2013 Implementing and Evaluating Search Engines \u201c, The MIT Press, 2016",
+                "3.\tB.Croft, D. Metzler, T. Strohman, \u201cSearch Engines: Information Retrieval in Practice\u201d, Pearson Education, 2015."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "AF AUGMENTED AND VIRTUAL REALITY",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION TO VR AND AR:",
+                    "content": "Overview of class, logistics, history of VR/AR.  (5)"
+                },
+                {
+                    "title": "THE GRAPHICS PIPELINE AND OPENGL:",
+                    "content": "Overview and Transformations: rotation, translation, scaling, model view matrix, projection matrix, Lighting and Shading.  (7)"
+                },
+                {
+                    "title": "OPENGL SHADING LANGUAGE (GLSL):",
+                    "content": "GLSL vertex and fragment shaders.   (5)"
+                },
+                {
+                    "title": "THE HUMAN VISUAL SYSTEM:",
+                    "content": "Perception of depth, color, contrast, resolution, Stereo Rendering.  (5)"
+                },
+                {
+                    "title": "HEAD MOUNTED DISPLAY OPTICS:",
+                    "content": "Magnifier designs, stereo rendering for HMDs, lens distortion correction, advanced HMD optics.    (7)"
+                },
+                {
+                    "title": "INERTIAL MEASUREMENTS UNITS:",
+                    "content": "gyros, accelerometers, magnetometers, sensor fusion, complementary filter, Arduino  (6)"
+                },
+                {
+                    "title": "POSITIONAL TRACKING:",
+                    "content": "Tracking with the light house, advanced positional tracking \u2013 Spatial Sound.  (5)"
+                },
+                {
+                    "title": "CREATING CONTENT IN VR AND AR:",
+                    "content": "Assessing design software \u2013 Capturing real life \u2013 Assessing development Software-Distributing content \u2013 Applications of AR and VR   (5)"
+                }
+            ],
+            "textbooks": [
+                "1.\tMarschner, Shirley, \u201cFundamentals of Computer Graphics\u201d, CRC Press, 2016.",
+                "2.\tLa Valle, \u201cVirtual Reality\u201d, Cambridge University Press, 2016.",
+                "3.\tErin Pangilinan, Steve Lukas and Vasanth Mohan, \u201cCreating Augmented and Virtual Realities: Theory and Practice for Next Generation Spatial Computing\u201d, O\u201fReilly Publisher, 2019"
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "AG COMPUTER VISION",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "OVERVIEW:",
+                    "content": "Computer Imaging Systems: Image formation and Sensing, Color representation, Image Acquisition, Image digitization, Noise, Image Representation.  (4)"
+                },
+                {
+                    "title": "DIGITAL IMAGE ANALYSIS:",
+                    "content": "Preprocessing, Binary Image Analysis, Edge detection - First order derivative, Second order detection, Color edge detection, Pyramid edge detection, Edge linking and boundary detection, Segmentation - Region based segmentation, clustering techniques, boundary detection, thresholding.  (10)"
+                },
+                {
+                    "title": "IMAGE ENHANCEMENT:",
+                    "content": "Gray-Scale Modification, Image Sharpening, Image Smoothing - Image Restoration - Noise Models, Noise removal using spatial filters, Geometric transforms, Image Reconstruction.  (7)"
+                },
+                {
+                    "title": "IMAGE FEATURE ANALYSIS:",
+                    "content": "Overview, Feature Extraction - Shape, histogram, color, spectral, textural features, feature Analysis.   (6)"
+                },
+                {
+                    "title": "MORPHOLOGICAL OPERATIONS:",
+                    "content": "Binary Dilation, Erosion, Opening and Closing, Hit-or-Miss Transform, Basic Morphological Algorithms, Extension to Gray-Scale Images.   (5)"
+                },
+                {
+                    "title": "IMAGE COMPRESSION:",
+                    "content": "Basic requirements, Types of compression, Coding Algorithms.  (5)"
+                },
+                {
+                    "title": "APPLICATIONS:",
+                    "content": "Image Classification, CBIR, CBVR, Object Recognition, Biometrics, Document processing, Augmented Reality.   (8)"
+                }
+            ],
+            "textbooks": [
+                "1.\tUmbaugh, S. E., \u201cDigital image processing and analysis: human and computer vision applications with CVIP tools\u201d, CRC press, 2010.",
+                "2.\tNagabhushan S, \u201cComputer Vision and Image Processing\u201d, New Age International, 2005."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "AH DEVOPS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "DEVOPS :",
+                    "content": "Introduction \u2013 Need for DevOps - DevOps Perspective - DevOps and Agile - Team Structure \u2013 Barriers   (3)"
+                },
+                {
+                    "title": "THE CLOUD AS A PLATFORM:",
+                    "content": "Introduction \u2013 Features of Cloud \u2013 DevOps Consequences of the unique cloud Features   (3)"
+                },
+                {
+                    "title": "OPERATIONS:",
+                    "content": "Introduction \u2013 Operations Services \u2013 Operations and DevOps \u2013 Overall Architecture Structure  (3)"
+                },
+                {
+                    "title": "BUILDING AND TESTING:",
+                    "content": "Moving a System through Deployment pipeline \u2013 Production \u2013 Incidents \u2013 Deployment \u2013 Monitoring.  (9)"
+                },
+                {
+                    "title": "SECURITY AND SECURITY AUDITS:",
+                    "content": "Security Threats \u2013 Identity Management \u2013 Access Control \u2013 Repeatability \u2013 Performance \u2013 Reliability \u2013 Recoverability \u2013 Interoperability \u2013 Testability \u2013 Modifiability Measurement and compliance to DevOps practices - Points of Interaction between Dev and Ops.  (10)"
+                },
+                {
+                    "title": "SUPPORTING MULTIPLE DATACENTERS:",
+                    "content": "Implementing a continuous deployment pipeline for Enterprises - Migrating to Microservices - Operators as a process - The Future of DevOps.  (12)"
+                },
+                {
+                    "title": "CASE STUDIES: Tools \u2013 Jenkins \u2013 Kamatera \u2013 Docker.  (5)",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.\tLen Bass, Ingo Weber, Liming Zhu, \u201cDevOps: A Software Architect\u201fs Perspective\u201d, Addison-Wesley Professional, 2015",
+                "2.\tGene Kim, John Willis, Patrick Debois, Jez Humble, John Allspaw, \u201cDevOps Handbook\u201d, IT Revolution Press, 2016."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "O1 CRYPTOGRAPHY",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "MATHEMATICS OF CRYPTOGRAPHY:",
+                    "content": "Fundamental theorem of arithmetic (statement only) - Divisibility - Euclidean and \n                            Extended Euclidean algorithms, Primes - Euler totient function- Fermat\u201fs little theorem, Modular arithmetic- Computing modular \n                            inverse \u2013 modular exponentiation - efficient algorithms, generators and primitive roots in groups - Solving linear congruence\u201fs -\n                            Chinese remainder theorem(9)"
+                },
+                {
+                    "title": "BASIC CRYPTOGRAPHIC TECHNIQUES:",
+                    "content": "Encryption and Decryption, Classical ciphers- Substitution ciphers -\n                            Monoalphabetic ciphers -Polyalphabetic ciphers \u2013 one time pad \u2013 transposition ciphers \u2013 Cryptanalysis.(8)"
+                },
+                {
+                    "title": "SYMMETRIC KEY CRYPTOGRAPHY:",
+                    "content": "Stream ciphers \u2013 Block ciphers \u2013 DES \u2013 Modes of operation.(6)"
+                },
+                {
+                    "title": "PUBLIC KEY CRYPTOGRAPHY:",
+                    "content": "Concept of public key cryptography \u2013 Hard problem - Factorization Problem - Discrete Log \n                            Problem - RSA cryptosystem - ElGamal cryptosystem \u2013 Cryptanalysis (6)"
+                },
+                {
+                    "title": "DATA INTEGRITY TECHNIQUES:",
+                    "content": "Symmetric techniques - Cryptographic hash functions \u2013 MAC, Asymmetric techniques \u2013\n                            Digital signatures \u2013 RSA signature - ElGamal signature.(10)"
+                },
+                {
+                    "title": "AUTHENTICATION AND KEY DISTRIBUTION PROTOCOLS:",
+                    "content": "Data origin authentication and entity authentication \u2013 \n                            password based authentication\u2013 Challenge response protocols \u2013 Fiat Shamir protocol - Symmetric key distribution \u2013\n                            Kerberos \u2013 Symmetric Key Agreement Protocol \u2013 Diffie-Hellman key Agreement \u2013 Public key distribution - Digital \n                            Certificates.(8)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1. Douglas R Stinson, \u201cCryptography Theory and Practice\u201d, CRC Press,2018.",
+                "2. Jonathan Katz, Yehuda Lindell, \u201cIntroduction to Modern Cryptography\u201d,CRC press, 2015.",
+                "3. Victor Shoup, \u201cA Computational introduction to Number Theory and Algebra\u201d, Cambridge University Press, 2012"
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "O2 NUMERICAL ANALYSIS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "TYPES OF ERRORS:",
+                    "content": "types of errors.(3)"
+                },
+                {
+                    "title": "SOLUTION OF ALGEBRAIC EQUATIONS:",
+                    "content": "Bisection method, method of false position, Newton Raphson method, modified \n                            Newton Raphson method, Graeffe\u201fs method, Bairstow\u201fs method(8)"
+                },
+                {
+                    "title": "SOLUTION OF ALGEBRAIC SIMULTANEOUS EQUATIONS:",
+                    "content": "elimination, Gauss Jordan, Crout\u201fs method - Cholesky \n                            method, Gauss Jacobi method, Gauss \u2013 Seidel method. (8)"
+                },
+                {
+                    "title": "EIGENVALUES AND EIGENVECTORS:",
+                    "content": "Power method, inverse power method, Jacobi method  (4)"
+                },
+                {
+                    "title": "FINITE DIFFERENCES AND INTERPOLATION:",
+                    "content": "difference operators \u2013 Interpolation: Newton\u201fs divided difference \n                            formula, Lagrange\u201fs interpolation formula, Newton\u201fs - Gregory forward and backward interpolation. (8)"
+                },
+                {
+                    "title": "DIFFERENTIATION AND INTEGRATION:",
+                    "content": "Numerical differentiation using Newton\u201fs - Gregory forward and backward \n                            polynomials. Numerical Integration: Gaussian Quadrature, Trapezoidal rule, Simpson\u201fs one third rule(6)"
+                },
+                {
+                    "title": "ORDINARY DIFFERENTIAL EQUATIONS:",
+                    "content": "Taylor series method, Euler method and its Modifications, Runge-Kutta methods, \n                            Runge Kutta Fehlberg method, multi-step methods: Adams fourth-order formula, Adams-Moulton method, boundary value \n                            problems : Shooting method. (8)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1. Steven C. Chapra and Raymond P. Canale, \u201cNumerical Methods for Engineers with Software and Programming",
+                "2. Curtis F. Gerald, and Patrick O. Wheatley, \u201cApplied Numerical Analysis\u201d Pearson, 2011.",
+                "3. Yousef Saad. \u201cNumerical methods for large eigen value problems\u201d, University Press, 2011"
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "O2 NUMERICAL ANALYSIS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION TO CYBER CRIME:",
+                    "content": "Cyber Crime and Information Security-Types of cyber-crime- Nature of crime-Categories \n                            of cyber-crime-Social engineering-Identify theft.(6)"
+                },
+                {
+                    "title": "CYBERCRIME FUNDAMENTALS & ISSUES:",
+                    "content": "access to computers, Internet hacking & Cracking, Viruses & \n                            malicious code, Software piracy- Cyberstalking - Social media crimes-Understanding social media marketing - Best practices \n                            with use of Social marketing tools - Case studies. (8)"
+                },
+                {
+                    "title": "HACKING NETWORKS:",
+                    "content": "Web application & Web server hacking - Hacking wireless networks: Standards \u2013 protocols\u0002Architectures \u2013 Vulnerability \u2013 Network protection and Security devices (8)"
+                },
+                {
+                    "title": "INVESTIGATION:",
+                    "content": "Cybercrime Investigations-Evidence handling - Collection & Preservation -E-mail & Mobile tracking - IP \n                            tracking - Password cracking and Evidence recovery. (8)"
+                },
+                {
+                    "title": "DEFENSE AND ANALYSIS TECHNIQUES:",
+                    "content": "Threat, Types of Threat, Vulnerabilities, Controls and Counter measures, Attacks \n                            examples \u2013 Reconnaissance attack, Access attacks, Masquerading, IP Spoofing, and Denial of Service attack, Distributed \n                            Denial of Service- Honeypots \u2013 DNS-Firewall.(8)"
+                },
+                {
+                    "title": "LAWS & ACTS:",
+                    "content": "perspective-India & global, IT ACT, CrPC, IPC, IPR in cyberspace, Cyber ethics, Evidence Act & Privacy \n                            Act-Guidelines and computer usage policy.(7)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1. James Graham, Richard Haward and Ryan Olson, \u201cCyber Security Essentials\u201d CRC Press, 2011.",
+                "2. Charles P. Pfleeger and Shari Lawrence Pfleeger, \u201cAnalyzing Computer Security \u2013 A threat/vulnerability / Counter measure",
+                "3. Charles J. Brooks, Christopher Grow, Philip Craig and Donald Short, \u201cCyber Security Essentials\u201d, Wiley 2018."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "O4 ENTERPRENEURSHIPS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION TO ENTREPRENEURSHIP:",
+                    "content": "\u2013 Characteristics and Functions of an Entrepreneur \u2013 Common myths \n                            about entrepreneurs \u2013 Importance or Entrepreneurship. Seminar in R5 & R6(5)"
+                },
+                {
+                    "title": "CREATIVITY AND INNOVATION:",
+                    "content": "The role of creativity \u2013 The innovation Process \u2013 Sources of New Ideas \u2013 Methods of \n                            Generating Ideas \u2013 Creative Problem Solving \u2013 Entrepreneurial Process (6)"
+                },
+                {
+                    "title": "DEVELOPING AN EFFECTIVE BUSINESS MODEL:",
+                    "content": "Importance of a Business Model \u2013 Starting a small scale industry -\n                            Components of an Effective Business Model. (5)"
+                },
+                {
+                    "title": "APPRAISAL OF PROJECTS:",
+                    "content": "Importance of Evaluating Various options and future investments- Entrepreneurship incentives \n                            and subsidies \u2013 Appraisal Techniques. (8)"
+                },
+                {
+                    "title": "FORMS OF BUSINESS ORGANIZATION:",
+                    "content": "Proprietorship \u2013 Partnership \u2013 Limited liability partnership - Joint Stock \n                            Companies and Cooperatives.(4)"
+                },
+                {
+                    "title": "FINANCING THE NEW VENTURE:",
+                    "content": "Determining Financial Needs \u2013 Sources of Financing \u2013 Equity and Debt Funding \u2013 Case \n                            studies in Evaluating Financial Performance.(8)"
+                },
+                {
+                    "title": "THE MARKETING FUNCTION:",
+                    "content": "Analysis \u2013 Competitor Analysis \u2013 Marketing Research for the New Venture \u2013 Defining \n                            the Purpose or Objectives \u2013 Gathering Data from Secondary Sources \u2013 Gathering Information from Primary Sources \u2013\n                            Analyzing and Interpreting the Results \u2013 The Marketing Process.(5)"
+                },
+                {
+                    "title": "INTELLECTUAL PROPERTY PROTECTION AND ETHICS:",
+                    "content": "\u2013 Copyright - Trademark- Geographical indications \u2013\n                            Ethical and social responsibility and challenges.(4)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1. Donald F.Kuratko and Richard M.Hodgetts, \u201cEntrepreneurship : Theory, Process and Practice\u201d, South-Western, 2007.",
+                "2. Vasant Desai, \u201cThe Dynamics of Entrepreneurial Development and Management\u201d, Himalaya Publishing House, 2010."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "O5 HUMAN COMPUTER INTERFACE DESIGN",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "Introduction:",
+                    "content": "Human \u2013 Machine \u2013 Interaction \u2013 Paradigms. (8)"
+                },
+                {
+                    "title": "Interaction Design:",
+                    "content": "Process \u2013 Navigation \u2013 Screen Design and Layout \u2013 HCI in the Software Process \u2013 Design Rules \u2013 Evaluation Techniques \u2013 Universal Design \u2013 User Support. (8)"
+                },
+                {
+                    "title": "Interaction Models:",
+                    "content": "Cognitive Models \u2013 Socio-organizational Issues and Stakeholder Requirements \u2013 Communication and Collaboration Models. (8)"
+                },
+                {
+                    "title": "Task Analysis:",
+                    "content": "Introduction - Task Decomposition \u2013 Knowledge Based Analysis \u2013 ER based Techniques \u2013 Uses. (8)"
+                },
+                {
+                    "title": "User Interface Design:",
+                    "content": "Dialog Design \u2013 Diagrammatic Notations \u2013 Textual Dialog notations \u2013 Dialog Semantics \u2013 Dialog Analysis and Design - Modelling Rich Interaction. (8)"
+                },
+                {
+                    "title": "Utilities:",
+                    "content": "Groupware \u2013 Ubiquitous Computing and Augmented Realities \u2013 Hypertext, Multimedia and WWW. (5)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1. Alan Dix, Janet Finlay, Gregory D. Abowd, Rusell Beale, \u201cHuman Computer Interaction\u201d, Pearson Education, 2009",
+                "2. Ben Shneiderman, Catherine Plaisant, Maxine S.Cohen, Steven M.Jacobs, Nicholas Diakopoulos and Niklas Elmqvist, \u201cDesigning the User Interface: Strategies for Effective Human-Computer Interaction\u201d, Addison Wesley, 2017."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "O6 INTERNET OF THINGS",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "INTRODUCTION TO IoT:",
+                    "content": "Introduction to Internet of Things (IoT) \u2013 Machine to Machine (M2M) \u2013- Features and Definition of IoT\u2013 Recent Trends in the Adoption of IoT \u2013 Societal Benefits. (2)"
+                },
+                {
+                    "title": "IoT ARCHITECTURE:",
+                    "content": "Functional Requirements - IoT Enabling Technologies \u2013 IPv6 - Basic Architecture - Components of IoT:  Embedded Computation Units, Microcontrollers, System on Chip (SoCs) - Sensors \u2013  Actuators \u2013 Communication Interfaces. (7)"
+                },
+                {
+                    "title": "RF COMMUNICATION TECHNOLOGIES IN IoT:",
+                    "content": "Wireless Sensor Networks (WSN): Overview, Fault Tolerance - RFID \u2013 NFC - Low Power Personal Area networks (LowPAN): Overview, 6LowPAN, IEEE 802.15.4, BLE, Zigbee, Zwave, and Thread - WiFi - Low Power Wide Area Networks (LPWAN): Concepts and features, SigFox, LoraWAN, LPWAN-3GPP, Comparing different LPWAN technologies. (7)"
+                },
+                {
+                    "title": "APPLICATION LAYER PROTOCOLS IN IoT:",
+                    "content": "Rest Architecture - HTTP \u2013 CoAP: Architecture, Features, Applications - MQTT: Architecture, Feature, Applications - Comparing different IoT Application Layer Protocols. (7)"
+                },
+                {
+                    "title": "MODERN NETWORKING:",
+                    "content": "Cloud Computing: Introduction to the Cloud Computing, Cloud service options, Cloud Deployment models, Load balancing, Hypervisors, Comparison of Cloud providers - Software Defined Networking(SDN): Overview, Architecture, Rule placement, OpenFlow Protocol, Relevance of SDN to IoT. (7)"
+                },
+                {
+                    "title": "SECURITY IN IoT:",
+                    "content": "IEEE 802.11 Wireless Networks Attacks: Basic Types, WEP Key Recovery Attacks, Keystream Recovery Attacks against WEP \u2013 RFID Security \u2013 Security Issues in ZigBEE: Eavesdropping Attacks, Encryption Attacks \u2013 Bluetooth Security: Threats to Bluetooth Devices and Networks \u2013 Blockchain in IoT security. (9)"
+                },
+                {
+                    "title": "PROTOTYPING:",
+                    "content": "Prototyping embedded devices - Open Source versus Closed Source - Embedded Computing Basics - Arduino - Raspberry Pi - Implementation. (2)"
+                },
+                {
+                    "title": "APPLICATIONS IN IoT:",
+                    "content": "Smart homes \u2013 Energy \u2013 Health Care \u2013 Smart Transportation \u2013 Smart Living \u2013 Smart Cities- Smart Grid \u2013 Smart Agriculture. (2)"
+                },
+                {
+                    "title": "ROBOTS:",
+                    "content": "Introduction to Robotic Process Automation. (2)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.\tDieter Uckelmann, Mark Harrison, Florian Michahelles, \u201cArchitecting the Internet of Things\u201d, Springer, 2011",
+                "2.\tAdrian McEwen and Hakim Cassimally, \u201cDesigning the Internet of Things\u201d, John Wiley and Sons, 2014.",
+                "3.\tThomas Erl, Dr.ZaighamMahmood, Professor Ricardo Puttini,\"Cloud Computing: Concepts, Technology & Architecture\", PHI, 2013",
+                "4.\tBrian Russell, Drew Van Duren, \"Practical Internet of Things Security\", Packt Publishing, 2016."
+            ]
+        },
+        {
+            "code": "21X0",
+            "title": "O7 ENVIRONMENTAL SCIENCE AND GREEN COMPUTING",
+            "credits": "3 2 0 4",
+            "content": [
+                {
+                    "title": "NATURAL RESOURCES, ECOSYSTEMS AND BIODIVERSITY:",
+                    "content": "Environment, Definition, Scope and importance, Forest resources, Use and overexploitation, Water resources: Use and over utilization. Eco system; Structure and functions of an eco system, energy flow in the eco system.  Bio Diversity; values of biodiversity, biodiversity at global, national and local levels \u2013 threats to bio diversity.  Conservation of bio diversity \u2013 In-situ & Ex-situ conservation. (9)"
+                },
+                {
+                    "title": "ENERGY SOURCES:",
+                    "content": "Growing energy needs, Renewable and non renewable energy sources, Hydro power, Solar Power:  Photovoltaic Energy \u2013 Motivation for going Solar \u2013 Solar Electricity \u2013 PV cells. Wind Power: \u2013 Using the Wind: Generating Power at Remote Sites,\u2013 Measuring the Wind \u2013 Estimating the output.  Use of alternate energy sources. (9)"
+                },
+                {
+                    "title": "ENVIRONMENTAL POLLUTION AND DISASTER MANAGEMENT:",
+                    "content": "Definition \u2013 causes, effects and control measures of air pollution, water pollution, soil pollution, noise pollution, thermal pollution and nuclear hazards. Disaster management - floods, earthquake, cyclone and landslides. Solid waste management - causes, effects and control measures of municipal solid wastes (Biomedical wastes, hazardous wastes). Role of an individual in prevention of pollution. (9)"
+                },
+                {
+                    "title": "SOCIAL ISSUES AND THE ENVIRONMENT:",
+                    "content": "From unsustainable to sustainable development, Urban problems related to energy, Water conservation, Rain water harvesting, Watershed management, Environment and human health, Role of information technology in environment and human health. Environment Protection Act: Air (Prevention and Control of Pollution) Act \u2013 Water Act,   Forest Conservation Act, Wildlife Protection Act,   Introduction to EIA and ISO 14000. (9)"
+                },
+                {
+                    "title": "GLOBAL ATMOSPHERIC CHANGE & GREEN  FUNDAMENTALS:",
+                    "content": "The Atmosphere of Earth \u2013 Global Temperature \u2013 Global Energy Balance, The  Greenhouse Effect  - Environmental Issues and Green Computing,  Electronic waste management: Introduction;- Environment and society,  producer responsibility legislation \u2013 the Waste Electrical and Electronic Equipment (WEEE) directive,  Materials Composition of WEEE: Mobile Phones \u2013 Television \u2013 Washing Machines, - Current and new electronic waste recycling technology- Future perspectives of electronic scrap. (9)"
+                },
+                {
+                    "title": "Tutorial Practice:",
+                    "content": ""
+                }
+            ],
+            "textbooks": [
+                "1.\tMackenzie L. Davis, and David A. Cornwell, \u201cIntroduction to Environmental Engineering\u201d, Tata McGraw Hill, 2012.",
+                "2.\tChetan Singh Solanki, \u201cSolar Photovoltaics\u201d, PHI Learning Private Ltd., 2015.",
+                "3.\tSiraj Ahmed, \u201cWind Energy : Theory and Practice\u201d, PHI Learning Private Ltd., 2016",
+                "4.\tMahajan S. P. Pollution Control in Process Industries, Tata McGraw Hill, 2011",
+                "5.\tHester R.E. and Harrison R.M. \u201cElectronic Waste Management\u201d, Royal Society of Chemistry, 2009."
+            ]
+        }
+    ],
+    "url": "https://amcsregulations.psgtech.ac.in/curriculum/bsccsd/2020/syllabi.html",
+    "coordinator": "Dr.Poomagal S"
+}

@@ -1,0 +1,43 @@
+{
+    "publications": {
+        "international_conferences": [
+            {
+                "author": "Dr.Senthil Kumar M",
+                "co_authors": "Aresh Dadlani, Masoumeh Moradian, Behrouz Maham, Theodoros A. Tsiftsis",
+                "title": "Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model",
+                "conference": "ICC 2023- IEEE International Conference on Communications (ICC)",
+                "year": "2023"
+            },
+            {
+                "author": "Florent Foucaud",
+                "co_authors": "Krishna Narayanan, Dr.Lekshmi R S",
+                "title": "Monitoring Edge-Geodetic Sets in Graphs",
+                "conference": "Conference on Algorithms and Discrete Applied Mathematics CALDAM 2023",
+                "year": "2023"
+            },
+            {
+                "author": "Dr.Sreelaja N K",
+                "co_authors": "",
+                "title": "Ant Colony Optimization based approach to filter IP Address from TOR network",
+                "conference": "2022 IEEE Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+                "year": "2022"
+            },
+            {
+                "author": "S R Narayanaa",
+                "co_authors": "Dr.Lekshmi R S, M Sivaranjan",
+                "title": "Fault Localization in Cloud using Centrality Measures",
+                "conference": "2022 IEEE 29th Annual Software Technology Conference (STC)",
+                "year": "2022"
+            }
+        ],
+        "national_conferences": [
+            {
+                "author": "Mrs.Deepa S",
+                "co_authors": "Dr.Ilayaraja N MCA, R Naren",
+                "title": "Speed Control in VANET Routing For City Environment",
+                "conference": "National Level Research Conclave 2022",
+                "year": "2022"
+            }
+        ]
+    }
+}

@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Ensure you have your OpenAI API key
-api_key = os.getenv("OPENAIKEY")
+api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
     raise ValueError("OPENAI_API_KEY not found in environment variables")
 
@@ -25,9 +25,9 @@ retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k
 
 # Define custom prompt templates
 qa_prompt_template = """
-You are an academic advisor helping students find information about professors at PSG College of Technology.
+You are a chat bot helping students of Applied Mathematics and Computational Sciences at PSG College of Technology who's head is Dr. Shina Sheen and director is Dr. Nadarajan R.
 Use ONLY the following pieces of context to answer the question at the end.
-If the information is not explicitly mentioned in the context, say "I don't have that specific information about the professor."
+If the information is not explicitly mentioned in the context, say "I don't have specific information about that."
 Do not make up or infer information that is not directly stated in the context.
 
 Context:
@@ -54,7 +54,7 @@ memory = ConversationBufferMemory(
 )
 
 # Initialize GPT-4o model
-llm = ChatOpenAI(model_name="gpt-4o", temperature=0.6)
+llm = ChatOpenAI(model_name="gpt-4o-mini", temperature=1)
 
 # Create the conversational chain
 conversation_chain = ConversationalRetrievalChain.from_llm(

@@ -1,0 +1,292 @@
+{
+    "phd_completed": [
+        {
+            "candidate": "1",
+            "thesis_title": "M. Kalaiselvi",
+            "guide": "Dynamical Analysis of spreading of rumour and diseases epidemic over complex networks",
+            "completion_date": "Dr.Senthil Kumar M"
+        },
+        {
+            "candidate": "2",
+            "thesis_title": "Ms. D. Saranya",
+            "guide": "DECOMPOSITIONS OF HYPERCUBE GRAPHS INTO PATHS, CYCLES AND STARS",
+            "completion_date": "Dr.Jeevadoss S"
+        },
+        {
+            "candidate": "3",
+            "thesis_title": "Dr.Kumaresan M",
+            "guide": "Certain Investigations on distributed learning performance enhancements in Federated Multitask learning",
+            "completion_date": "Dr.Senthil Kumar M"
+        },
+        {
+            "candidate": "4",
+            "thesis_title": "Dr.Sathyakala P",
+            "guide": "STUDIES ON ENERGY, ENTROPY AND EXERGY ANALYSIS IN SOLAR WATER HEATER",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "5",
+            "thesis_title": "D. Kalpana",
+            "guide": "Analysis of Retrial Queueing Models for the strategic access and Equilibrium joining Strategies of users in Communication Networks",
+            "completion_date": "Dr.Senthil Kumar M"
+        },
+        {
+            "candidate": "6",
+            "thesis_title": "R.Padmavathi",
+            "guide": "Analysis of dynamical interplay between disease epidemics, health risk behaviours and awareness over social networks",
+            "completion_date": "Dr.Senthil Kumar M"
+        },
+        {
+            "candidate": "7",
+            "thesis_title": "Syama R",
+            "guide": "Studies on Some Algebraic Structures in Abstract Cellular Complex",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "8",
+            "thesis_title": "S.R. Saradha",
+            "guide": "STUDIES ON NONLINEAR FRACTIONAL DIFFERENTIAL\nEQUATIONS USING GENERALIZED HOMOTOPY\nANALYSIS METHOD AND TRANSFORM TECHNIQUES",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "9",
+            "thesis_title": "Dr.Sumathi M",
+            "guide": "Analysis of node based epidemic spreading processes over Multiplex Social Network and Wireless Sensor Networks",
+            "completion_date": "Dr.Senthil Kumar M"
+        },
+        {
+            "candidate": "10",
+            "thesis_title": "Dr.Thanalakshmi P",
+            "guide": "An Investigation and design of post quantum privacy preserving signatures",
+            "completion_date": "Dr.Anitha R"
+        },
+        {
+            "candidate": "11",
+            "thesis_title": "Dr.Deena R",
+            "guide": "Analysis of Heat Transfer in Microchannel Heat Sinks using Extended Navier-Stokes Equations and Optimization Techniques",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "12",
+            "thesis_title": "Dr.Bindhu R",
+            "guide": "Studies on Buoyant Convection in Cavities with Partially Cooling and Heating - A Numerical Approach",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "13",
+            "thesis_title": "Dr.Priyalakshmi G",
+            "guide": "Empirical Evaluation of Non-Functional Properties of Software Ecosystems",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "14",
+            "thesis_title": "Dr.Bagyalakshmi M",
+            "guide": "Heat Transfer Analysis Using Fractional Derivatives",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "15",
+            "thesis_title": "Dr.Poonthalir G",
+            "guide": "Meta Heuristic Approaches for Solving Variants of Vehicle Routing Problem with Midway Halts",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "16",
+            "thesis_title": "Dr.Thilaga M",
+            "guide": "Computational Techniques for Functional Brain Network Analysis",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "17",
+            "thesis_title": "A.Muthukumar",
+            "guide": "A Study on Generalizations of Soft Sets",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "18",
+            "thesis_title": "Dr.Nirmala P",
+            "guide": "Design and analysis of algorithms to invent similarity patterns in large graph databases.",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "19",
+            "thesis_title": "R.Latha",
+            "guide": "Collaborative Recommender Systems with User Preference Mining Approaches",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "20",
+            "thesis_title": "B.Malar",
+            "guide": "Heuristic And Model Based Approaches For Binary  Classification Using Isotonic Separation",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "21",
+            "thesis_title": "N.Rajamanickam",
+            "guide": "Certain Investigations on Computer Security Policies and Security Protocols",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "22",
+            "thesis_title": "N.Ilayaraja",
+            "guide": "Data Caching and Prefetching Strategies for Location Dependent Information Access in Mobile Environments",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "23",
+            "thesis_title": "N.Geetha",
+            "guide": "Study and Analysis of  Emerging Soft   Computing Approaches to Intelligent    Systems  in Pattern Recognition",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "24",
+            "thesis_title": "RM.Periakaruppan",
+            "guide": "XML Document Structural Similarity  Algorithms and its Applications",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "25",
+            "thesis_title": "S.Suganthi",
+            "guide": "Adaptable Middleware Model for            Dynamic  Changes in the    Requirements",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "26",
+            "thesis_title": "V.Geetha",
+            "guide": "Investigations on Context - Aware           Adaptive E - Assessment and their                       Performance Evaluation using     Machine Learning",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "27",
+            "thesis_title": "M.Thilagu",
+            "guide": "Investigations on Users\u2019 Navigation Behaviour Using Efficient Web Usage                                                                                            Mining Techniques Based on Multiple Pattern Mining Models",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "28",
+            "thesis_title": "R.Vijayalakshmi",
+            "guide": "Efficient Algorithms and Data         Structures for Storage and Mining   in Large Graph Databases",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "29",
+            "thesis_title": "G.Uma Vetri Selvi",
+            "guide": "A Study on Medical Image          Compression Techniques",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "30",
+            "thesis_title": "F.Mary Magdalene Jane",
+            "guide": "Investigations on Client \u2013Side Data Caching Policies for Location Dependent  Data in Mobile Environments",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "31",
+            "thesis_title": "B.Sridevi",
+            "guide": "Study of Similarity Measure of Fuzzy Numbers, Aggregation Operators in Fuzzy Systems and Decision Making",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "32",
+            "thesis_title": "B.Kalpana",
+            "guide": "Efficient Strategies for Mining Frequent Itemsets and the Incremental Mining of Closed Frequent Itemsets Based  on a Lattice Framework",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "33",
+            "thesis_title": "A.Muthukumar",
+            "guide": "Efficient Association Rule Mining Algorithms on Transactional Databases",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "34",
+            "thesis_title": "I.Elzabeth Shanthi",
+            "guide": "Information Retrieval on Object Oriented Databases",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "35",
+            "thesis_title": "L.Robert",
+            "guide": "Random access and Preprocessing Algorithms for Text Data Compression",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "36",
+            "thesis_title": "Yaser Nouh",
+            "guide": "BiTutor \u2013 Bayesian Intelligent Tutoring System",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "37",
+            "thesis_title": "R.Manavalan",
+            "guide": "Certain Investigations on the Impact of Model Driven Architecture on Persistence Service Design",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "38",
+            "thesis_title": "S.Palaniammal",
+            "guide": "A Study on Markovian Queueing Models with Bulk Service and Vacation",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "39",
+            "thesis_title": "B.Suresh",
+            "guide": "Object Oriented Parallel Programming Model on a Network of Workstations",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "40",
+            "thesis_title": "M.I.Afthab Begum",
+            "guide": "Queueing Models with Bulk Service and Vacation",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "41",
+            "thesis_title": "M.R.Sitrarasu",
+            "guide": "Some Markovian Queueing Models with general Bulk Service",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "42",
+            "thesis_title": "Mr.D.Audsin Mohana Dhas",
+            "guide": "Markovian General Bulk Service Queueing Models",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "43",
+            "thesis_title": "D.Saravanakumar",
+            "guide": "Studies on Genralization of pre-opensets and their operation approaches in Topolgical spaces",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "44",
+            "thesis_title": "N.Kalaivani",
+            "guide": "Investigations on generalization of alpha-opensets  and their operationa approaches in Topological spaces",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "45",
+            "thesis_title": "N.Vijaya",
+            "guide": "Studies and Applications of semiopensets in Abstract Cellular Complex",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "46",
+            "thesis_title": "A.Kalavathi",
+            "guide": "Studies on Generalizations of semi open sets and their operation approaces in Soft Topological spaces",
+            "completion_date": "Dr.Sai Sundara Krishnan G"
+        },
+        {
+            "candidate": "47",
+            "thesis_title": "D.Jayaraman",
+            "guide": "Queueing Models with Server's Vacation and General Bulk Service",
+            "completion_date": "Dr.Nadarajan R"
+        },
+        {
+            "candidate": "48",
+            "thesis_title": "D.Gunaseelan",
+            "guide": "Fast Algorithms For Mining Generalized Association Rules And Sequential Patterns In Massive Databases",
+            "completion_date": "Dr.Nadarajan R"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "UG Computer Centre Lab": {
+        "Details" : "The Lab has 60 high end machines configuration Intel i3-3220 @3.30GHz, 8GB RAM DDR3, SATA 500GB HDD, suitable for developing mobile computing applications. The Lab is supported with multimedia projector and wall mount screen.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "M Block 4th floor"
+    },
+    "Computational Sciences Lab": {
+        "Details" : "Department has three labs under Computational Sciences Lab called CSL1, CSL2, and CSL3 each with capacity of 45 Nos, with latest software and hardware and wall mounted screen. All the labs are attached with multimedia projector.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "M Block ground floor"
+    },
+    "Data Science Lab": {
+        "Details" : "Data Science Lab aims to promote the fundamental and applied research on data science. The lab has 42 high end configuration machines suitable for big data infra structures. The lab is attached with multimedia projector and wall mounted screen.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "M Block ground floor"
+    },
+    "Network Science Lab": {
+        "Details" : "Network Science Lab provide tools and technology to students to model real world problems such as virus spreads, protein interactions., etc as networks and to apply the network science concepts to yield interesting insights and results using Python and R. This lab also provides a great platform to do research in the growing fields in Network Science like epidemic models and social network analysis.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "J Block 3rd floor"
+    },
+    "Interactive Intelligent Lab": {
+        "Details" : "Interactive Intelligence Lab is an applied research lab focussing on research problems across allied domains of artificial intelligence, including machine learning, deep learning, computer vision, natural language processing. This lab provides an environment for the students to learn and implement algorithms that have enabled intelligent software agents and motivates students to develop algorithms that would impact the research community.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "J Block 4th floor"
+    },
+    "Object Computing Lab": {
+        "Details" : "Object Computing Lab provides an environment for the students to gain an understanding of the principles of Object Oriented Programming (OOP), and implementing them in languages such as C++, JAVA. It is also intended for learning and applying required design patterns that will enable the students to design and develop real-time object oriented systems.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "K Block 3rd floor"
+    },
+    "Secure Computing Lab": {
+        "Details" : "The Secure Computing Laboratory (SCL) at AMCS Department is to advance the research and education in the areas of computer security and privacy. This lab was established in 2020. The objective of this laboratory is to provide the infrastructure for research and education in various aspects of security in computing. This lab is equipped with 42 high-end configuration computers and smart display board.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "F Block 3rd floor"
+    },
+    "Embedded and IOT Lab": {
+        "Details" : "Embedded and IOT lab is used for exploring multidisciplinary. research related to computer networks, wireless technology etc. This lab enables to transform real time problems and ideas into customized solution with highly interconnected network.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : ""
+    },
+    "Open Source Lab": {
+        "Details" : "Open Source Lab enables students to contribute to the existing open source projects, teaching them valuable coding and project management skills. This lab will also facilitate students and faculty to conduct research in open-source methodologies and their applications.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "M Block 1st floor"
+    },
+    "Software Innovation Lab": {
+        "Details" : "The software innovation lab is a vibrant hub of creativity and learning, preparing students for successful careers in technology. It has 60 high end machines with dual projector facility.",
+        "Staff incharge": "Dr.Senthil Kumaran V",
+        "Location" : "M Block 1st floor"
+    }
+}
